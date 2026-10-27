@@ -1,0 +1,5648 @@
+{
+  "status": "COMPLETED",
+  "started_at": "2026-10-27T14:38:25.308920+08:00",
+  "completed_at": "2026-10-27T14:41:17.156875+08:00",
+  "datasets": {
+    "sim_insertion_scripted": {
+      "ready": true,
+      "task_name": "sim_insertion_scripted",
+      "episode_len": 400,
+      "files": [
+        {
+          "id": 0,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_0.hdf5",
+          "bytes": 368740832,
+          "sha256": "e4399d48547addf00b6906a95d3bf04bd65482833467b0e142779306cb7b6cee",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.599468469619751,
+              "max": 1.2084935903549194
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5984123945236206,
+              "max": 1.1942493915557861
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.719337463378906
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-007.zip",
+              "member": "sim_insertion_scripted/episode_0.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_1.hdf5",
+          "bytes": 368740832,
+          "sha256": "c321b5454b24b1131daa5cfbf2688667131ad8753ea48eb271edd572c0116c35",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5902259349822998,
+              "max": 1.2084739208221436
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5888901948928833,
+              "max": 1.1945186853408813
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.6966071128845215
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-007.zip",
+              "member": "sim_insertion_scripted/episode_1.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_2.hdf5",
+          "bytes": 368740832,
+          "sha256": "6ad11deb39cd49eb7bc1c064cf7e6d7430e9f5d786ebbba6eb000b9fd7659cc6",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.6033709049224854,
+              "max": 1.208500862121582
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.6024402379989624,
+              "max": 1.194432258605957
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.727420330047607
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-009.zip",
+              "member": "sim_insertion_scripted/episode_2.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_3.hdf5",
+          "bytes": 368740832,
+          "sha256": "0b7aa8df87d8691bad3c7904df077282f6f023d47c66c899a035386e3c5b70de",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5845427513122559,
+              "max": 1.2084599733352661
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5830398797988892,
+              "max": 1.197031021118164
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.679543495178223
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-009.zip",
+              "member": "sim_insertion_scripted/episode_3.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_4.hdf5",
+          "bytes": 368740832,
+          "sha256": "1b23aa2b0748d507e94b244cefa58e8e136d98e596aee1a9acf0b20793a79473",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5929718017578125,
+              "max": 1.2084801197052002
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5917351245880127,
+              "max": 1.194389820098877
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.704283237457275
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-007.zip",
+              "member": "sim_insertion_scripted/episode_4.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_5.hdf5",
+          "bytes": 368740832,
+          "sha256": "73ee8b2f2171e4c41142a0bde8936cd11df3fe62e14fece6bd527f53eb7d7244",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.6016161441802979,
+              "max": 1.2084976434707642
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.6006590127944946,
+              "max": 1.1945571899414062
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.723819255828857
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-010.zip",
+              "member": "sim_insertion_scripted/episode_5.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_6.hdf5",
+          "bytes": 368740832,
+          "sha256": "af6f0c7cd44a7dd21c62120c70fa1765462eaae0a0af55176d59bdeef14327f6",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5901609659194946,
+              "max": 1.208473801612854
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5888217687606812,
+              "max": 1.1974412202835083
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.696432113647461
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-001.zip",
+              "member": "sim_insertion_scripted/episode_6.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_7.hdf5",
+          "bytes": 368740832,
+          "sha256": "5cecb623a91db6b3b26616ccfaa6af933172fe12154c7dcf4a322313b71c6b22",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5964102745056152,
+              "max": 1.2084875106811523
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.595268726348877,
+              "max": 1.1943062543869019
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.71262788772583
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-009.zip",
+              "member": "sim_insertion_scripted/episode_7.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_8.hdf5",
+          "bytes": 368740832,
+          "sha256": "d91ba9a90afe44448ba0e433420ec0e099c55a17d232ea60bd00781854b357e2",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5914655923843384,
+              "max": 1.2084767818450928
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5901681184768677,
+              "max": 1.1952518224716187
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.7000956535339355
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-001.zip",
+              "member": "sim_insertion_scripted/episode_8.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_9.hdf5",
+          "bytes": 368740832,
+          "sha256": "36a3c7c7267e0798a4ba10d593d40378fef2159dcf078df80fbc243c1a8a47e6",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5841482877731323,
+              "max": 1.2084590196609497
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5826324224472046,
+              "max": 1.1968294382095337
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.678328514099121
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-004.zip",
+              "member": "sim_insertion_scripted/episode_9.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_10.hdf5",
+          "bytes": 368740832,
+          "sha256": "6f0a5e38969dcda0004ad97bc4953d2bcbd66d0cebc41160f3862fb90da514d8",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.593216061592102,
+              "max": 1.2084805965423584
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5919828414916992,
+              "max": 1.1944290399551392
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.704960823059082
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-002.zip",
+              "member": "sim_insertion_scripted/episode_10.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_11.hdf5",
+          "bytes": 368740832,
+          "sha256": "bb8dfaaee01aade6ce00cf42565d3a038ec9178eba28356bb41f95ad819c24d1",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5891108512878418,
+              "max": 1.2084711790084839
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5877470970153809,
+              "max": 1.1961482763290405
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.6933794021606445
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-005.zip",
+              "member": "sim_insertion_scripted/episode_11.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_12.hdf5",
+          "bytes": 368740832,
+          "sha256": "15ef20e15689bc21f8178331686d6939dd07f4eb8924666ace9148dc0424d468",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.6038793325424194,
+              "max": 1.2085018157958984
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.6029554605484009,
+              "max": 1.1975769996643066
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.728500843048096
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-006.zip",
+              "member": "sim_insertion_scripted/episode_12.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_13.hdf5",
+          "bytes": 368740832,
+          "sha256": "9ce452d30484fc1e1d85d58d45434718ffd4c2bacfe3034d6f2c9111164f2b47",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.6001614332199097,
+              "max": 1.2084949016571045
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5991218090057373,
+              "max": 1.1972321271896362
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.72083854675293
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-003.zip",
+              "member": "sim_insertion_scripted/episode_13.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_14.hdf5",
+          "bytes": 368740832,
+          "sha256": "86e6192f3d01c9e3949545e1c39d55e1302bb14694d443beda657a5d5f7fc873",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5967698097229004,
+              "max": 1.2084882259368896
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5956592559814453,
+              "max": 1.1944736242294312
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.713418006896973
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-005.zip",
+              "member": "sim_insertion_scripted/episode_14.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_15.hdf5",
+          "bytes": 368740832,
+          "sha256": "4463091684e8493f2ea964ba5d15cfe71a61cbb324b8a9460f055b64a171370f",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.601866364479065,
+              "max": 1.2224135398864746
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.600904941558838,
+              "max": 1.2222983837127686
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.724413871765137
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-004.zip",
+              "member": "sim_insertion_scripted/episode_15.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_16.hdf5",
+          "bytes": 368740832,
+          "sha256": "75c6bffd5308f7ea6cd626c9843a52822ab0981853ab9ec4519f73021f15e1da",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.6033588647842407,
+              "max": 1.208500862121582
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.602425217628479,
+              "max": 1.1942696571350098
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.727444648742676
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-003.zip",
+              "member": "sim_insertion_scripted/episode_16.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_17.hdf5",
+          "bytes": 368740832,
+          "sha256": "48f54830953c18ed080129204bb7543dc1e3cd9c4b1506be1a1c18c6d5983298",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5920683145523071,
+              "max": 1.2084780931472778
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.590779185295105,
+              "max": 1.19438898563385
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.701877117156982
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-003.zip",
+              "member": "sim_insertion_scripted/episode_17.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_18.hdf5",
+          "bytes": 368740832,
+          "sha256": "b8884bb9f075629430d513f833d33c0a238fe5db1d46c99d6adfa64f7b27f8a1",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5971847772598267,
+              "max": 1.2084890604019165
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.596082091331482,
+              "max": 1.1961426734924316
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.714351654052734
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-003.zip",
+              "member": "sim_insertion_scripted/episode_18.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_19.hdf5",
+          "bytes": 368740832,
+          "sha256": "106a6317da9bedc0f0bbbe40b276a44551c74cdace8257cc030f95cb10e00df3",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5954750776290894,
+              "max": 1.20848548412323
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.594295859336853,
+              "max": 1.1945229768753052
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.710414886474609
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-005.zip",
+              "member": "sim_insertion_scripted/episode_19.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_20.hdf5",
+          "bytes": 368740832,
+          "sha256": "2055d93cef00da36bc662f8eb5d47872bfe3c2a1d1d2acdf5d1eb7d2c7561db2",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5974078178405762,
+              "max": 1.2084895372390747
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.596308946609497,
+              "max": 1.1945067644119263
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.7148308753967285
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-005.zip",
+              "member": "sim_insertion_scripted/episode_20.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 21,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_21.hdf5",
+          "bytes": 368740832,
+          "sha256": "495ab7ca70e036f63c9699dd4652a9c0b9a4e0b6d0b40a2c64174310fecaf1c1",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.6030120849609375,
+              "max": 1.2085001468658447
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.6020737886428833,
+              "max": 1.194307565689087
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.7267045974731445
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-008.zip",
+              "member": "sim_insertion_scripted/episode_21.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_22.hdf5",
+          "bytes": 368740832,
+          "sha256": "1f073ab5f0e197bca8f3e735df8a691a8f03c7937df705492e95f77604c80ea9",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.594668984413147,
+              "max": 1.2084838151931763
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.593475341796875,
+              "max": 1.1943349838256836
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.708482265472412
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-010.zip",
+              "member": "sim_insertion_scripted/episode_22.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_23.hdf5",
+          "bytes": 368740832,
+          "sha256": "fd2d1d1735fa76db09d88828124234f9a08e8a69941e7e597f8198d99f9df696",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5918141603469849,
+              "max": 1.2084776163101196
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5905194282531738,
+              "max": 1.195308804512024
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.701150894165039
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-009.zip",
+              "member": "sim_insertion_scripted/episode_23.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_24.hdf5",
+          "bytes": 368740832,
+          "sha256": "b414ce3023ca222d52b3b0e6d472b59f23e5d16855e4983a01c2c54b976a4769",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.6002088785171509,
+              "max": 1.2544714212417603
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5991913080215454,
+              "max": 1.2529979944229126
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.720856189727783
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-001.zip",
+              "member": "sim_insertion_scripted/episode_24.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 25,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_25.hdf5",
+          "bytes": 368740832,
+          "sha256": "3685823ccab7c3d898fedd204607af09a9ff609ecbb4226dabc6d1a52ddd0bb6",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.6029911041259766,
+              "max": 1.2085000276565552
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.6020619869232178,
+              "max": 1.1941169500350952
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.726541519165039
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-004.zip",
+              "member": "sim_insertion_scripted/episode_25.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 26,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_26.hdf5",
+          "bytes": 368740832,
+          "sha256": "205d0e9b88dea928910111fa013e773a37fa055a12adfc440d84e2fbad5b6672",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5990996360778809,
+              "max": 1.2084927558898926
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.59804105758667,
+              "max": 1.1964510679244995
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.7184529304504395
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-007.zip",
+              "member": "sim_insertion_scripted/episode_26.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 27,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_27.hdf5",
+          "bytes": 368740832,
+          "sha256": "aac7d633993bc38facaeb579ab75d38c97a2271bf1c427468cb003e443c551a1",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5997700691223145,
+              "max": 1.2084941864013672
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5987199544906616,
+              "max": 1.194357991218567
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.719986915588379
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-010.zip",
+              "member": "sim_insertion_scripted/episode_27.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 28,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_28.hdf5",
+          "bytes": 368740832,
+          "sha256": "552135bc5fc1ec20d509667fc76d065c91c343ed076962666efc3352b74a09ca",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.596727728843689,
+              "max": 1.2084882259368896
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5956138372421265,
+              "max": 1.1943628787994385
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.713365077972412
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-008.zip",
+              "member": "sim_insertion_scripted/episode_28.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 29,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_29.hdf5",
+          "bytes": 368740832,
+          "sha256": "1b7d8738838d09eea8f7e6439425b155fa9e89d28c3e2cd2980d3acb472e5ab6",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.597029447555542,
+              "max": 1.2084887027740479
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5959231853485107,
+              "max": 1.197568655014038
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.713997840881348
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-002.zip",
+              "member": "sim_insertion_scripted/episode_29.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 30,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_30.hdf5",
+          "bytes": 368740832,
+          "sha256": "9690ae3661f12ac41265519450c360d40922346106873a6db5d5febc7ea65403",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.6019647121429443,
+              "max": 1.2084983587265015
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.6010137796401978,
+              "max": 1.194320797920227
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.72452974319458
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-010.zip",
+              "member": "sim_insertion_scripted/episode_30.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 31,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_31.hdf5",
+          "bytes": 368740832,
+          "sha256": "f25d07c71d50fee507021fd5d4845b9f1050203d0635c56f913668167cc1aae3",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5883091688156128,
+              "max": 1.2084693908691406
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5869297981262207,
+              "max": 1.1975730657577515
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.691062927246094
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-005.zip",
+              "member": "sim_insertion_scripted/episode_31.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 32,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_32.hdf5",
+          "bytes": 368740832,
+          "sha256": "6e8046a2c27d7e4605ff3489256cd8a684e50a23a1096d5d1255d675b766ae98",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.6011526584625244,
+              "max": 1.2498058080673218
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.6001893281936646,
+              "max": 1.252015471458435
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.722854137420654
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-008.zip",
+              "member": "sim_insertion_scripted/episode_32.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 33,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_33.hdf5",
+          "bytes": 368740832,
+          "sha256": "0d7084329866c78bcb73f337569813efea4c4e0eb678641531767058d59b2b4d",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5937070846557617,
+              "max": 1.208481788635254
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.592484951019287,
+              "max": 1.1976878643035889
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.7062506675720215
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-004.zip",
+              "member": "sim_insertion_scripted/episode_33.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 34,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_34.hdf5",
+          "bytes": 368740832,
+          "sha256": "bd33278939c7b46dea210accc9b6b6f5d8c89fcdc178f390be57a2d670b55e2b",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.599277138710022,
+              "max": 1.2084929943084717
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5982259511947632,
+              "max": 1.1952446699142456
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.718795299530029
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-003.zip",
+              "member": "sim_insertion_scripted/episode_34.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 35,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_35.hdf5",
+          "bytes": 368740832,
+          "sha256": "03c03dd85435ea558542463dea71b1d96d957fade1f26a6ac37205cde414c232",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5944381952285767,
+              "max": 1.2084832191467285
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.593239188194275,
+              "max": 1.1945325136184692
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.707893371582031
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-008.zip",
+              "member": "sim_insertion_scripted/episode_35.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 36,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_36.hdf5",
+          "bytes": 368740832,
+          "sha256": "d5247446896715ed5f3b22616125f1b7c819c89765c0234615f5538a0a2145e2",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.604706048965454,
+              "max": 1.244758129119873
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.6038596630096436,
+              "max": 1.244990348815918
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.730086326599121
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-002.zip",
+              "member": "sim_insertion_scripted/episode_36.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 37,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_37.hdf5",
+          "bytes": 368740832,
+          "sha256": "23d3feecc60c54c27231522ea39abfa69ae4aece91aafdb2679089f8eca47ad6",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.6045165061950684,
+              "max": 1.2085028886795044
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.603644847869873,
+              "max": 1.1941478252410889
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.729714870452881
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-006.zip",
+              "member": "sim_insertion_scripted/episode_37.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 38,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_38.hdf5",
+          "bytes": 368740832,
+          "sha256": "f0cac5896082a72a4743dd06830856665f1cb0a953b9d3e3e80bfa16adb62c38",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.6029303073883057,
+              "max": 1.2085001468658447
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.6019885540008545,
+              "max": 1.1944193840026855
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.72657585144043
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-002.zip",
+              "member": "sim_insertion_scripted/episode_38.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 39,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_39.hdf5",
+          "bytes": 368740832,
+          "sha256": "f8655046be22e3c85d94c1e96ffefc4a02500e96d7a3fd75274bbce3118d3810",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.596471905708313,
+              "max": 1.208487629890442
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5953364372253418,
+              "max": 1.1943509578704834
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.712773323059082
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-001.zip",
+              "member": "sim_insertion_scripted/episode_39.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 40,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_40.hdf5",
+          "bytes": 368740832,
+          "sha256": "74d6231ff2b51b5c160c69137cfa1e009e710493d369dae1f6b8f714d4d1a572",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.6011340618133545,
+              "max": 1.2084968090057373
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.600166916847229,
+              "max": 1.1943821907043457
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.722850799560547
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-009.zip",
+              "member": "sim_insertion_scripted/episode_40.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 41,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_41.hdf5",
+          "bytes": 368740832,
+          "sha256": "cd37e9d006bb2bf15445e73c8c05f4a569be234be7a6220e959f62499d2a9d23",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.6025031805038452,
+              "max": 1.2441411018371582
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.6015641689300537,
+              "max": 1.245258092880249
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.725605010986328
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-007.zip",
+              "member": "sim_insertion_scripted/episode_41.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 42,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_42.hdf5",
+          "bytes": 368740832,
+          "sha256": "001c4c456f65e4434021d1be091179796c5ab42099a429e9449bec7a18786bd3",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5982112884521484,
+              "max": 1.2084910869598389
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.59712815284729,
+              "max": 1.195152759552002
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.716599941253662
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-006.zip",
+              "member": "sim_insertion_scripted/episode_42.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 43,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_43.hdf5",
+          "bytes": 368740832,
+          "sha256": "0e18a594925e50dbb239fb5af6c378c982228f939ef70c057dfb91718b0926db",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5949757099151611,
+              "max": 1.208484411239624
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5937820672988892,
+              "max": 1.1969554424285889
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.709263324737549
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-002.zip",
+              "member": "sim_insertion_scripted/episode_43.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 44,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_44.hdf5",
+          "bytes": 368740832,
+          "sha256": "7fda367100e64103876de4cf61ebd9774e83ca804dbda5499f6c093bc22c29d5",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5953739881515503,
+              "max": 1.2084851264953613
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.594198226928711,
+              "max": 1.1945369243621826
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.710082530975342
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-004.zip",
+              "member": "sim_insertion_scripted/episode_44.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 45,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_45.hdf5",
+          "bytes": 368740832,
+          "sha256": "741eb95b5b77dacc95c0e6fc716917cc38f52ff5555732c60498a149deadb6b0",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.6013877391815186,
+              "max": 1.2084972858428955
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.6004225015640259,
+              "max": 1.1943589448928833
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.723395824432373
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-001.zip",
+              "member": "sim_insertion_scripted/episode_45.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 46,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_46.hdf5",
+          "bytes": 368740832,
+          "sha256": "1c57ffff24d66a69fb5b7d69c5ee0607bbeade757065ea3f2ee8270e1efad1e6",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5998127460479736,
+              "max": 1.2084941864013672
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5987697839736938,
+              "max": 1.1943604946136475
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.720035076141357
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-006.zip",
+              "member": "sim_insertion_scripted/episode_46.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 47,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_47.hdf5",
+          "bytes": 368740832,
+          "sha256": "60d6e9399e92f2f6b631a22dcd065dc0aefbc9b3098fcda1ab10e472736d2333",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5889766216278076,
+              "max": 1.2084708213806152
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5876120328903198,
+              "max": 1.19754159450531
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.692960262298584
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-010.zip",
+              "member": "sim_insertion_scripted/episode_47.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 48,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_48.hdf5",
+          "bytes": 368740832,
+          "sha256": "35a7ff9e7c8f12409031bc6ca58742d702db046736e82b28cd948f60269724df",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.6005257368087769,
+              "max": 1.2084956169128418
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5995277166366577,
+              "max": 1.1942662000656128
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.721596717834473
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-006.zip",
+              "member": "sim_insertion_scripted/episode_48.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 49,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted/episode_49.hdf5",
+          "bytes": 368740832,
+          "sha256": "2384a1896305a34e5612003f2878faff4108f55b4a22d12c7ee1487e263912f2",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5869299173355103,
+              "max": 1.2084659337997437
+            },
+            "observations/qpos": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.5855016708374023,
+              "max": 1.1949341297149658
+            },
+            "observations/qvel": {
+              "shape": [
+                400,
+                14
+              ],
+              "dtype": "float32",
+              "min": -10.958231925964355,
+              "max": 6.686848163604736
+            },
+            "observations/images/top": {
+              "shape": [
+                400,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_scripted-20261027T060415Z-1-008.zip",
+              "member": "sim_insertion_scripted/episode_49.hdf5"
+            }
+          ]
+        }
+      ],
+      "official_loader": {
+        "passed": true,
+        "split": {
+          "train": [
+            27,
+            35,
+            40,
+            38,
+            2,
+            3,
+            48,
+            29,
+            46,
+            31,
+            32,
+            39,
+            21,
+            36,
+            19,
+            42,
+            49,
+            26,
+            22,
+            13,
+            41,
+            17,
+            45,
+            24,
+            23,
+            4,
+            33,
+            14,
+            30,
+            10,
+            28,
+            44,
+            34,
+            18,
+            20,
+            25,
+            6,
+            7,
+            47,
+            1
+          ],
+          "validation": [
+            16,
+            0,
+            15,
+            5,
+            11,
+            9,
+            8,
+            12,
+            43,
+            37
+          ]
+        },
+        "batch_shapes": {
+          "train": [
+            [
+              8,
+              1,
+              3,
+              480,
+              640
+            ],
+            [
+              8,
+              14
+            ],
+            [
+              8,
+              400,
+              14
+            ],
+            [
+              8,
+              400
+            ]
+          ],
+          "validation": [
+            [
+              8,
+              1,
+              3,
+              480,
+              640
+            ],
+            [
+              8,
+              14
+            ],
+            [
+              8,
+              400,
+              14
+            ],
+            [
+              8,
+              400
+            ]
+          ]
+        },
+        "python": "/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/bin/python",
+        "cuda_visible_devices": "",
+        "normalization_source": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted",
+        "stats_sha256": "4e64dcd123eb05c4a47d8c93cd1a911e4bfc336ee2944c5b1cf494869379e2b6"
+      },
+      "new_files": 50,
+      "reused_files": 0,
+      "archives": 10
+    },
+    "sim_insertion_human": {
+      "ready": true,
+      "task_name": "sim_insertion_human",
+      "episode_len": 500,
+      "files": [
+        {
+          "id": 0,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_0.hdf5",
+          "bytes": 460924944,
+          "sha256": "cc93b2da6af75cf45458c86848cf158e18bcddb6e6e538f667a9480357ed6531",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9587380290031433,
+              "max": 1.1780972480773926
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9599999785423279,
+              "max": 1.1818996667861938
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -2.7727344036102295,
+              "max": 4.081730365753174
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-003.zip",
+              "member": "sim_insertion_human/episode_0.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_1.hdf5",
+          "bytes": 460924944,
+          "sha256": "d257aa2a40872583940cf81a5ed6b50d0a1a2e60f7d1c222af2bdcc288e59e37",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.954136073589325,
+              "max": 1.1596895456314087
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9599999785423279,
+              "max": 1.1617997884750366
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -2.489452600479126,
+              "max": 2.9588520526885986
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-008.zip",
+              "member": "sim_insertion_human/episode_1.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_2.hdf5",
+          "bytes": 460924944,
+          "sha256": "134a1a3c68037ebe1b308e4f040335fa37f3c969445f4e1178be2c6f84e30b94",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9572040438652039,
+              "max": 1.179631233215332
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9599999785423279,
+              "max": 1.1832711696624756
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -2.4313080310821533,
+              "max": 3.8274762630462646
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-006.zip",
+              "member": "sim_insertion_human/episode_2.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_3.hdf5",
+          "bytes": 460924944,
+          "sha256": "d73b7cde196be64daa29ed6f670680d4092e61c99095f40f7d4223b47d60d897",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9725438356399536,
+              "max": 1.1903691291809082
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9631795287132263,
+              "max": 1.1942083835601807
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -2.9679996967315674,
+              "max": 3.3316755294799805
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-002.zip",
+              "member": "sim_insertion_human/episode_3.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_4.hdf5",
+          "bytes": 460924944,
+          "sha256": "e9637089a93730caf06d3e92ade047928d554a5e1194be98204816328de96f27",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9710098505020142,
+              "max": 1.182699203491211
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9704532623291016,
+              "max": 1.1858439445495605
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -3.197385549545288,
+              "max": 3.6218924522399902
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-004.zip",
+              "member": "sim_insertion_human/episode_4.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_5.hdf5",
+          "bytes": 460924944,
+          "sha256": "e9c7b2e7ea618b0ea4c0dd64ad40e8e6d359638fc67a303c48e887a2c6cd02a6",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9526020884513855,
+              "max": 1.1750292778015137
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9599999785423279,
+              "max": 1.175752878189087
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -2.9660463333129883,
+              "max": 3.4965217113494873
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-002.zip",
+              "member": "sim_insertion_human/episode_5.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_6.hdf5",
+          "bytes": 460924944,
+          "sha256": "cd9f2470e6e2a1d13eff770e20504404327a8b5db4c8d6bff2df551dc69c0f25",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9526020884513855,
+              "max": 1.1581555604934692
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9599999785423279,
+              "max": 1.161890983581543
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -3.2923877239227295,
+              "max": 3.5955071449279785
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-007.zip",
+              "member": "sim_insertion_human/episode_6.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_7.hdf5",
+          "bytes": 460924944,
+          "sha256": "8de64f5964c2262bf5b18caea3b2eb94e7cbe7cd0e37d00a01d66cd0d2bfc8b6",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9464661478996277,
+              "max": 1.1581555604934692
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9599999785423279,
+              "max": 1.1607608795166016
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -2.3316330909729004,
+              "max": 3.5262627601623535
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-005.zip",
+              "member": "sim_insertion_human/episode_7.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_8.hdf5",
+          "bytes": 460924944,
+          "sha256": "2a08a02553cd50ac0561465273aabf729e31d72618ba595de13a330fafb79acb",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9480001330375671,
+              "max": 1.1949710845947266
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9599999785423279,
+              "max": 1.1966898441314697
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -2.835630178451538,
+              "max": 3.8949639797210693
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-003.zip",
+              "member": "sim_insertion_human/episode_8.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_9.hdf5",
+          "bytes": 460924944,
+          "sha256": "1ad34b21a47a0e16edbfe6e5621e10dc5e4cbd080d5dacd44f2850f144aa0eca",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9618059992790222,
+              "max": 1.1581555604934692
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9608243107795715,
+              "max": 1.1610393524169922
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -2.234557867050171,
+              "max": 3.649461030960083
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-003.zip",
+              "member": "sim_insertion_human/episode_9.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_10.hdf5",
+          "bytes": 460924944,
+          "sha256": "c828657488bc1a1f4a937d3534e8cf032b4035d2d6b5dc71bd970911bbc1448c",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9572040438652039,
+              "max": 1.1581555604934692
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9599999785423279,
+              "max": 1.1607803106307983
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -2.5077664852142334,
+              "max": 3.1753971576690674
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-004.zip",
+              "member": "sim_insertion_human/episode_10.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_11.hdf5",
+          "bytes": 460924944,
+          "sha256": "08dd12fd3063f27157f79daa90b0c56ceb443bae38434589a09d3ceb3fab1430",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9694758653640747,
+              "max": 1.164291501045227
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9620500206947327,
+              "max": 1.1666781902313232
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -2.080592632293701,
+              "max": 2.9429361820220947
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-005.zip",
+              "member": "sim_insertion_human/episode_11.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_12.hdf5",
+          "bytes": 460924944,
+          "sha256": "952d710c80c02284e110dfa4c17512e8f6b9495b8a01753a42cd915fe858ce09",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9556700587272644,
+              "max": 1.167359471321106
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9599999785423279,
+              "max": 1.1678974628448486
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -2.336447238922119,
+              "max": 2.6423330307006836
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-005.zip",
+              "member": "sim_insertion_human/episode_12.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_13.hdf5",
+          "bytes": 460924944,
+          "sha256": "ee8eff58452c9f55b0bfacd688fc29997996362bba0d4c262943a8c2637fa743",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9602720141410828,
+              "max": 1.211844801902771
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9601517915725708,
+              "max": 1.2157615423202515
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -2.310117244720459,
+              "max": 2.3612992763519287
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-010.zip",
+              "member": "sim_insertion_human/episode_13.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_14.hdf5",
+          "bytes": 460924944,
+          "sha256": "3da317a73a1b1d5359b0fa9f0f2093879baf93b4b56e6441fe261114f647507c",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9602720141410828,
+              "max": 1.1903691291809082
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9601238369941711,
+              "max": 1.1925780773162842
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -2.264617919921875,
+              "max": 3.726839065551758
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-007.zip",
+              "member": "sim_insertion_human/episode_14.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_15.hdf5",
+          "bytes": 460924944,
+          "sha256": "f010566ceef9e672fc758452bada0326619a9b80d67e4ced0e3685863c22bc4b",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.954136073589325,
+              "max": 1.1903691291809082
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9599999785423279,
+              "max": 1.194088101387024
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -2.6660759449005127,
+              "max": 3.1260952949523926
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-003.zip",
+              "member": "sim_insertion_human/episode_15.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_16.hdf5",
+          "bytes": 460924944,
+          "sha256": "fc6143bdc24051ad1bc767ff101b7e14c5ac403143be74f5f8c1207fc43485e0",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9618059992790222,
+              "max": 1.2103108167648315
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9614247679710388,
+              "max": 1.2130800485610962
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -2.3897883892059326,
+              "max": 2.914501428604126
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-011.zip",
+              "member": "sim_insertion_human/episode_16.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_17.hdf5",
+          "bytes": 460924944,
+          "sha256": "9361c696c468f833c045087996fe64b3a7ad7a5cae3d68406dc537dbbf5e7311",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9664078950881958,
+              "max": 1.1658254861831665
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9649960994720459,
+              "max": 1.1695082187652588
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -2.714223623275757,
+              "max": 2.9361839294433594
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-002.zip",
+              "member": "sim_insertion_human/episode_17.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_18.hdf5",
+          "bytes": 460924944,
+          "sha256": "f3627939613ff522efa39492f21d0c67a12b35c11df42f521997f5d7420116d0",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9710098505020142,
+              "max": 1.1704273223876953
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9681318402290344,
+              "max": 1.1735152006149292
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -4.288797855377197,
+              "max": 3.9020907878875732
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-008.zip",
+              "member": "sim_insertion_human/episode_18.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_19.hdf5",
+          "bytes": 460924944,
+          "sha256": "4cf4a258fc1b8683af7c7ebd8e18359cdeeac396d098ad89bd7964a3a2940a27",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9572040438652039,
+              "max": 1.1811652183532715
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9599999785423279,
+              "max": 1.1838270425796509
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -2.5560343265533447,
+              "max": 3.485240936279297
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-006.zip",
+              "member": "sim_insertion_human/episode_19.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_20.hdf5",
+          "bytes": 460924944,
+          "sha256": "e3dceeb151513291f1b70fbdb7f4685678bbf11bc82046b1cb1f3dfcd00c095c",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9556700587272644,
+              "max": 1.1719613075256348
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9599999785423279,
+              "max": 1.1752848625183105
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.8965569734573364,
+              "max": 3.028144359588623
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-006.zip",
+              "member": "sim_insertion_human/episode_20.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 21,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_21.hdf5",
+          "bytes": 460924944,
+          "sha256": "a564c9a2907198aac70688454ff47ed31366f8a298a7303b43379e6ce4eb9822",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9587380290031433,
+              "max": 1.1919031143188477
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9599999785423279,
+              "max": 1.1955925226211548
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -2.5583038330078125,
+              "max": 3.2135839462280273
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-002.zip",
+              "member": "sim_insertion_human/episode_21.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_22.hdf5",
+          "bytes": 460924944,
+          "sha256": "8bf5f275333a8a39d28823ed0ae28d69ce9f72eb9f6c2425f1d602e83b5fd6b6",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9572040438652039,
+              "max": 1.2011070251464844
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9599999785423279,
+              "max": 1.2048665285110474
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -3.330714225769043,
+              "max": 4.736715793609619
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-006.zip",
+              "member": "sim_insertion_human/episode_22.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_23.hdf5",
+          "bytes": 460924944,
+          "sha256": "ca840b371fa2048d744d14a90fc0c8a01aa90660ed63ae6db272025b142b79b3",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9572040438652039,
+              "max": 1.167359471321106
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9599999785423279,
+              "max": 1.1672183275222778
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -3.499345541000366,
+              "max": 4.920443058013916
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-003.zip",
+              "member": "sim_insertion_human/episode_23.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_24.hdf5",
+          "bytes": 460924944,
+          "sha256": "d0a09bbdf1d3a8a3a1373c82005163dbbbabc3cb05345be86b16afd4d4895624",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9556700587272644,
+              "max": 1.1780972480773926
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9599999785423279,
+              "max": 1.181246042251587
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -2.836052179336548,
+              "max": 4.238648891448975
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-004.zip",
+              "member": "sim_insertion_human/episode_24.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 25,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_25.hdf5",
+          "bytes": 460924944,
+          "sha256": "94d53ef0f0a74fe8e363fd715f16ea02bdb3f53a84fd551fa0965f727fa19c1b",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9618059992790222,
+              "max": 1.1750292778015137
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9618290066719055,
+              "max": 1.178739070892334
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -2.831166982650757,
+              "max": 3.8644845485687256
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-012.zip",
+              "member": "sim_insertion_human/episode_25.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 26,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_26.hdf5",
+          "bytes": 460924944,
+          "sha256": "68f6b2d75931bb5bbe869d5f92f42416dfdf550e08998cede7c4a729869eb311",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9832817316055298,
+              "max": 1.1535536050796509
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9743736982345581,
+              "max": 1.159999966621399
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -2.7314376831054688,
+              "max": 3.998739242553711
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-009.zip",
+              "member": "sim_insertion_human/episode_26.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 27,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_27.hdf5",
+          "bytes": 460924944,
+          "sha256": "133c46d69788ec972f488acadf5403725460dba9f789461902f970e826f6094e",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9587380290031433,
+              "max": 1.1888351440429688
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9599999785423279,
+              "max": 1.1920909881591797
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -2.534574031829834,
+              "max": 2.74491286277771
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-001.zip",
+              "member": "sim_insertion_human/episode_27.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 28,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_28.hdf5",
+          "bytes": 460924944,
+          "sha256": "174b4386105366ac50c7787727a8911898edd11da892224ec667efc8f6b4ca6f",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9633399844169617,
+              "max": 1.1596895456314087
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9619284868240356,
+              "max": 1.1617391109466553
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -3.1025772094726562,
+              "max": 3.109578847885132
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-009.zip",
+              "member": "sim_insertion_human/episode_28.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 29,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_29.hdf5",
+          "bytes": 460924944,
+          "sha256": "8b56f5b4522e4a17efd159f92f961a36c401f5f902b7ac1e48832e5960f15ae8",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9403302669525146,
+              "max": 1.1382137537002563
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9599999785423279,
+              "max": 1.159999966621399
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -2.50886869430542,
+              "max": 2.5306460857391357
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-011.zip",
+              "member": "sim_insertion_human/episode_29.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 30,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_30.hdf5",
+          "bytes": 460924944,
+          "sha256": "4a54d8b7db599caaf7cf878aeca163ac3d9c38d0021773ef4d7e12faf4a2a39f",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9572040438652039,
+              "max": 1.1581555604934692
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9599999785423279,
+              "max": 1.1619749069213867
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -2.9873809814453125,
+              "max": 3.1873624324798584
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-011.zip",
+              "member": "sim_insertion_human/episode_30.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 31,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_31.hdf5",
+          "bytes": 460924944,
+          "sha256": "e05b1ce12f40df7e7644b34d5188ca7fe77c70ac0b51b70254724e898e6e9a9f",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9464661478996277,
+              "max": 1.1581555604934692
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9599999785423279,
+              "max": 1.16167151927948
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -3.2649457454681396,
+              "max": 3.472796678543091
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-001.zip",
+              "member": "sim_insertion_human/episode_31.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 32,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_32.hdf5",
+          "bytes": 460924944,
+          "sha256": "b19c972656ace6556587295c82c5eee02032c20de476f00d8395f98a77392875",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9740778207778931,
+              "max": 1.164291501045227
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9643568396568298,
+              "max": 1.1672269105911255
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -2.463559627532959,
+              "max": 2.4515955448150635
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-005.zip",
+              "member": "sim_insertion_human/episode_32.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 33,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_33.hdf5",
+          "bytes": 460924944,
+          "sha256": "1bcb1092d6a997d78d55fec4799f8b7cbc749d0e43cf4d6ed8f3e8104b5bc683",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9756118059158325,
+              "max": 1.1581555604934692
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9740941524505615,
+              "max": 1.161059856414795
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -3.084742546081543,
+              "max": 2.4845216274261475
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-010.zip",
+              "member": "sim_insertion_human/episode_33.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 34,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_34.hdf5",
+          "bytes": 460924944,
+          "sha256": "c7020e17a2bd647bb290bd61251b8c8f9ff5614646668e5e56bbf03b763f15cf",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9940195679664612,
+              "max": 1.1704273223876953
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9905557632446289,
+              "max": 1.1723564863204956
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -2.8381292819976807,
+              "max": 2.815434455871582
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-007.zip",
+              "member": "sim_insertion_human/episode_34.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 35,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_35.hdf5",
+          "bytes": 460924944,
+          "sha256": "70de58d6d79aff7f85779835f472f23751e8dd4fdbea6b48137a325ff2c6bf81",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9648739695549011,
+              "max": 1.182699203491211
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9625735878944397,
+              "max": 1.185538649559021
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -1.834258794784546,
+              "max": 2.651259183883667
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-009.zip",
+              "member": "sim_insertion_human/episode_35.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 36,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_36.hdf5",
+          "bytes": 460924944,
+          "sha256": "c1e97de847564f739adb1e7d44f024900f07b9ea84f50a892ea312dc997b8ecc",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9618059992790222,
+              "max": 1.199573040008545
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9611721634864807,
+              "max": 1.2024346590042114
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -3.64328932762146,
+              "max": 2.8533284664154053
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-008.zip",
+              "member": "sim_insertion_human/episode_36.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 37,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_37.hdf5",
+          "bytes": 460924944,
+          "sha256": "444df5843d3ab4be362e83cfdb296e4ec48ab57ae3a4ef7b1e9881ee557b5326",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9894176125526428,
+              "max": 1.1627575159072876
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9841611385345459,
+              "max": 1.1654853820800781
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -3.0268590450286865,
+              "max": 3.342541456222534
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-006.zip",
+              "member": "sim_insertion_human/episode_37.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 38,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_38.hdf5",
+          "bytes": 460924944,
+          "sha256": "3a4bcf707262a9ef4452e0c49d0b0f1748f6df3329662ee8a2300feb54234daa",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9464661478996277,
+              "max": 1.1704273223876953
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9599999785423279,
+              "max": 1.172122597694397
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -3.5252268314361572,
+              "max": 3.0085384845733643
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-011.zip",
+              "member": "sim_insertion_human/episode_38.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 39,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_39.hdf5",
+          "bytes": 460924944,
+          "sha256": "5d8e42c68ae298402db69472b7a485eefd3bc29bd5cbf8d6405c6bde05b534d2",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9618059992790222,
+              "max": 1.2057089805603027
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9608070850372314,
+              "max": 1.204921841621399
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -2.5363173484802246,
+              "max": 2.9006142616271973
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-004.zip",
+              "member": "sim_insertion_human/episode_39.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 40,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_40.hdf5",
+          "bytes": 460924944,
+          "sha256": "27614fdaac1c0585ae9d9af49a4f1867c4ec2c45e4d527a6844e2493074664b8",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9372622966766357,
+              "max": 1.1535536050796509
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9599999785423279,
+              "max": 1.159999966621399
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -2.419750452041626,
+              "max": 4.87396240234375
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-008.zip",
+              "member": "sim_insertion_human/episode_40.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 41,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_41.hdf5",
+          "bytes": 460924944,
+          "sha256": "ce141a6995d18f2841c47d13156a4ac09e62ce19e35edade2294386a87628273",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9817477464675903,
+              "max": 1.1842331886291504
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.977634608745575,
+              "max": 1.1804206371307373
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -2.2488834857940674,
+              "max": 2.925394296646118
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-010.zip",
+              "member": "sim_insertion_human/episode_41.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 42,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_42.hdf5",
+          "bytes": 460924944,
+          "sha256": "e3fd1d077610249c65c73c88455160703d86e4fe58deec622284fc42745724a4",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9572040438652039,
+              "max": 1.2225826978683472
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9599999785423279,
+              "max": 1.2031160593032837
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -4.423925399780273,
+              "max": 3.232957363128662
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-001.zip",
+              "member": "sim_insertion_human/episode_42.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 43,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_43.hdf5",
+          "bytes": 460924944,
+          "sha256": "169f69695790a475b72d4eb3882aabd47836d9461eac1b69949e4f5d62026c39",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9464661478996277,
+              "max": 1.1550875902175903
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9599999785423279,
+              "max": 1.159999966621399
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -2.637826919555664,
+              "max": 3.7766664028167725
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-005.zip",
+              "member": "sim_insertion_human/episode_43.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 44,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_44.hdf5",
+          "bytes": 460924944,
+          "sha256": "f2d7e4b8ac834b32b3f5f92d2033f1a4ceaa34e942f3e277da170d99e84050fc",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9924855828285217,
+              "max": 1.1734952926635742
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9843701720237732,
+              "max": 1.1772013902664185
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -2.645829677581787,
+              "max": 2.9613640308380127
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-007.zip",
+              "member": "sim_insertion_human/episode_44.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 45,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_45.hdf5",
+          "bytes": 460924944,
+          "sha256": "88210d899ac6ec4f5ab2edf0765b3924e6ef2a8f98b9232dec50c75bf1386275",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9725438356399536,
+              "max": 1.1535536050796509
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9701326489448547,
+              "max": 1.159999966621399
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -2.4304161071777344,
+              "max": 2.9207353591918945
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-001.zip",
+              "member": "sim_insertion_human/episode_45.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 46,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_46.hdf5",
+          "bytes": 460924944,
+          "sha256": "70a33602514a4a95bb3ee9d8595fa71b7de041fa28e6f70ddec46162c7ea4ba7",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9679418802261353,
+              "max": 1.1734952926635742
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9672437906265259,
+              "max": 1.177329659461975
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -2.5052177906036377,
+              "max": 2.9348909854888916
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-010.zip",
+              "member": "sim_insertion_human/episode_46.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 47,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_47.hdf5",
+          "bytes": 460924944,
+          "sha256": "f2fa2f4beccba6c6faba8a77eee20adfa0933942d779dd49d74c74156472ca97",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9602720141410828,
+              "max": 1.196505069732666
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9599999785423279,
+              "max": 1.2001841068267822
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -2.8390331268310547,
+              "max": 3.3274271488189697
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-009.zip",
+              "member": "sim_insertion_human/episode_47.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 48,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_48.hdf5",
+          "bytes": 460924944,
+          "sha256": "bfba8f54c8df89aff48f46dec76cae63b1f023adc6a3424f1fcccb06faf343c6",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9679418802261353,
+              "max": 1.1719613075256348
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9629601240158081,
+              "max": 1.174637794494629
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -2.0399773120880127,
+              "max": 2.9491403102874756
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-001.zip",
+              "member": "sim_insertion_human/episode_48.hdf5"
+            }
+          ]
+        },
+        {
+          "id": 49,
+          "path": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human/episode_49.hdf5",
+          "bytes": 460924944,
+          "sha256": "465b9276d396769e8c5177ac23ac6adb092acab6bda5d2ec7cefa80c6b8cd8dd",
+          "validation": {
+            "sim": true,
+            "action": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9081166386604309,
+              "max": 1.1458836793899536
+            },
+            "observations/qpos": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -0.9599999785423279,
+              "max": 1.159999966621399
+            },
+            "observations/qvel": {
+              "shape": [
+                500,
+                14
+              ],
+              "dtype": "float32",
+              "min": -2.0228636264801025,
+              "max": 4.870363235473633
+            },
+            "observations/images/top": {
+              "shape": [
+                500,
+                480,
+                640,
+                3
+              ],
+              "dtype": "uint8",
+              "min": 0.0,
+              "max": 255.0
+            }
+          },
+          "reused": false,
+          "sources": [
+            {
+              "archive": "sim_insertion_human-20261027T060414Z-1-004.zip",
+              "member": "sim_insertion_human/episode_49.hdf5"
+            }
+          ]
+        }
+      ],
+      "official_loader": {
+        "passed": true,
+        "split": {
+          "train": [
+            27,
+            35,
+            40,
+            38,
+            2,
+            3,
+            48,
+            29,
+            46,
+            31,
+            32,
+            39,
+            21,
+            36,
+            19,
+            42,
+            49,
+            26,
+            22,
+            13,
+            41,
+            17,
+            45,
+            24,
+            23,
+            4,
+            33,
+            14,
+            30,
+            10,
+            28,
+            44,
+            34,
+            18,
+            20,
+            25,
+            6,
+            7,
+            47,
+            1
+          ],
+          "validation": [
+            16,
+            0,
+            15,
+            5,
+            11,
+            9,
+            8,
+            12,
+            43,
+            37
+          ]
+        },
+        "batch_shapes": {
+          "train": [
+            [
+              8,
+              1,
+              3,
+              480,
+              640
+            ],
+            [
+              8,
+              14
+            ],
+            [
+              8,
+              500,
+              14
+            ],
+            [
+              8,
+              500
+            ]
+          ],
+          "validation": [
+            [
+              8,
+              1,
+              3,
+              480,
+              640
+            ],
+            [
+              8,
+              14
+            ],
+            [
+              8,
+              500,
+              14
+            ],
+            [
+              8,
+              500
+            ]
+          ]
+        },
+        "python": "/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/bin/python",
+        "cuda_visible_devices": "",
+        "normalization_source": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human",
+        "stats_sha256": "c9dae4f7c0062d53cb527c0ea4c86469c8cba3dffdc83b02287cccc026fdc35a"
+      },
+      "new_files": 50,
+      "reused_files": 0,
+      "archives": 12
+    }
+  },
+  "archive_bytes_preserved": true,
+  "training_automatically_enabled": false,
+  "stage": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/.insertion_staging_00d2997d275a4d72b154262ef3bb8c2c"
+}

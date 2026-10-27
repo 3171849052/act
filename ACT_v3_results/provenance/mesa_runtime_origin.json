@@ -1,0 +1,5 @@
+{
+  "origin": "Read-only copy of validated V2 sidecar Mesa, independent V3 runtime",
+  "software_renderer": "llvmpipe (LLVM 17.0.6, 256 bits)",
+  "system_or_conda_packages_modified": false
+}

@@ -1,0 +1,5 @@
+{
+  "task_name": "sim_insertion_human",
+  "dataset_dir": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human",
+  "preflight_manifest_sha256": "8345c52e0592a23fca69181531b98da5d92834a29b2b2c29c31b805bb1fbd1be"
+}

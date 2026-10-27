@@ -1,0 +1,709 @@
+{
+  "scripted": {
+    "archives": [
+      {
+        "archive": "sim_insertion_scripted-20261027T060415Z-1-001.zip",
+        "bytes": 52449222,
+        "mtime_ns": 1793081479000000000,
+        "members": [
+          {
+            "name": "sim_insertion_scripted/episode_6.hdf5",
+            "bytes": 368740832,
+            "compressed_bytes": 10582068,
+            "crc32": "96e4ebc6"
+          },
+          {
+            "name": "sim_insertion_scripted/episode_39.hdf5",
+            "bytes": 368740832,
+            "compressed_bytes": 10425960,
+            "crc32": "d15c99cd"
+          },
+          {
+            "name": "sim_insertion_scripted/episode_8.hdf5",
+            "bytes": 368740832,
+            "compressed_bytes": 10486430,
+            "crc32": "f2c57a27"
+          },
+          {
+            "name": "sim_insertion_scripted/episode_45.hdf5",
+            "bytes": 368740832,
+            "compressed_bytes": 10160192,
+            "crc32": "a4b270f9"
+          },
+          {
+            "name": "sim_insertion_scripted/episode_24.hdf5",
+            "bytes": 368740832,
+            "compressed_bytes": 10422414,
+            "crc32": "682eb3d8"
+          }
+        ]
+      },
+      {
+        "archive": "sim_insertion_scripted-20261027T060415Z-1-002.zip",
+        "bytes": 53493922,
+        "mtime_ns": 1793081754000000000,
+        "members": [
+          {
+            "name": "sim_insertion_scripted/episode_43.hdf5",
+            "bytes": 368740832,
+            "compressed_bytes": 10469893,
+            "crc32": "8beb6acb"
+          },
+          {
+            "name": "sim_insertion_scripted/episode_36.hdf5",
+            "bytes": 368740832,
+            "compressed_bytes": 10564266,
+            "crc32": "1093caef"
+          },
+          {
+            "name": "sim_insertion_scripted/episode_29.hdf5",
+            "bytes": 368740832,
+            "compressed_bytes": 10365006,
+            "crc32": "2c5fc954"
+          },
+          {
+            "name": "sim_insertion_scripted/episode_10.hdf5",
+            "bytes": 368740832,
+            "compressed_bytes": 10289423,
+            "crc32": "be489779"
+          },
+          {
+            "name": "sim_insertion_scripted/episode_38.hdf5",
+            "bytes": 368740832,
+            "compressed_bytes": 10317151,
+            "crc32": "f00ae5f6"
+          }
+        ]
+      },
+      {
+        "archive": "sim_insertion_scripted-20261027T060415Z-1-003.zip",
+        "bytes": 53048666,
+        "mtime_ns": 1793081773000000000,
+        "members": [
+          {
+            "name": "sim_insertion_scripted/episode_13.hdf5",
+            "bytes": 368740832,
+            "compressed_bytes": 10793512,
+            "crc32": "eb6c086e"
+          },
+          {
+            "name": "sim_insertion_scripted/episode_17.hdf5",
+            "bytes": 368740832,
+            "compressed_bytes": 10298339,
+            "crc32": "692b722b"
+          },
+          {
+            "name": "sim_insertion_scripted/episode_34.hdf5",
+            "bytes": 368740832,
+            "compressed_bytes": 10927301,
+            "crc32": "d9abc3fb"
+          },
+          {
+            "name": "sim_insertion_scripted/episode_16.hdf5",
+            "bytes": 368740832,
+            "compressed_bytes": 10469947,
+            "crc32": "0dec9f7e"
+          },
+          {
+            "name": "sim_insertion_scripted/episode_18.hdf5",
+            "bytes": 368740832,
+            "compressed_bytes": 10558235,
+            "crc32": "5de1838f"
+          }
+        ]
+      },
+      {
+        "archive": "sim_insertion_scripted-20261027T060415Z-1-004.zip",
+        "bytes": 52196381,
+        "mtime_ns": 1793081661000000000,
+        "members": [
+          {
+            "name": "sim_insertion_scripted/episode_9.hdf5",
+            "bytes": 368740832,
+            "compressed_bytes": 10510497,
+            "crc32": "eec3260f"
+          },
+          {
+            "name": "sim_insertion_scripted/episode_25.hdf5",
+            "bytes": 368740832,
+            "compressed_bytes": 10409846,
+            "crc32": "84def4c4"
+          },
+          {
+            "name": "sim_insertion_scripted/episode_44.hdf5",
+            "bytes": 368740832,
+            "compressed_bytes": 10421956,
+            "crc32": "99d081e8"
+          },
+          {
+            "name": "sim_insertion_scripted/episode_33.hdf5",
+            "bytes": 368740832,
+            "compressed_bytes": 10384391,
+            "crc32": "275b812c"
+          },
+          {
+            "name": "sim_insertion_scripted/episode_15.hdf5",
+            "bytes": 368740832,
+            "compressed_bytes": 10468363,
+            "crc32": "5d0d9fc0"
+          }
+        ]
+      },
+      {
+        "archive": "sim_insertion_scripted-20261027T060415Z-1-005.zip",
+        "bytes": 52914916,
+        "mtime_ns": 1793081791000000000,
+        "members": [
+          {
+            "name": "sim_insertion_scripted/episode_11.hdf5",
+            "bytes": 368740832,
+            "compressed_bytes": 10463456,
+            "crc32": "52b6e0d1"
+          },
+          {
+            "name": "sim_insertion_scripted/episode_20.hdf5",
+            "bytes": 368740832,
+            "compressed_bytes": 10535261,
+            "crc32": "cd3cd0cf"
+          },
+          {
+            "name": "sim_insertion_scripted/episode_19.hdf5",
+            "bytes": 368740832,
+            "compressed_bytes": 10718389,
+            "crc32": "8de22209"
+          },
+          {
+            "name": "sim_insertion_scripted/episode_14.hdf5",
+            "bytes": 368740832,
+            "compressed_bytes": 10599791,
+            "crc32": "4b13ea55"
+          },
+          {
+            "name": "sim_insertion_scripted/episode_31.hdf5",
+            "bytes": 368740832,
+            "compressed_bytes": 10596687,
+            "crc32": "e6cdb65f"
+          }
+        ]
+      },
+      {
+        "archive": "sim_insertion_scripted-20261027T060415Z-1-007.zip",
+        "bytes": 52484495,
+        "mtime_ns": 1793081807000000000,
+        "members": [
+          {
+            "name": "sim_insertion_scripted/episode_26.hdf5",
+            "bytes": 368740832,
+            "compressed_bytes": 10812763,
+            "crc32": "49f05467"
+          },
+          {
+            "name": "sim_insertion_scripted/episode_41.hdf5",
+            "bytes": 368740832,
+            "compressed_bytes": 10709699,
+            "crc32": "275ca289"
+          },
+          {
+            "name": "sim_insertion_scripted/episode_1.hdf5",
+            "bytes": 368740832,
+            "compressed_bytes": 10621053,
+            "crc32": "71ba4c68"
+          },
+          {
+            "name": "sim_insertion_scripted/episode_0.hdf5",
+            "bytes": 368740832,
+            "compressed_bytes": 10079033,
+            "crc32": "072b3fd2"
+          },
+          {
+            "name": "sim_insertion_scripted/episode_4.hdf5",
+            "bytes": 368740832,
+            "compressed_bytes": 10260627,
+            "crc32": "6fc79449"
+          }
+        ]
+      },
+      {
+        "archive": "sim_insertion_scripted-20261027T060415Z-1-009.zip",
+        "bytes": 52634595,
+        "mtime_ns": 1793081432000000000,
+        "members": [
+          {
+            "name": "sim_insertion_scripted/episode_2.hdf5",
+            "bytes": 368740832,
+            "compressed_bytes": 10603392,
+            "crc32": "5f16794d"
+          },
+          {
+            "name": "sim_insertion_scripted/episode_23.hdf5",
+            "bytes": 368740832,
+            "compressed_bytes": 10405959,
+            "crc32": "6feb00ac"
+          },
+          {
+            "name": "sim_insertion_scripted/episode_7.hdf5",
+            "bytes": 368740832,
+            "compressed_bytes": 10257487,
+            "crc32": "6a351a60"
+          },
+          {
+            "name": "sim_insertion_scripted/episode_3.hdf5",
+            "bytes": 368740832,
+            "compressed_bytes": 10823702,
+            "crc32": "4f4592b0"
+          },
+          {
+            "name": "sim_insertion_scripted/episode_40.hdf5",
+            "bytes": 368740832,
+            "compressed_bytes": 10542735,
+            "crc32": "3c739a6a"
+          }
+        ]
+      },
+      {
+        "archive": "sim_insertion_scripted-20261027T060415Z-1-010.zip",
+        "bytes": 52498714,
+        "mtime_ns": 1793081458000000000,
+        "members": [
+          {
+            "name": "sim_insertion_scripted/episode_5.hdf5",
+            "bytes": 368740832,
+            "compressed_bytes": 10340976,
+            "crc32": "11c3797f"
+          },
+          {
+            "name": "sim_insertion_scripted/episode_47.hdf5",
+            "bytes": 368740832,
+            "compressed_bytes": 10861616,
+            "crc32": "edbb8286"
+          },
+          {
+            "name": "sim_insertion_scripted/episode_30.hdf5",
+            "bytes": 368740832,
+            "compressed_bytes": 10467980,
+            "crc32": "5e8bb40b"
+          },
+          {
+            "name": "sim_insertion_scripted/episode_22.hdf5",
+            "bytes": 368740832,
+            "compressed_bytes": 10440674,
+            "crc32": "6090c9cc"
+          },
+          {
+            "name": "sim_insertion_scripted/episode_27.hdf5",
+            "bytes": 368740832,
+            "compressed_bytes": 10386140,
+            "crc32": "9f38c560"
+          }
+        ]
+      }
+    ],
+    "unique_episodes": 40,
+    "missing_ids": [
+      12,
+      21,
+      28,
+      32,
+      35,
+      37,
+      42,
+      46,
+      48,
+      49
+    ],
+    "extra_ids": [],
+    "errors": []
+  },
+  "human": {
+    "archives": [
+      {
+        "archive": "sim_insertion_human-20261027T060414Z-1-001.zip",
+        "bytes": 71699548,
+        "mtime_ns": 1793081686000000000,
+        "members": [
+          {
+            "name": "sim_insertion_human/episode_27.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 13971071,
+            "crc32": "7b256f38"
+          },
+          {
+            "name": "sim_insertion_human/episode_48.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 14052840,
+            "crc32": "ba4326d6"
+          },
+          {
+            "name": "sim_insertion_human/episode_42.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 14783336,
+            "crc32": "a102c4d0"
+          },
+          {
+            "name": "sim_insertion_human/episode_45.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 13962545,
+            "crc32": "8a77809b"
+          },
+          {
+            "name": "sim_insertion_human/episode_31.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 14560544,
+            "crc32": "5afaa21a"
+          }
+        ]
+      },
+      {
+        "archive": "sim_insertion_human-20261027T060414Z-1-002.zip",
+        "bytes": 57930509,
+        "mtime_ns": 1793081590000000000,
+        "members": [
+          {
+            "name": "sim_insertion_human/episode_21.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 14155878,
+            "crc32": "dc04fd23"
+          },
+          {
+            "name": "sim_insertion_human/episode_3.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 14032323,
+            "crc32": "8e276d93"
+          },
+          {
+            "name": "sim_insertion_human/episode_5.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 14132457,
+            "crc32": "cdef4076"
+          },
+          {
+            "name": "sim_insertion_human/episode_17.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 13782780,
+            "crc32": "d8ef0048"
+          }
+        ]
+      },
+      {
+        "archive": "sim_insertion_human-20261027T060414Z-1-003.zip",
+        "bytes": 72305845,
+        "mtime_ns": 1793081709000000000,
+        "members": [
+          {
+            "name": "sim_insertion_human/episode_23.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 14677703,
+            "crc32": "1b30edf6"
+          },
+          {
+            "name": "sim_insertion_human/episode_15.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 14115752,
+            "crc32": "fc0a63ba"
+          },
+          {
+            "name": "sim_insertion_human/episode_9.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 14626815,
+            "crc32": "c5b8fdd0"
+          },
+          {
+            "name": "sim_insertion_human/episode_0.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 14055706,
+            "crc32": "f45b9cbc"
+          },
+          {
+            "name": "sim_insertion_human/episode_8.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 14828609,
+            "crc32": "b8f8ad82"
+          }
+        ]
+      },
+      {
+        "archive": "sim_insertion_human-20261027T060414Z-1-004.zip",
+        "bytes": 70554928,
+        "mtime_ns": 1793081735000000000,
+        "members": [
+          {
+            "name": "sim_insertion_human/episode_24.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 14202548,
+            "crc32": "bae14469"
+          },
+          {
+            "name": "sim_insertion_human/episode_10.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 14423362,
+            "crc32": "707a5412"
+          },
+          {
+            "name": "sim_insertion_human/episode_49.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 14137096,
+            "crc32": "631612cb"
+          },
+          {
+            "name": "sim_insertion_human/episode_4.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 14033513,
+            "crc32": "2b1a338a"
+          },
+          {
+            "name": "sim_insertion_human/episode_39.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 13757141,
+            "crc32": "66548e56"
+          }
+        ]
+      },
+      {
+        "archive": "sim_insertion_human-20261027T060414Z-1-005.zip",
+        "bytes": 71348328,
+        "mtime_ns": 1793081619000000000,
+        "members": [
+          {
+            "name": "sim_insertion_human/episode_12.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 14495871,
+            "crc32": "ee5d3808"
+          },
+          {
+            "name": "sim_insertion_human/episode_32.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 13938605,
+            "crc32": "41f41a88"
+          },
+          {
+            "name": "sim_insertion_human/episode_7.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 14183303,
+            "crc32": "21566fd4"
+          },
+          {
+            "name": "sim_insertion_human/episode_11.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 14370071,
+            "crc32": "2ac49645"
+          },
+          {
+            "name": "sim_insertion_human/episode_43.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 14359210,
+            "crc32": "7c2135c9"
+          }
+        ]
+      },
+      {
+        "archive": "sim_insertion_human-20261027T060414Z-1-006.zip",
+        "bytes": 71648240,
+        "mtime_ns": 1793081644000000000,
+        "members": [
+          {
+            "name": "sim_insertion_human/episode_19.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 14001619,
+            "crc32": "abf57d65"
+          },
+          {
+            "name": "sim_insertion_human/episode_20.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 14620239,
+            "crc32": "f2abbdc7"
+          },
+          {
+            "name": "sim_insertion_human/episode_37.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 14036767,
+            "crc32": "5ddc1f90"
+          },
+          {
+            "name": "sim_insertion_human/episode_2.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 14631799,
+            "crc32": "d7614867"
+          },
+          {
+            "name": "sim_insertion_human/episode_22.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 14356548,
+            "crc32": "d136826c"
+          }
+        ]
+      },
+      {
+        "archive": "sim_insertion_human-20261027T060414Z-1-007.zip",
+        "bytes": 56938643,
+        "mtime_ns": 1793081515000000000,
+        "members": [
+          {
+            "name": "sim_insertion_human/episode_34.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 14552364,
+            "crc32": "b9b711eb"
+          },
+          {
+            "name": "sim_insertion_human/episode_6.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 14251328,
+            "crc32": "592f139a"
+          },
+          {
+            "name": "sim_insertion_human/episode_44.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 13937094,
+            "crc32": "c4ed8439"
+          },
+          {
+            "name": "sim_insertion_human/episode_14.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 14196839,
+            "crc32": "5702c150"
+          }
+        ]
+      },
+      {
+        "archive": "sim_insertion_human-20261027T060414Z-1-008.zip",
+        "bytes": 55733355,
+        "mtime_ns": 1793081532000000000,
+        "members": [
+          {
+            "name": "sim_insertion_human/episode_40.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 13931634,
+            "crc32": "6407fbe1"
+          },
+          {
+            "name": "sim_insertion_human/episode_1.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 14423950,
+            "crc32": "f27fff59"
+          },
+          {
+            "name": "sim_insertion_human/episode_36.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 13632363,
+            "crc32": "721b118b"
+          },
+          {
+            "name": "sim_insertion_human/episode_18.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 13744390,
+            "crc32": "75b3bc35"
+          }
+        ]
+      },
+      {
+        "archive": "sim_insertion_human-20261027T060414Z-1-009.zip",
+        "bytes": 55388841,
+        "mtime_ns": 1793081550000000000,
+        "members": [
+          {
+            "name": "sim_insertion_human/episode_28.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 13545044,
+            "crc32": "af91d3ab"
+          },
+          {
+            "name": "sim_insertion_human/episode_47.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 14120991,
+            "crc32": "693716a7"
+          },
+          {
+            "name": "sim_insertion_human/episode_26.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 13896983,
+            "crc32": "72e75670"
+          },
+          {
+            "name": "sim_insertion_human/episode_35.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 13824801,
+            "crc32": "cdf7b102"
+          }
+        ]
+      },
+      {
+        "archive": "sim_insertion_human-20261027T060414Z-1-010.zip",
+        "bytes": 57292696,
+        "mtime_ns": 1793081498000000000,
+        "members": [
+          {
+            "name": "sim_insertion_human/episode_13.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 14108494,
+            "crc32": "bac7749c"
+          },
+          {
+            "name": "sim_insertion_human/episode_33.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 13681643,
+            "crc32": "e165f0ab"
+          },
+          {
+            "name": "sim_insertion_human/episode_41.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 15373144,
+            "crc32": "6aacaf85"
+          },
+          {
+            "name": "sim_insertion_human/episode_46.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 14128393,
+            "crc32": "a8acf23c"
+          }
+        ]
+      },
+      {
+        "archive": "sim_insertion_human-20261027T060414Z-1-011.zip",
+        "bytes": 55472645,
+        "mtime_ns": 1793081567000000000,
+        "members": [
+          {
+            "name": "sim_insertion_human/episode_29.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 13981732,
+            "crc32": "e2d4e977"
+          },
+          {
+            "name": "sim_insertion_human/episode_38.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 13904497,
+            "crc32": "387a95ba"
+          },
+          {
+            "name": "sim_insertion_human/episode_30.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 13532392,
+            "crc32": "2a339bea"
+          },
+          {
+            "name": "sim_insertion_human/episode_16.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 14053002,
+            "crc32": "956fc596"
+          }
+        ]
+      },
+      {
+        "archive": "sim_insertion_human-20261027T060414Z-1-012.zip",
+        "bytes": 14134909,
+        "mtime_ns": 1793081595000000000,
+        "members": [
+          {
+            "name": "sim_insertion_human/episode_25.hdf5",
+            "bytes": 460924944,
+            "compressed_bytes": 14134637,
+            "crc32": "3fbb1c5c"
+          }
+        ]
+      }
+    ],
+    "unique_episodes": 50,
+    "missing_ids": [],
+    "extra_ids": [],
+    "errors": []
+  }
+}

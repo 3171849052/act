@@ -1,0 +1,5 @@
+{
+  "task_name": "sim_transfer_cube_human",
+  "dataset_dir": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_transfer_cube_human",
+  "preflight_manifest_sha256": "4f4129df2a604e10b04ab9bf5196f2334d77a81368ebdaf3e0435c078f43fbb8"
+}

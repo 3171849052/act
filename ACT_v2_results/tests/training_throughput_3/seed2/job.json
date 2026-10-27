@@ -1,0 +1,30 @@
+{
+  "label": "benchmark_c3_s2",
+  "status": "SUCCEEDED",
+  "pid": 2155127,
+  "command": [
+    "/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/bin/python",
+    "-u",
+    "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/scripts/worker.py",
+    "--phase",
+    "train",
+    "--output",
+    "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/tests/training_throughput_3/seed2",
+    "--chunk",
+    "100",
+    "--seed",
+    "2",
+    "--epochs",
+    "30",
+    "--gate",
+    "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/tests/training_throughput_3/start.gate"
+  ],
+  "directory": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/tests/training_throughput_3/seed2",
+  "started_at": "2026-10-27T11:29:48.342094+08:00",
+  "start_timestamp": 1793071788.342137,
+  "start_monotonic": 4126892.911991618,
+  "exit_code": 0,
+  "ended_at": "2026-10-27T11:30:43.541272+08:00",
+  "end_timestamp": 1793071843.5412834,
+  "elapsed_seconds": 55.19914025999606
+}

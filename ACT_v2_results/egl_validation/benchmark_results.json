@@ -1,0 +1,159 @@
+{
+  "status": "blocked",
+  "nvidia_gpu_enabled": false,
+  "speedup_top_render": null,
+  "physics_comparison": null,
+  "image_comparison": null,
+  "egl": {
+    "passed": false,
+    "exit_code": 1,
+    "details": {
+      "passed": false,
+      "backend": "egl",
+      "stage": "preflight",
+      "repeats": 3,
+      "steps_per_repeat": 5,
+      "fixed_box_pose": [
+        0.15,
+        0.5,
+        0.05,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "camera": "top",
+      "image_shape": [
+        480,
+        640,
+        3
+      ],
+      "image_channels": "RGB",
+      "timing_note": "reset/step include original ACT top,angle,vis observations; render is one additional top frame; warmup excluded",
+      "error": "Traceback (most recent call last):\n  File \"/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/egl_validation/test_transfer_cube_egl.py\", line 39, in main\n    raise RuntimeError('BLOCKED: NVIDIA EGL probe has not passed; no Transfer Cube GPU run attempted')\nRuntimeError: BLOCKED: NVIDIA EGL probe has not passed; no Transfer Cube GPU run attempted\n"
+    }
+  },
+  "measurement": "3 repeats x 5 steps, after 2 warmup resets x 2 steps; unmodified ACT all-camera reset/step; standalone render measures top 480x640 RGB",
+  "osmesa": {
+    "passed": true,
+    "backend": "osmesa",
+    "stage": "complete",
+    "repeats": 3,
+    "steps_per_repeat": 5,
+    "fixed_box_pose": [
+      0.15,
+      0.5,
+      0.05,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "camera": "top",
+    "image_shape": [
+      480,
+      640,
+      3
+    ],
+    "image_channels": "RGB",
+    "timing_note": "reset/step include original ACT top,angle,vis observations; render is one additional top frame; warmup excluded",
+    "gl_identity": {
+      "GL_VENDOR": "Mesa/X.org",
+      "GL_RENDERER": "softpipe",
+      "GL_VERSION": "3.3 (Compatibility Profile) Mesa 21.2.5",
+      "gl_error": 0,
+      "context_class": "dm_control._render.pyopengl.osmesa_renderer.OSMesaContext"
+    },
+    "actions_valid": true,
+    "measured_wall_seconds": 44.490523752290756,
+    "gl_identity_after": {
+      "GL_VENDOR": "Mesa/X.org",
+      "GL_RENDERER": "softpipe",
+      "GL_VERSION": "3.3 (Compatibility Profile) Mesa 21.2.5",
+      "gl_error": 0,
+      "context_class": "dm_control._render.pyopengl.osmesa_renderer.OSMesaContext"
+    },
+    "mujoco_warning_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "timings_seconds": {
+      "reset": [
+        1.9092335388995707,
+        1.9079476678743958,
+        1.9073967202566564
+      ],
+      "step": [
+        1.9502881839871407,
+        1.9059629472903907,
+        1.920520936138928,
+        1.906352206133306,
+        1.915785226970911,
+        1.905896032229066,
+        1.915271257981658,
+        1.920058649033308,
+        1.9085180088877678,
+        1.914237691089511,
+        1.9128686860203743,
+        1.904789024963975,
+        1.9051573239266872,
+        1.902143184095621,
+        1.914657881949097
+      ],
+      "render_top": [
+        0.6491933390498161,
+        0.6513989409431815,
+        0.6444585979916155,
+        0.6437372509390116,
+        0.6592510370537639,
+        0.6495544700883329,
+        0.6491946480236948,
+        0.6497348789125681,
+        0.644906320143491,
+        0.6432981439866126,
+        0.6471230401657522,
+        0.639961380045861,
+        0.6410116236656904,
+        0.6449698409996927,
+        0.6541206669062376
+      ]
+    },
+    "statistics": {
+      "reset": {
+        "mean_seconds": 1.908192642343541,
+        "std_seconds": 0.0007696254715288839,
+        "min_seconds": 1.9073967202566564,
+        "max_seconds": 1.9092335388995707,
+        "samples": 3
+      },
+      "step": {
+        "mean_seconds": 1.9135004827131827,
+        "std_seconds": 0.011317597600976824,
+        "min_seconds": 1.902143184095621,
+        "max_seconds": 1.9502881839871407,
+        "samples": 15
+      },
+      "render_top": {
+        "mean_seconds": 0.6474609452610215,
+        "std_seconds": 0.0049350347587469425,
+        "min_seconds": 0.639961380045861,
+        "max_seconds": 0.6592510370537639,
+        "samples": 15
+      }
+    },
+    "throughput": {
+      "steps_per_wall_second": 0.33715044766645774,
+      "env_steps_per_second": 0.5226024289171247,
+      "top_renders_per_second": 1.5444947024516726
+    },
+    "captured_frames": 18,
+    "context_released": true
+  },
+  "reason": "Both NVIDIA EGL and OSMesa must pass before comparisons or speedup exist"
+}

@@ -1,0 +1,16 @@
+{
+  "task_name": "sim_transfer_cube_human",
+  "training_epochs": 2000,
+  "evaluation_episodes": 50,
+  "success_rate": 0.58,
+  "model_artifacts": {
+    "epochs": 2000,
+    "task_name": "sim_transfer_cube_human",
+    "best_epoch": 1970,
+    "best_validation_loss": 0.13779562711715698,
+    "checkpoint_sha256": "f7d003bc55af3ff9e1cad24186da7ac3a235c4303ae6de720e1b16f0ee45014d",
+    "stats_sha256": "e63cfef8d65b96569fbe351139395c8eabd18f7b2405af872460a01cce80d161"
+  },
+  "completed_at": "2026-10-27T16:56:47.486734+08:00",
+  "note": "Task-level completion only; not the all-three-task V3 finish marker"
+}

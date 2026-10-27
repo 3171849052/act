@@ -1,0 +1,12 @@
+
+Success rate: 1.0
+Average return: 592.0
+
+Reward >= 0: 1/1 = 100.0%
+Reward >= 1: 1/1 = 100.0%
+Reward >= 2: 1/1 = 100.0%
+Reward >= 3: 1/1 = 100.0%
+Reward >= 4: 1/1 = 100.0%
+[592]
+
+[4]

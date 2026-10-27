@@ -1,0 +1,9 @@
+{
+  "pid": 2793330,
+  "started_at": "2026-10-27T14:38:24.944093+08:00",
+  "python": "/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/bin/python",
+  "cuda_visible_devices": "",
+  "priority": "nice=15, ionice=idle",
+  "source_archives": "data/sim_insertion_*.zip",
+  "automatic_training": false
+}

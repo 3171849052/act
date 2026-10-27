@@ -1,0 +1,8 @@
+{
+  "train_parallel": 1,
+  "eval_parallel": 2,
+  "evaluations_during_training": 2,
+  "updated_at": "2026-10-27T13:25:47.975473+08:00",
+  "reason": "Single seed: only k400_seed0 training remains; overlap two selected seed-0 evaluations to shorten wall time",
+  "tuning_report": "reports/live_parallel_tuning.json"
+}

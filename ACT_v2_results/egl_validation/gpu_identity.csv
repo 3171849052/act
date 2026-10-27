@@ -1,0 +1,4 @@
+$ ['nvidia-smi', '--query-gpu=index,uuid,name,driver_version,memory.total,pci.bus_id', '--format=csv']
+exit_code=0
+index, uuid, name, driver_version, memory.total [MiB], pci.bus_id
+0, GPU-13c992de-1d74-d12c-bd2b-9e4b8e09d6b3, NVIDIA A800 80GB PCIe, 595.45.04, 81920 MiB, 00000000:A4:00.0

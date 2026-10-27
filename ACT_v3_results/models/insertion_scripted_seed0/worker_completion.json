@@ -1,0 +1,12 @@
+{
+  "completed": true,
+  "ended_at": "2026-10-27T15:49:47.329440+08:00",
+  "artifacts": {
+    "epochs": 2000,
+    "task_name": "sim_insertion_scripted",
+    "best_epoch": 1646,
+    "best_validation_loss": 0.04322348162531853,
+    "checkpoint_sha256": "8199924c70f6b7c731d3d5368ea7d42f494b272cd9a25493616383657ee9f92c",
+    "stats_sha256": "4e64dcd123eb05c4a47d8c93cd1a911e4bfc336ee2944c5b1cf494869379e2b6"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "results": [
+    {
+      "concurrency": 1,
+      "epochs_per_process": 30,
+      "wall_seconds": 35.69022964686155,
+      "all_processes_succeeded": true,
+      "directories": [
+        "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/tests/training_throughput_1/seed0"
+      ],
+      "total_epochs_per_wall_second": 0.8405661800676609,
+      "steady_overlap_seconds": 20.174712819047272,
+      "steady_completed_epochs": 25,
+      "steady_total_epochs_per_wall_second": 1.239175012017871,
+      "mean_epoch_seconds_by_worker": [
+        0.7973032084666193
+      ]
+    },
+    {
+      "concurrency": 2,
+      "epochs_per_process": 30,
+      "wall_seconds": 35.45698103075847,
+      "all_processes_succeeded": true,
+      "directories": [
+        "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/tests/training_throughput_2/seed0",
+        "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/tests/training_throughput_2/seed1"
+      ],
+      "total_epochs_per_wall_second": 1.6921914459652043,
+      "steady_overlap_seconds": 22.860362905077636,
+      "steady_completed_epochs": 48,
+      "steady_total_epochs_per_wall_second": 2.09970419976747,
+      "mean_epoch_seconds_by_worker": [
+        0.9115897415578366,
+        0.919663837775588
+      ]
+    },
+    {
+      "concurrency": 3,
+      "epochs_per_process": 30,
+      "wall_seconds": 51.15557937603444,
+      "all_processes_succeeded": true,
+      "directories": [
+        "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/tests/training_throughput_3/seed0",
+        "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/tests/training_throughput_3/seed1",
+        "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/tests/training_throughput_3/seed2"
+      ],
+      "total_epochs_per_wall_second": 1.75933888537217,
+      "steady_overlap_seconds": 34.83206326980144,
+      "steady_completed_epochs": 71,
+      "steady_total_epochs_per_wall_second": 2.03835183262185,
+      "mean_epoch_seconds_by_worker": [
+        1.4265652865357696,
+        1.3969971237145364,
+        1.4053953381441533
+      ]
+    }
+  ],
+  "status": "complete",
+  "selected_concurrency": 2,
+  "selection": "Highest measured steady overlapping completed epochs per wall second; full wall throughput also recorded",
+  "estimated_training_hours": 2.381287802612254,
+  "note": "Estimate excludes checkpoint I/O, validation at completion, retries, and evaluation"
+}

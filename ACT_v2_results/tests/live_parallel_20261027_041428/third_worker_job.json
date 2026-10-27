@@ -1,0 +1,22 @@
+{
+  "pid": 2329770,
+  "command": [
+    "/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/bin/python",
+    "-u",
+    "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/scripts/worker.py",
+    "--phase",
+    "train",
+    "--output",
+    "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/tests/live_parallel_20261027_041428/third_worker",
+    "--chunk",
+    "100",
+    "--seed",
+    "2",
+    "--epochs",
+    "100",
+    "--gate",
+    "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/tests/live_parallel_20261027_041428/start.gate"
+  ],
+  "started_at": "2026-10-27T12:15:59.718892+08:00",
+  "formal_model": false
+}

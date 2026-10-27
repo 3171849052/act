@@ -1,0 +1,34 @@
+{
+  "task": {
+    "name": "insertion_scripted_seed0",
+    "task_name": "sim_insertion_scripted",
+    "paper_success_rate": 0.32,
+    "dataset_dir": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted",
+    "num_episodes": 50,
+    "episode_len": 400,
+    "camera_names": [
+      "top"
+    ]
+  },
+  "training": {
+    "policy_class": "ACT",
+    "chunk_size": 100,
+    "kl_weight": 10,
+    "hidden_dim": 512,
+    "dim_feedforward": 3200,
+    "batch_size": 8,
+    "lr": 1e-05,
+    "num_epochs": 2000,
+    "seed": 0,
+    "backbone": "resnet18",
+    "camera_names": [
+      "top"
+    ]
+  },
+  "evaluation": {
+    "episodes": 50,
+    "temporal_agg": true,
+    "seed": 1000,
+    "backend": "osmesa"
+  }
+}

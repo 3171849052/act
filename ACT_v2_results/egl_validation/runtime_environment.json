@@ -1,0 +1,56 @@
+{
+  "environment": {
+    "NVIDIA_VISIBLE_DEVICES": "all",
+    "NVIDIA_REQUIRE_CUDA": "cuda>=9.0",
+    "CUDA_CACHE_DISABLE": "1",
+    "TORCH_CUDA_ARCH_LIST": "7.5 8.0 8.6 9.0 10.0 12.0+PTX",
+    "NVIDIA_DRIVER_CAPABILITIES": "compute,utility,video",
+    "NVIDIA_PRODUCT_NAME": "PyTorch",
+    "LD_LIBRARY_PATH": "/usr/local/lib/python3.12/dist-packages/torch/lib:/usr/local/lib/python3.12/dist-packages/torch_tensorrt/lib:/usr/local/cuda/compat/lib:/usr/local/nvidia/lib:/usr/local/nvidia/lib64",
+    "_CUDA_COMPAT_PATH": "/usr/local/cuda/compat",
+    "CUDA_HOME": "/usr/local/cuda",
+    "CUDA_MODULE_LOADING": "LAZY",
+    "NVIDIA_REQUIRE_JETPACK_HOST_MOUNTS": ""
+  },
+  "uid": 11519,
+  "gid": 9137,
+  "markers": {
+    "/.dockerenv": false,
+    "/run/.containerenv": false,
+    "/var/run/docker.sock": false,
+    "/run/podman/podman.sock": false,
+    "/dev/dri": false
+  },
+  "commands": {
+    "docker": null,
+    "podman": null,
+    "apptainer": null,
+    "singularity": null,
+    "nvidia-container-cli": null,
+    "kubectl": null,
+    "ctr": null,
+    "crictl": null
+  },
+  "devices": {
+    "/dev/nvidia7": {
+      "readable": true,
+      "writable": true,
+      "realpath": "/dev/nvidia7"
+    },
+    "/dev/nvidia-uvm-tools": {
+      "readable": true,
+      "writable": true,
+      "realpath": "/dev/nvidia-uvm-tools"
+    },
+    "/dev/nvidia-uvm": {
+      "readable": true,
+      "writable": true,
+      "realpath": "/dev/nvidia-uvm"
+    },
+    "/dev/nvidiactl": {
+      "readable": true,
+      "writable": true,
+      "realpath": "/dev/nvidiactl"
+    }
+  }
+}

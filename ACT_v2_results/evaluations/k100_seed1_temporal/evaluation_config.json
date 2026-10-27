@@ -1,0 +1,52 @@
+{
+  "eval": true,
+  "onscreen_render": false,
+  "ckpt_dir": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/evaluations/k100_seed1_temporal",
+  "policy_class": "ACT",
+  "task_name": "sim_transfer_cube_scripted",
+  "batch_size": 8,
+  "seed": 1,
+  "num_epochs": 2000,
+  "lr": 1e-05,
+  "kl_weight": 10,
+  "chunk_size": 100,
+  "hidden_dim": 512,
+  "dim_feedforward": 3200,
+  "temporal_agg": true,
+  "python": "/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/bin/python",
+  "git_commit": "bec6795c25dff6ddee5465bbfbe91db59ffdcc5b",
+  "upstream_commit": "742c753c0d4a5d87076c8f69e5628c79a8cc5488",
+  "source_manifest": "3918230a7875bbd7f67392df07c3b918ebdecf50641b6efc7f95f07c958d3a23",
+  "split_seed": 1,
+  "camera_names": [
+    "top"
+  ],
+  "backbone": "resnet18",
+  "torch_threads": 1,
+  "amp": false,
+  "backend": "osmesa",
+  "renderer": "llvmpipe",
+  "environment": {
+    "MUJOCO_GL": "osmesa",
+    "PYOPENGL_PLATFORM": "osmesa",
+    "LD_LIBRARY_PATH": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/anaconda3/envs/act-repro/lib/python3.8/site-packages/cv2/../../lib64:/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/runtime/mesa/usr/lib/x86_64-linux-gnu:/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/lib/act-graphics",
+    "GALLIUM_DRIVER": "llvmpipe",
+    "LP_NUM_THREADS": "2",
+    "OMP_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1"
+  },
+  "initialization": {
+    "e1_checkpoint_loaded": false,
+    "policy": "fresh official ACT initialization",
+    "backbone": "official ImageNet-pretrained ResNet18"
+  },
+  "started_at": "2026-10-27T13:20:40.731680+08:00",
+  "pretrained_backbone_sha256": "f37072fd47e89c5e827621c5baffa7500819f7896bbacec160b1a16c560e07ec",
+  "eval_seed": 1000,
+  "episodes": 50,
+  "steps_per_episode": 400,
+  "temporal_aggregation": true,
+  "video_selection": "First actual success and first actual failure, at most two; absence of a class recorded",
+  "checkpoint_sha256": "40205d5a1958cf27a2ea80039851ace8e95d38fa77a00f795e3e40e42486c8e9",
+  "stats_sha256": "0780cc6244e3e039a3ffb28f2233cbbf348a8e18f24740909788617b4181cdcd"
+}

@@ -1,0 +1,16 @@
+{
+  "selected": {
+    "success": {
+      "episode": 0,
+      "path": "video0.mp4",
+      "selection": "first success"
+    },
+    "failure": {
+      "episode": 47,
+      "path": "video47.mp4",
+      "selection": "first failure"
+    }
+  },
+  "missing_classes": [],
+  "note": "All 50 episodes determine success rate; videos are illustrative only"
+}

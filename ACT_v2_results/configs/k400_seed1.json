@@ -1,0 +1,142 @@
+{
+  "command_line": {
+    "eval": false,
+    "onscreen_render": false,
+    "ckpt_dir": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/models/k400_seed1",
+    "policy_class": "ACT",
+    "task_name": "sim_transfer_cube_scripted",
+    "batch_size": 8,
+    "seed": 1,
+    "num_epochs": 2000,
+    "lr": 1e-05,
+    "kl_weight": 10,
+    "chunk_size": 400,
+    "hidden_dim": 512,
+    "dim_feedforward": 3200,
+    "temporal_agg": false
+  },
+  "policy_config": {
+    "lr": 1e-05,
+    "num_queries": 400,
+    "kl_weight": 10,
+    "hidden_dim": 512,
+    "dim_feedforward": 3200,
+    "lr_backbone": 1e-05,
+    "backbone": "resnet18",
+    "enc_layers": 4,
+    "dec_layers": 7,
+    "nheads": 8,
+    "camera_names": [
+      "top"
+    ]
+  },
+  "model_defaults": {
+    "dropout": 0.1,
+    "latent_dim": 32,
+    "position_embedding": "sine",
+    "pre_norm": false,
+    "dilation": false,
+    "state_dim": 14,
+    "pretrained_resnet18": true,
+    "frozen_batch_norm": true
+  },
+  "optimizer": {
+    "name": "torch.optim.AdamW",
+    "lr": 1e-05,
+    "lr_backbone": 1e-05,
+    "weight_decay": 0.0001,
+    "betas": [
+      0.9,
+      0.999
+    ],
+    "eps": 1e-08,
+    "amsgrad": false,
+    "gradient_clipping": false,
+    "lr_scheduler": null
+  },
+  "data": {
+    "episodes": 50,
+    "episode_len": 400,
+    "batch_size_train": 8,
+    "batch_size_validation": 8,
+    "split_seed": 1,
+    "split": {
+      "train": [
+        27,
+        35,
+        40,
+        38,
+        2,
+        3,
+        48,
+        29,
+        46,
+        31,
+        32,
+        39,
+        21,
+        36,
+        19,
+        42,
+        49,
+        26,
+        22,
+        13,
+        41,
+        17,
+        45,
+        24,
+        23,
+        4,
+        33,
+        14,
+        30,
+        10,
+        28,
+        44,
+        34,
+        18,
+        20,
+        25,
+        6,
+        7,
+        47,
+        1
+      ],
+      "validation": [
+        16,
+        0,
+        15,
+        5,
+        11,
+        9,
+        8,
+        12,
+        43,
+        37
+      ]
+    },
+    "official_normalization_scope": "all 50 trajectories",
+    "num_workers": 1,
+    "prefetch_factor": 1,
+    "shuffle_train": true,
+    "shuffle_validation": true
+  },
+  "precision": {
+    "amp": false,
+    "model_parameters": "float32",
+    "torch_threads": 1,
+    "no_TF32_override": true
+  },
+  "initialization": {
+    "load_E1_weights": false,
+    "fresh_ACT_parameters": true,
+    "official_ImageNet_backbone": true
+  },
+  "provenance": {
+    "git_commit": "bec6795c25dff6ddee5465bbfbe91db59ffdcc5b",
+    "upstream_commit": "742c753c0d4a5d87076c8f69e5628c79a8cc5488",
+    "source_manifest_sha256": "3918230a7875bbd7f67392df07c3b918ebdecf50641b6efc7f95f07c958d3a23"
+  },
+  "note": "Fixed plan from audited official source; actual paths, timestamps, initial embedding digest and runtime environment are recorded in each training_config.json"
+}

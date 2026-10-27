@@ -1,0 +1,58 @@
+{
+  "passed": true,
+  "renderer": "softpipe",
+  "time": "2026-10-27T11:22:22.499701+08:00",
+  "poses": [
+    [
+      0.03,
+      0.42,
+      0.05,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.17,
+      0.58,
+      0.05,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  ],
+  "steps": 5,
+  "comparisons": [
+    {
+      "pose": 0,
+      "observations": 6,
+      "pixels_physics_rewards_numpy_python_torch_rng_exact": true
+    },
+    {
+      "pose": 1,
+      "observations": 6,
+      "pixels_physics_rewards_numpy_python_torch_rng_exact": true
+    }
+  ],
+  "gl_identity": {
+    "GL_VENDOR": "Mesa/X.org",
+    "GL_RENDERER": "softpipe",
+    "GL_VERSION": "3.3 (Compatibility Profile) Mesa 21.2.5",
+    "gl_error": 0,
+    "context_class": "dm_control._render.pyopengl.osmesa_renderer.OSMesaContext"
+  },
+  "timings_seconds": {
+    "all_cameras": [
+      11.52134796557948,
+      11.530472583137453
+    ],
+    "top_only": [
+      3.908233815804124,
+      3.9039811827242374
+    ]
+  },
+  "camera_filter_speedup": 2.9507406738113784,
+  "mean_top_step_seconds": 0.6510179165440301,
+  "context_released": true
+}

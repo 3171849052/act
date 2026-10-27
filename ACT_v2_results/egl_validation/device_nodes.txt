@@ -1,0 +1,7 @@
+$ ['bash', '-c', 'ls -l /dev/nvidia* /dev/dri/*']
+exit_code=2
+ls: cannot access '/dev/dri/*': No such file or directory
+crw-rw-rw- 1 root root 505,   0 Sep  9 09:11 /dev/nvidia-uvm
+crw-rw-rw- 1 root root 505,   1 Sep  9 09:11 /dev/nvidia-uvm-tools
+crw-rw-rw- 1 root root 195,   7 Sep  9 09:09 /dev/nvidia7
+crw-rw-rw- 1 root root 195, 255 Sep  9 09:09 /dev/nvidiactl

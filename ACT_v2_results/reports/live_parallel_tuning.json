@@ -1,0 +1,30 @@
+{
+  "status": "completed",
+  "completed_at": "2026-10-27T12:18:35.485083+08:00",
+  "baseline": {
+    "window_seconds": 91.08270233962685,
+    "workers": {
+      "k100_seed2": 102,
+      "k1_seed0": 102
+    },
+    "total_epochs_per_second": 2.2397227438348284
+  },
+  "directory": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/tests/live_parallel_20261027_041428",
+  "third_worker_exit_code": 0,
+  "formal_model_directories": {
+    "k100_seed2": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/models/k100_seed2",
+    "k1_seed0": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/models/k1_seed0"
+  },
+  "note": "Live workload contains k100 and k1; third k100 worker is a separate 100-epoch test, excluded from formal results",
+  "three_workers": {
+    "window_seconds": 128.79329426633194,
+    "workers": {
+      "k100_seed2": 96,
+      "k1_seed0": 109,
+      "third_test": 95
+    },
+    "total_epochs_per_second": 2.329313817997615
+  },
+  "three_vs_two_ratio": 1.0400009663738066,
+  "selected_train_parallel": 3
+}

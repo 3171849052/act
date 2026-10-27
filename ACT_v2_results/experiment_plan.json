@@ -1,0 +1,102 @@
+{
+  "models": [
+    {
+      "name": "k100_seed0",
+      "chunk": 100,
+      "seed": 0
+    },
+    {
+      "name": "k1_seed0",
+      "chunk": 1,
+      "seed": 0
+    },
+    {
+      "name": "k400_seed0",
+      "chunk": 400,
+      "seed": 0
+    }
+  ],
+  "evaluations": [
+    {
+      "name": "k100_seed0_temporal",
+      "chunk": 100,
+      "seed": 0,
+      "model": "k100_seed0",
+      "temporal": true,
+      "group": "main"
+    },
+    {
+      "name": "k100_seed0_no_temporal",
+      "chunk": 100,
+      "seed": 0,
+      "model": "k100_seed0",
+      "temporal": false,
+      "group": "ablation"
+    },
+    {
+      "name": "k1_seed0_no_temporal",
+      "chunk": 1,
+      "seed": 0,
+      "model": "k1_seed0",
+      "temporal": false,
+      "group": "ablation"
+    },
+    {
+      "name": "k400_seed0_no_temporal",
+      "chunk": 400,
+      "seed": 0,
+      "model": "k400_seed0",
+      "temporal": false,
+      "group": "ablation"
+    }
+  ],
+  "training": {
+    "epochs": 2000,
+    "batch_size": 8,
+    "lr": 1e-05,
+    "kl_weight": 10,
+    "hidden_dim": 512,
+    "dim_feedforward": 3200,
+    "backbone": "resnet18",
+    "camera_names": [
+      "top"
+    ],
+    "split_seed": 1,
+    "training_seeds": [
+      0
+    ],
+    "from_scratch": true,
+    "official_pretrained_backbone": true
+  },
+  "evaluation": {
+    "seed": 1000,
+    "episodes": 50,
+    "steps": 400,
+    "success": "highest_reward == 4",
+    "best_validation_checkpoint": true
+  },
+  "rendering": {
+    "backend": "osmesa",
+    "renderer": "llvmpipe",
+    "nvidia_egl_enabled": false,
+    "cpu_fallback_user_authorized": true
+  },
+  "finish_criterion_override": "User-authorized CPU rendering; single training seed 0: three 2000-epoch models, four 50-episode evaluations, 200 episodes and all integrity checks required",
+  "scope_revision": {
+    "time": "2026-10-27T13:25:47.975473+08:00",
+    "request": "为了加快进度，改成只做1种子",
+    "previous_training_seeds": [
+      0,
+      1,
+      2
+    ],
+    "selected_training_seeds": [
+      0
+    ],
+    "selection_rule": "Keep the lowest numerical seed and existing work consistently across all k, not selection by success rate",
+    "formal_models": 3,
+    "formal_evaluation_groups": 4,
+    "formal_episodes": 200,
+    "sample_std_between_training_seeds": null
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "source": "Read-only adaptation of V2 worker; original ACT model/train/eval algorithms unchanged",
+  "edits": [
+    {
+      "old": "\"\"\"Official ACT execution with V2-only observability and video selection hooks.\"\"\"",
+      "new": "\"\"\"Task-parameterized official ACT training and evaluation for V3 only.\"\"\"",
+      "count": 1
+    },
+    {
+      "old": "install_official_argv, activate_renderer, validate_model)",
+      "new": "install_official_argv, activate_renderer, validate_model, task_spec, TASKS, PLAN)",
+      "count": 1
+    },
+    {
+      "old": "    parser.add_argument('--chunk', type=int, choices=[1,100,400], required=True)",
+      "new": "    parser.add_argument('--task', choices=[s['name'] for s in TASKS], required=True)\n    parser.add_argument('--chunk', type=int, choices=[100], default=100)",
+      "count": 1
+    },
+    {
+      "old": "    parser.add_argument('--seed', type=int, choices=[0,1,2], required=True)",
+      "new": "    parser.add_argument('--seed', type=int, choices=[0], default=0)",
+      "count": 1
+    },
+    {
+      "old": "    args = official_args(a.output,a.chunk,a.seed,a.epochs,a.temporal,a.phase=='eval')",
+      "new": "    spec=task_spec(a.task)\n    a.temporal=a.phase=='eval'\n    from v2_dependency import inspect_v2\n    dependency=inspect_v2()\n    if a.phase=='eval':\n        assert dependency['completed'],'V3 evaluation must wait for verified V2 completion'\n    else:\n        assert dependency['completed'] or (PLAN['execution']['training_overlap_with_v2_authorized'] and dependency['training_overlap_allowed'])\n    preflight=json.loads((RUN/'reports/data'/spec['name']/'validation.json').read_text())\n    assert preflight['passed']\n    args = official_args(a.output,spec,a.epochs,a.phase=='eval')",
+      "count": 1
+    },
+    {
+      "old": "git_commit=json.loads((RUN/'reports/preflight.json').read_text())['git_commit']",
+      "new": "git_commit=(RUN/'provenance/git_commit.txt').read_text().strip()",
+      "count": 1
+    },
+    {
+      "old": "renderer=os.environ.get('ACT_V2_RENDERER')",
+      "new": "renderer='llvmpipe', dataset_dir=spec['dataset_dir'], episode_len=spec['episode_len']",
+      "count": 1
+    },
+    {
+      "old": "e1_checkpoint_loaded=False",
+      "new": "prior_experiment_checkpoint_loaded=False",
+      "count": 1
+    },
+    {
+      "old": "            assert split==json.loads((RUN/'reports/preflight.json').read_text())['split']",
+      "new": "            assert Path(xs[0]).resolve()==Path(spec['dataset_dir']).resolve()\n            assert split==preflight['split']\n            write_json(a.output/'normalization_source.json',dict(task_name=spec['task_name'],dataset_dir=spec['dataset_dir'],preflight_manifest_sha256=sha256(RUN/'reports/data'/spec['name']/'validation.json')))",
+      "count": 1
+    },
+    {
+      "old": "        assert selection['camera_filter_validated']",
+      "new": "        assert selection['tasks'][spec['task_name']]['passed'] and selection['backend']=='osmesa'",
+      "count": 1
+    },
+    {
+      "old": "steps_per_episode=400",
+      "new": "steps_per_episode=spec['episode_len']",
+      "count": 1
+    },
+    {
+      "removed": "Cube-specific reward/contact instrumentation block; preserve official reward unmodified"
+    },
+    {
+      "old": "                if selection['renderer']=='egl':\n                    assert 'NVIDIA' in gl_info['GL_VENDOR']",
+      "new": "                assert 'osmesa' in gl_info['context_class'].lower()",
+      "count": 1
+    },
+    {
+      "old": "            assert rewards.shape==(400,) and np.isfinite(rewards).all()",
+      "new": "            assert rewards.shape==(spec['episode_len'],) and np.isfinite(rewards).all()",
+      "count": 1
+    },
+    {
+      "old": "            row=dict(episode=index,steps=400,initial_box_pose=np.array(pose).tolist(),",
+      "new": "            row=dict(episode=index,steps=spec['episode_len'],initial_box_pose=np.array(pose).tolist(),task_name=spec['task_name'],",
+      "count": 1
+    },
+    {
+      "old": "success=bool(highest==4)",
+      "new": "success=bool(highest==env.task.max_reward)",
+      "count": 1
+    },
+    {
+      "old": "                physical_stages=dict(physical_stages))",
+      "new": "                max_reward=int(env.task.max_reward),reward_stage_attained={str(r):bool(highest>=r) for r in range(1,int(env.task.max_reward)+1)})",
+      "count": 1
+    },
+    {
+      "old": "config=dict(args,episode_len=400,state_dim=14",
+      "new": "config=dict(args,episode_len=spec['episode_len'],state_dim=14",
+      "count": 1
+    }
+  ],
+  "global_hook_rename": "_v2_ -> _v3_"
+}

@@ -1,0 +1,25 @@
+{
+  "samples": 12,
+  "model": "Separate 30-epoch preliminary throughput model; not a formal V2 model",
+  "normalized_action_mae": 0.08980350941419601,
+  "normalized_action_max_abs_difference": 0.30092835426330566,
+  "denormalized_action_mae": 0.028337351977825165,
+  "per_action_dimension_mae": [
+    0.0005095986416563392,
+    0.060469113290309906,
+    0.015734337270259857,
+    0.0030975057743489742,
+    0.03655356541275978,
+    0.08592600375413895,
+    0.05036236345767975,
+    0.004157794639468193,
+    0.03208276256918907,
+    0.027944713830947876,
+    0.011575935408473015,
+    0.016841530799865723,
+    0.011931749992072582,
+    0.039535969495773315
+  ],
+  "interpretation": "Same proprioceptive inputs, paired old/new rasterized images; small-sample open-loop prediction sensitivity only, not a policy success-rate comparison",
+  "finite": true
+}

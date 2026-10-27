@@ -1,0 +1,7 @@
+{
+  "GL_VENDOR": "Mesa",
+  "GL_RENDERER": "llvmpipe (LLVM 17.0.6, 256 bits)",
+  "GL_VERSION": "4.5 (Compatibility Profile) Mesa 24.0.5-1ubuntu1",
+  "gl_error": 0,
+  "context_class": "dm_control._render.pyopengl.osmesa_renderer.OSMesaContext"
+}

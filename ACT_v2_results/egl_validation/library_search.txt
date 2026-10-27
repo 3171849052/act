@@ -1,0 +1,14 @@
+$ ['find', '/usr', '/opt', '/lib', '/run/nvidia', '/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro', '-name', 'libEGL*', '-o', '-name', 'libGLdispatch*', '-o', '-name', 'libOpenGL*', '-o', '-name', 'libGLX_nvidia*', '-o', '-name', 'libnvidia-egl*', '-o', '-path', '*/egl_vendor.d/*.json']
+exit_code=1
+find: ‘/run/nvidia’: No such file or directory
+/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/lib/act-graphics/libGLdispatch.so.0
+/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/lib/act-graphics/libOpenGL.so.0
+/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/lib/libGLdispatch.so.0.0.0
+/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/lib/libOpenGL.so.0.0.0
+/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/lib/libGLdispatch.so.0
+/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/lib/libOpenGL.so.0
+/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/x86_64-conda-linux-gnu/sysroot/usr/lib64/libEGL_mesa.so.0
+/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/x86_64-conda-linux-gnu/sysroot/usr/lib64/libEGL_mesa.so.0.0.0
+/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/x86_64-conda-linux-gnu/sysroot/usr/lib64/libGLdispatch.so.0.0.0
+/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/x86_64-conda-linux-gnu/sysroot/usr/lib64/libGLdispatch.so.0
+/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/x86_64-conda-linux-gnu/sysroot/usr/share/glvnd/egl_vendor.d/50_mesa.json

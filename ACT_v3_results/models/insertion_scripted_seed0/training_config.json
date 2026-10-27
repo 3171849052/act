@@ -1,0 +1,49 @@
+{
+  "policy_class": "ACT",
+  "chunk_size": 100,
+  "kl_weight": 10,
+  "hidden_dim": 512,
+  "dim_feedforward": 3200,
+  "batch_size": 8,
+  "lr": 1e-05,
+  "num_epochs": 2000,
+  "seed": 0,
+  "eval": false,
+  "onscreen_render": false,
+  "ckpt_dir": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v3_results/models/insertion_scripted_seed0",
+  "task_name": "sim_insertion_scripted",
+  "temporal_agg": false,
+  "python": "/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/bin/python",
+  "git_commit": "bec6795c25dff6ddee5465bbfbe91db59ffdcc5b",
+  "upstream_commit": "742c753c0d4a5d87076c8f69e5628c79a8cc5488",
+  "source_manifest": "3918230a7875bbd7f67392df07c3b918ebdecf50641b6efc7f95f07c958d3a23",
+  "split_seed": 1,
+  "camera_names": [
+    "top"
+  ],
+  "backbone": "resnet18",
+  "torch_threads": 1,
+  "amp": false,
+  "backend": "osmesa",
+  "renderer": "llvmpipe",
+  "dataset_dir": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted",
+  "episode_len": 400,
+  "environment": {
+    "MUJOCO_GL": "osmesa",
+    "PYOPENGL_PLATFORM": "osmesa",
+    "LD_LIBRARY_PATH": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/anaconda3/envs/act-repro/lib/python3.8/site-packages/cv2/../../lib64:/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v3_results/runtime/mesa/usr/lib/x86_64-linux-gnu:/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/lib/act-graphics",
+    "GALLIUM_DRIVER": "llvmpipe",
+    "LP_NUM_THREADS": "2",
+    "OMP_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1"
+  },
+  "initialization": {
+    "prior_experiment_checkpoint_loaded": false,
+    "policy": "fresh official ACT initialization",
+    "backbone": "official ImageNet-pretrained ResNet18",
+    "query_embedding_sha256": "72d9d3db84b0ae58670b79b9a20c01b89cae98ec49878c6c4872a37c40688cb3"
+  },
+  "started_at": "2026-10-27T15:15:42.699671+08:00",
+  "pretrained_backbone_sha256": "f37072fd47e89c5e827621c5baffa7500819f7896bbacec160b1a16c560e07ec",
+  "parameter_count": 83923087
+}

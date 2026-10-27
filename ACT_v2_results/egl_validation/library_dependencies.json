@@ -1,0 +1,26 @@
+[
+  {
+    "path": "/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/lib/act-graphics/libGLdispatch.so.0",
+    "readlink": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/anaconda3/envs/act-repro/lib/libGLdispatch.so.0.0.0",
+    "exit_code": 0,
+    "ldd": "\tlinux-vdso.so.1 (0x00007fff36e93000)\n\tlibdl.so.2 => /usr/lib/x86_64-linux-gnu/libdl.so.2 (0x00007f2b6d0db000)\n\tlibc.so.6 => /usr/lib/x86_64-linux-gnu/libc.so.6 (0x00007f2b6cec9000)\n\t/lib64/ld-linux-x86-64.so.2 (0x00007f2b6d1a7000)\n"
+  },
+  {
+    "path": "/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/lib/act-graphics/libOpenGL.so.0",
+    "readlink": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/anaconda3/envs/act-repro/lib/libOpenGL.so.0.0.0",
+    "exit_code": 0,
+    "ldd": "\tlinux-vdso.so.1 (0x00007fff6e3bd000)\n\tlibGLdispatch.so.0 => /HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/lib/act-graphics/./libGLdispatch.so.0 (0x00007f4a3891d000)\n\tlibc.so.6 => /usr/lib/x86_64-linux-gnu/libc.so.6 (0x00007f4a386fe000)\n\tlibdl.so.2 => /usr/lib/x86_64-linux-gnu/libdl.so.2 (0x00007f4a386f9000)\n\t/lib64/ld-linux-x86-64.so.2 (0x00007f4a38a04000)\n"
+  },
+  {
+    "path": "/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/x86_64-conda-linux-gnu/sysroot/usr/lib64/libEGL_mesa.so.0",
+    "readlink": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/anaconda3/envs/act-repro/x86_64-conda-linux-gnu/sysroot/usr/lib64/libEGL_mesa.so.0.0.0",
+    "exit_code": 0,
+    "ldd": "\tlinux-vdso.so.1 (0x00007ffc0e5c5000)\n\tlibxcb-dri2.so.0 => not found\n\tlibX11-xcb.so.1 => not found\n\tlibX11.so.6 => not found\n\tlibxcb.so.1 => not found\n\tlibxcb-dri3.so.0 => not found\n\tlibxcb-xfixes.so.0 => not found\n\tlibxcb-present.so.0 => not found\n\tlibxcb-sync.so.1 => not found\n\tlibxshmfence.so.1 => not found\n\tlibwayland-client.so.0 => not found\n\tlibgbm.so.1 => not found\n\tlibz.so.1 => /usr/lib/x86_64-linux-gnu/libz.so.1 (0x00007f8f94c4e000)\n\tlibwayland-server.so.0 => not found\n\tlibexpat.so.1 => /usr/lib/x86_64-linux-gnu/libexpat.so.1 (0x00007f8f949d5000)\n\tlibm.so.6 => /usr/lib/x86_64-linux-gnu/libm.so.6 (0x00007f8f948ec000)\n\tlibdl.so.2 => /usr/lib/x86_64-linux-gnu/libdl.so.2 (0x00007f8f94c47000)\n\tlibdrm.so.2 => not found\n\tlibglapi.so.0 => not found\n\tlibpthread.so.0 => /usr/lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f8f94c42000)\n\tlibselinux.so.1 => /usr/lib/x86_64-linux-gnu/libselinux.so.1 (0x00007f8f948bf000)\n\tlibc.so.6 => /usr/lib/x86_64-linux-gnu/libc.so.6 (0x00007f8f946ad000)\n\t/lib64/ld-linux-x86-64.so.2 (0x00007f8f94c7d000)\n\tlibpcre2-8.so.0 => /usr/lib/x86_64-linux-gnu/libpcre2-8.so.0 (0x00007f8f94613000)\n"
+  },
+  {
+    "path": "/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/x86_64-conda-linux-gnu/sysroot/usr/lib64/libGLdispatch.so.0",
+    "readlink": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/anaconda3/envs/act-repro/x86_64-conda-linux-gnu/sysroot/usr/lib64/libGLdispatch.so.0.0.0",
+    "exit_code": 0,
+    "ldd": "\tlinux-vdso.so.1 (0x00007ffd10bee000)\n\tlibdl.so.2 => /usr/lib/x86_64-linux-gnu/libdl.so.2 (0x00007f15e5c49000)\n\tlibc.so.6 => /usr/lib/x86_64-linux-gnu/libc.so.6 (0x00007f15e55ee000)\n\t/lib64/ld-linux-x86-64.so.2 (0x00007f15e5c5d000)\n"
+  }
+]

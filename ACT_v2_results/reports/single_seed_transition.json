@@ -1,0 +1,52 @@
+{
+  "status": "COMPLETED",
+  "supervisor_pid": 2339407,
+  "backup": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/backups/single_seed_scope_20261027_052507",
+  "selected_training_seeds": [
+    0
+  ],
+  "stopped": [
+    {
+      "name": "k1_seed2",
+      "pid": 2438871,
+      "directory": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/models/k1_seed2",
+      "section": "models",
+      "reason": "User reduced training seeds to seed=0"
+    },
+    {
+      "name": "k400_seed1",
+      "pid": 2499992,
+      "directory": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/models/k400_seed1",
+      "section": "models",
+      "reason": "User reduced training seeds to seed=0"
+    },
+    {
+      "name": "k100_seed1_temporal",
+      "pid": 2576134,
+      "directory": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/evaluations/k100_seed1_temporal",
+      "section": "evaluations",
+      "reason": "User reduced training seeds to seed=0"
+    }
+  ],
+  "preserved_running": [
+    {
+      "name": "k400_seed0",
+      "pid": 2450707,
+      "directory": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/models/k400_seed0"
+    }
+  ],
+  "completed_at": "2026-10-27T13:28:34.055493+08:00",
+  "new_supervisor_pid": 2604812,
+  "retained_processes": {
+    "k400_seed0": {
+      "pid": 2450707,
+      "start_ticks": "413150183"
+    }
+  },
+  "retained_training_restarted": false,
+  "formal_models": 3,
+  "formal_evaluation_groups": 4,
+  "formal_episodes": 200,
+  "stdout": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/logs/single_seed_pipeline_20261027_052833.stdout.log",
+  "stderr": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/logs/single_seed_pipeline_20261027_052833.stderr.log"
+}

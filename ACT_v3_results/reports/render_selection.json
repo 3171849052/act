@@ -1,0 +1,197 @@
+{
+  "backend": "osmesa",
+  "renderer": "llvmpipe",
+  "validated_at": "2026-10-27T15:50:08.699610+08:00",
+  "tasks": {
+    "sim_transfer_cube_human": {
+      "passed": true,
+      "task_name": "sim_transfer_cube_human",
+      "episode_len": 400,
+      "cases": [
+        {
+          "case": 0,
+          "initial_pose": [
+            0.1307179170929219,
+            0.4230013886248812,
+            0.05,
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "observations": 6,
+          "pixels_physics_rewards_numpy_python_torch_rng_exact": true
+        },
+        {
+          "case": 1,
+          "initial_pose": [
+            0.06124643590976109,
+            0.45301271312150115,
+            0.05,
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "observations": 6,
+          "pixels_physics_rewards_numpy_python_torch_rng_exact": true
+        }
+      ],
+      "gl_identity": {
+        "GL_VENDOR": "Mesa",
+        "GL_RENDERER": "llvmpipe (LLVM 17.0.6, 256 bits)",
+        "GL_VERSION": "4.5 (Compatibility Profile) Mesa 24.0.5-1ubuntu1",
+        "gl_error": 0,
+        "context_class": "dm_control._render.pyopengl.osmesa_renderer.OSMesaContext"
+      },
+      "timings_seconds": {
+        "all_cameras": [
+          1.167925841989927,
+          1.8989409829955548
+        ],
+        "top_only": [
+          0.5917271219659597,
+          0.4353289529681206
+        ]
+      },
+      "top_filter_speedup": 2.98607534664777,
+      "context_released": true
+    },
+    "sim_insertion_scripted": {
+      "passed": true,
+      "task_name": "sim_insertion_scripted",
+      "episode_len": 400,
+      "cases": [
+        {
+          "case": 0,
+          "initial_pose": [
+            0.16535895854646096,
+            0.4230013886248812,
+            0.05,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            -0.1517808598572002,
+            0.574494907036407,
+            0.05,
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "observations": 6,
+          "pixels_physics_rewards_numpy_python_torch_rng_exact": true
+        },
+        {
+          "case": 1,
+          "initial_pose": [
+            0.13062321795488055,
+            0.45301271312150115,
+            0.05,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            -0.15694785234329525,
+            0.4046227103984111,
+            0.05,
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "observations": 6,
+          "pixels_physics_rewards_numpy_python_torch_rng_exact": true
+        }
+      ],
+      "gl_identity": {
+        "GL_VENDOR": "Mesa",
+        "GL_RENDERER": "llvmpipe (LLVM 17.0.6, 256 bits)",
+        "GL_VERSION": "4.5 (Compatibility Profile) Mesa 24.0.5-1ubuntu1",
+        "gl_error": 0,
+        "context_class": "dm_control._render.pyopengl.osmesa_renderer.OSMesaContext"
+      },
+      "timings_seconds": {
+        "all_cameras": [
+          1.1720237180124968,
+          1.861124958959408
+        ],
+        "top_only": [
+          0.7009935700334609,
+          0.4991967169335112
+        ]
+      },
+      "top_filter_speedup": 2.5272231494532784,
+      "context_released": true
+    },
+    "sim_insertion_human": {
+      "passed": true,
+      "task_name": "sim_insertion_human",
+      "episode_len": 500,
+      "cases": [
+        {
+          "case": 0,
+          "initial_pose": [
+            0.16535895854646096,
+            0.4230013886248812,
+            0.05,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            -0.1517808598572002,
+            0.574494907036407,
+            0.05,
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "observations": 6,
+          "pixels_physics_rewards_numpy_python_torch_rng_exact": true
+        },
+        {
+          "case": 1,
+          "initial_pose": [
+            0.13062321795488055,
+            0.45301271312150115,
+            0.05,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            -0.15694785234329525,
+            0.4046227103984111,
+            0.05,
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "observations": 6,
+          "pixels_physics_rewards_numpy_python_torch_rng_exact": true
+        }
+      ],
+      "gl_identity": {
+        "GL_VENDOR": "Mesa",
+        "GL_RENDERER": "llvmpipe (LLVM 17.0.6, 256 bits)",
+        "GL_VERSION": "4.5 (Compatibility Profile) Mesa 24.0.5-1ubuntu1",
+        "gl_error": 0,
+        "context_class": "dm_control._render.pyopengl.osmesa_renderer.OSMesaContext"
+      },
+      "timings_seconds": {
+        "all_cameras": [
+          1.1147822139319032,
+          1.6467529609799385
+        ],
+        "top_only": [
+          0.6128291600616649,
+          0.4470475809648633
+        ]
+      },
+      "top_filter_speedup": 2.6055248388951315,
+      "context_released": true
+    }
+  }
+}

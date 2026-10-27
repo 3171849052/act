@@ -1,0 +1,8 @@
+{
+  "epochs": 2000,
+  "task_name": "sim_transfer_cube_human",
+  "best_epoch": 1970,
+  "best_validation_loss": 0.13779562711715698,
+  "checkpoint_sha256": "f7d003bc55af3ff9e1cad24186da7ac3a235c4303ae6de720e1b16f0ee45014d",
+  "stats_sha256": "e63cfef8d65b96569fbe351139395c8eabd18f7b2405af872460a01cce80d161"
+}

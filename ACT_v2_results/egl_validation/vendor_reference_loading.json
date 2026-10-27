@@ -1,0 +1,13 @@
+{
+  "vendor_json": "/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/x86_64-conda-linux-gnu/sysroot/usr/share/glvnd/egl_vendor.d/50_mesa.json",
+  "content": {
+    "file_format_version": "1.0.0",
+    "ICD": {
+      "library_path": "libEGL_mesa.so.0"
+    }
+  },
+  "reference_exists": true,
+  "reference_realpath": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/anaconda3/envs/act-repro/x86_64-conda-linux-gnu/sysroot/usr/lib64/libEGL_mesa.so.0.0.0",
+  "loadable_by_absolute_path": false,
+  "error": "libxshmfence.so.1: cannot open shared object file: No such file or directory"
+}

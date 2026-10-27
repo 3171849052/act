@@ -1,0 +1,33 @@
+{
+  "label": "k400_seed0",
+  "status": "SUCCEEDED",
+  "pid": 2450707,
+  "command": [
+    "/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/bin/python",
+    "-u",
+    "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/scripts/worker.py",
+    "--phase",
+    "train",
+    "--output",
+    "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/models/k400_seed0",
+    "--chunk",
+    "400",
+    "--seed",
+    "0",
+    "--epochs",
+    "2000"
+  ],
+  "directory": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/models/k400_seed0",
+  "started_at": "2026-10-27T12:46:37.267417+08:00",
+  "start_timestamp": 1793076397.26744,
+  "start_monotonic": 4131501.837289625,
+  "adopted_without_restart": true,
+  "adopted_at": "2026-10-27T13:28:34.140134+08:00",
+  "worker_start_ticks": "413150183",
+  "exit_code": null,
+  "ended_at": "2026-10-27T13:44:33.638761+08:00",
+  "end_timestamp": 1793079873.6388237,
+  "elapsed_seconds": 3476.371383235324,
+  "completion_status_source": "worker completion artifact and subsequent validation; OS exit code unavailable after supervisor handoff",
+  "artifact_completion_detected": true
+}

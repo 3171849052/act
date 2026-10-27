@@ -1,0 +1,70 @@
+3244 2207 0:225 / / rw,relatime master:817 - overlay overlay rw,lowerdir=3685/fs:3684/fs:3683/fs:3682/fs:3681/fs:3680/fs:3679/fs:3678/fs:3677/fs:3676/fs:3675/fs:3674/fs:3673/fs:3672/fs:3671/fs:3670/fs:3669/fs:3668/fs:3667/fs:3666/fs:3665/fs:3664/fs:3663/fs:3662/fs:3661/fs:3660/fs:3659/fs:3658/fs:3657/fs:3656/fs:3655/fs:3654/fs:3653/fs:3652/fs:3651/fs:3650/fs:3649/fs:3648/fs:3647/fs:3646/fs:3645/fs:3644/fs:3643/fs:3642/fs:3641/fs:3640/fs:3639/fs:3638/fs:3637/fs:3636/fs:3635/fs:3634/fs:3633/fs:3632/fs:3631/fs:3630/fs:3629/fs:3628/fs:3627/fs:3626/fs:3625/fs:3624/fs:3623/fs,upperdir=/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/12173/fs,workdir=/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/12173/work
+3245 3244 0:232 / /proc rw,nosuid,nodev,noexec,relatime - proc proc rw
+3246 3244 0:233 / /dev rw,nosuid - tmpfs tmpfs rw,size=65536k,mode=755,inode64
+3247 3246 0:234 / /dev/pts rw,nosuid,noexec,relatime - devpts devpts rw,gid=5,mode=620,ptmxmode=666
+3248 3246 0:211 / /dev/mqueue rw,nosuid,nodev,noexec,relatime - mqueue mqueue rw
+3249 3244 0:217 / /sys ro,nosuid,nodev,noexec,relatime - sysfs sysfs ro
+3250 3249 0:29 / /sys/fs/cgroup ro,nosuid,nodev,noexec,relatime - cgroup2 cgroup rw
+3251 3244 1288:819618 /APP /app ro - lustre 99.72.2.200@o2ib200:99.72.2.201@o2ib200:99.72.2.200@tcp200:99.72.2.201@tcp200:/XYFS01 rw,checksum,localflock,nouser_xattr,lruresize,lazystatfs,nouser_fid2path,verbose,encrypt
+3252 3244 7:0 /var/lib/kubelet/pods/c280f80d-141b-4a17-8212-de9079e32629/etc-hosts /etc/hosts rw,relatime - xfs /dev/loop0 rw,attr2,inode64,logbufs=8,logbsize=32k,noquota
+3253 3244 1288:819618 /HOME/sysu_qling/sysu_qling_3 /XYFS01/sysu_qling_3 rw,nosuid - lustre 99.72.2.200@o2ib200:99.72.2.201@o2ib200:99.72.2.200@tcp200:99.72.2.201@tcp200:/XYFS01 rw,checksum,localflock,nouser_xattr,lruresize,lazystatfs,nouser_fid2path,verbose,encrypt
+3254 3244 8:2 /io.containerd.grpc.v1.cri/sandboxes/dd82a9dc1ccd6d1f7a3e268932f77255c4f6fb25ab1bc85fa316fde25d322dc6/resolv.conf /etc/resolv.conf rw,relatime - xfs /dev/sda2 rw,attr2,inode64,logbufs=8,logbsize=32k,sunit=512,swidth=512,noquota
+3255 3244 8:2 /io.containerd.grpc.v1.cri/sandboxes/dd82a9dc1ccd6d1f7a3e268932f77255c4f6fb25ab1bc85fa316fde25d322dc6/hostname /etc/hostname rw,relatime - xfs /dev/sda2 rw,attr2,inode64,logbufs=8,logbsize=32k,sunit=512,swidth=512,noquota
+3256 3244 1288:819618 /HOME/sysu_qling/sysu_qling_3 /GLOBALFS/sysu_qling_3 rw,nosuid - lustre 99.72.2.200@o2ib200:99.72.2.201@o2ib200:99.72.2.200@tcp200:99.72.2.201@tcp200:/XYFS01 rw,checksum,localflock,nouser_xattr,lruresize,lazystatfs,nouser_fid2path,verbose,encrypt
+3257 3246 7:0 /var/lib/kubelet/pods/c280f80d-141b-4a17-8212-de9079e32629/containers/pytorch-ng-20152124-lt/45a5c232 /dev/termination-log rw,relatime - xfs /dev/loop0 rw,attr2,inode64,logbufs=8,logbsize=32k,noquota
+3258 3246 0:206 / /dev/shm rw,relatime - tmpfs tmpfs rw,size=62914560k,inode64
+3259 3244 1288:819618 /HOME/sysu_qling/sysu_qling_3 /HOME/sysu_qling/sysu_qling_3 rw,nosuid - lustre 99.72.2.200@o2ib200:99.72.2.201@o2ib200:99.72.2.200@tcp200:99.72.2.201@tcp200:/XYFS01 rw,checksum,localflock,nouser_xattr,lruresize,lazystatfs,nouser_fid2path,verbose,encrypt
+3343 3244 763:105372 /HDD_POOL/sysu_qling/sysu_qling_3 /XYFS02/HDD_POOL/sysu_qling/sysu_qling_3 rw,nosuid - lustre 99.72.5.14@o2ib200:99.72.5.15@o2ib200:/XYFS02 rw,checksum,localflock,nouser_xattr,lruresize,lazystatfs,nouser_fid2path,verbose,encrypt
+3344 3244 1288:819618 /HDD_POOL/sysu_qling/sysu_qling_3 /XYFS01/HDD_POOL/sysu_qling/sysu_qling_3 rw,nosuid - lustre 99.72.2.200@o2ib200:99.72.2.201@o2ib200:99.72.2.200@tcp200:99.72.2.201@tcp200:/XYFS01 rw,checksum,localflock,nouser_xattr,lruresize,lazystatfs,nouser_fid2path,verbose,encrypt
+3345 3244 1288:819618 /HOME/sysu_qling/sysu_qling_3 /XYFS01/HOME/sysu_qling/sysu_qling_3 rw,nosuid - lustre 99.72.2.200@o2ib200:99.72.2.201@o2ib200:99.72.2.200@tcp200:99.72.2.201@tcp200:/XYFS01 rw,checksum,localflock,nouser_xattr,lruresize,lazystatfs,nouser_fid2path,verbose,encrypt
+3346 3244 0:207 / /run/secrets/kubernetes.io/serviceaccount ro,relatime - tmpfs tmpfs rw,size=125829120k,inode64
+3347 3345 1288:819618 /HOME/sysu_qling/sysu_qling_3/.bihu/pytorch-ng-20152124-lt /XYFS01/HOME/sysu_qling/sysu_qling_3/.bihu/pytorch-ng-20152124-lt rw,nosuid - lustre 99.72.2.200@o2ib200:99.72.2.201@o2ib200:99.72.2.200@tcp200:99.72.2.201@tcp200:/XYFS01 rw,checksum,localflock,nouser_xattr,lruresize,lazystatfs,nouser_fid2path,verbose,encrypt
+3348 3245 0:40 /proc/cpuinfo /proc/cpuinfo rw,nosuid,nodev,relatime - fuse.lxcfs lxcfs rw,user_id=0,group_id=0,allow_other
+3349 3245 0:40 /proc/diskstats /proc/diskstats rw,nosuid,nodev,relatime - fuse.lxcfs lxcfs rw,user_id=0,group_id=0,allow_other
+3350 3245 0:40 /proc/loadavg /proc/loadavg rw,nosuid,nodev,relatime - fuse.lxcfs lxcfs rw,user_id=0,group_id=0,allow_other
+3351 3245 0:40 /proc/meminfo /proc/meminfo rw,nosuid,nodev,relatime - fuse.lxcfs lxcfs rw,user_id=0,group_id=0,allow_other
+3352 3245 0:40 /proc/slabinfo /proc/slabinfo rw,nosuid,nodev,relatime - fuse.lxcfs lxcfs rw,user_id=0,group_id=0,allow_other
+3353 3245 0:40 /proc/stat /proc/stat rw,nosuid,nodev,relatime - fuse.lxcfs lxcfs rw,user_id=0,group_id=0,allow_other
+3354 3245 0:40 /proc/swaps /proc/swaps rw,nosuid,nodev,relatime - fuse.lxcfs lxcfs rw,user_id=0,group_id=0,allow_other
+3355 3245 0:40 /proc/uptime /proc/uptime rw,nosuid,nodev,relatime - fuse.lxcfs lxcfs rw,user_id=0,group_id=0,allow_other
+3356 3249 0:40 /sys/devices/system/cpu/online /sys/devices/system/cpu/online rw,nosuid,nodev,relatime - fuse.lxcfs lxcfs rw,user_id=0,group_id=0,allow_other
+3357 3244 0:25 /starlight-executor /run/starlight-executor ro,relatime - tmpfs tmpfs rw,size=105410160k,mode=755,inode64
+3358 3245 0:235 / /proc/driver/nvidia rw,nosuid,nodev,noexec,relatime - tmpfs tmpfs rw,mode=555,inode64
+3359 3244 7:0 /usr/bin/nvidia-smi /usr/bin/nvidia-smi ro,nosuid,nodev,relatime master:1 - xfs /dev/loop0 rw,attr2,inode64,logbufs=8,logbsize=32k,noquota
+3360 3244 7:0 /usr/bin/nvidia-debugdump /usr/bin/nvidia-debugdump ro,nosuid,nodev,relatime master:1 - xfs /dev/loop0 rw,attr2,inode64,logbufs=8,logbsize=32k,noquota
+3361 3244 7:0 /usr/bin/nvidia-persistenced /usr/bin/nvidia-persistenced ro,nosuid,nodev,relatime master:1 - xfs /dev/loop0 rw,attr2,inode64,logbufs=8,logbsize=32k,noquota
+3362 3244 7:0 /usr/bin/nvidia-cuda-mps-control /usr/bin/nvidia-cuda-mps-control ro,nosuid,nodev,relatime master:1 - xfs /dev/loop0 rw,attr2,inode64,logbufs=8,logbsize=32k,noquota
+3363 3244 7:0 /usr/bin/nvidia-cuda-mps-server /usr/bin/nvidia-cuda-mps-server ro,nosuid,nodev,relatime master:1 - xfs /dev/loop0 rw,attr2,inode64,logbufs=8,logbsize=32k,noquota
+3364 3244 7:0 /usr/lib/x86_64-linux-gnu/libnvidia-ml.so.595.45.04 /usr/lib/x86_64-linux-gnu/libnvidia-ml.so.595.45.04 ro,nosuid,nodev,relatime master:1 - xfs /dev/loop0 rw,attr2,inode64,logbufs=8,logbsize=32k,noquota
+3365 3244 7:0 /usr/lib/x86_64-linux-gnu/libnvidia-cfg.so.595.45.04 /usr/lib/x86_64-linux-gnu/libnvidia-cfg.so.595.45.04 ro,nosuid,nodev,relatime master:1 - xfs /dev/loop0 rw,attr2,inode64,logbufs=8,logbsize=32k,noquota
+3366 3244 7:0 /usr/lib/x86_64-linux-gnu/libcuda.so.595.45.04 /usr/lib/x86_64-linux-gnu/libcuda.so.595.45.04 ro,nosuid,nodev,relatime master:1 - xfs /dev/loop0 rw,attr2,inode64,logbufs=8,logbsize=32k,noquota
+3367 3244 7:0 /usr/lib/x86_64-linux-gnu/libcudadebugger.so.595.45.04 /usr/lib/x86_64-linux-gnu/libcudadebugger.so.595.45.04 ro,nosuid,nodev,relatime master:1 - xfs /dev/loop0 rw,attr2,inode64,logbufs=8,logbsize=32k,noquota
+3368 3244 7:0 /usr/lib/x86_64-linux-gnu/libnvidia-opencl.so.595.45.04 /usr/lib/x86_64-linux-gnu/libnvidia-opencl.so.595.45.04 ro,nosuid,nodev,relatime master:1 - xfs /dev/loop0 rw,attr2,inode64,logbufs=8,logbsize=32k,noquota
+3369 3244 7:0 /usr/lib/x86_64-linux-gnu/libnvidia-gpucomp.so.595.45.04 /usr/lib/x86_64-linux-gnu/libnvidia-gpucomp.so.595.45.04 ro,nosuid,nodev,relatime master:1 - xfs /dev/loop0 rw,attr2,inode64,logbufs=8,logbsize=32k,noquota
+3370 3244 7:0 /usr/lib/x86_64-linux-gnu/libnvidia-ptxjitcompiler.so.595.45.04 /usr/lib/x86_64-linux-gnu/libnvidia-ptxjitcompiler.so.595.45.04 ro,nosuid,nodev,relatime master:1 - xfs /dev/loop0 rw,attr2,inode64,logbufs=8,logbsize=32k,noquota
+3371 3244 7:0 /usr/lib/x86_64-linux-gnu/libnvidia-allocator.so.595.45.04 /usr/lib/x86_64-linux-gnu/libnvidia-allocator.so.595.45.04 ro,nosuid,nodev,relatime master:1 - xfs /dev/loop0 rw,attr2,inode64,logbufs=8,logbsize=32k,noquota
+3372 3244 7:0 /usr/lib/x86_64-linux-gnu/libnvidia-pkcs11.so.595.45.04 /usr/lib/x86_64-linux-gnu/libnvidia-pkcs11.so.595.45.04 ro,nosuid,nodev,relatime master:1 - xfs /dev/loop0 rw,attr2,inode64,logbufs=8,logbsize=32k,noquota
+3373 3244 7:0 /usr/lib/x86_64-linux-gnu/libnvidia-pkcs11-openssl3.so.595.45.04 /usr/lib/x86_64-linux-gnu/libnvidia-pkcs11-openssl3.so.595.45.04 ro,nosuid,nodev,relatime master:1 - xfs /dev/loop0 rw,attr2,inode64,logbufs=8,logbsize=32k,noquota
+3374 3244 7:0 /usr/lib/x86_64-linux-gnu/libnvidia-nvvm.so.595.45.04 /usr/lib/x86_64-linux-gnu/libnvidia-nvvm.so.595.45.04 ro,nosuid,nodev,relatime master:1 - xfs /dev/loop0 rw,attr2,inode64,logbufs=8,logbsize=32k,noquota
+3375 3244 7:0 /usr/lib/x86_64-linux-gnu/vdpau/libvdpau_nvidia.so.595.45.04 /usr/lib/x86_64-linux-gnu/libvdpau_nvidia.so.595.45.04 ro,nosuid,nodev,relatime master:1 - xfs /dev/loop0 rw,attr2,inode64,logbufs=8,logbsize=32k,noquota
+3376 3244 7:0 /usr/lib/x86_64-linux-gnu/libnvidia-encode.so.595.45.04 /usr/lib/x86_64-linux-gnu/libnvidia-encode.so.595.45.04 ro,nosuid,nodev,relatime master:1 - xfs /dev/loop0 rw,attr2,inode64,logbufs=8,logbsize=32k,noquota
+3377 3244 7:0 /usr/lib/x86_64-linux-gnu/libnvidia-opticalflow.so.595.45.04 /usr/lib/x86_64-linux-gnu/libnvidia-opticalflow.so.595.45.04 ro,nosuid,nodev,relatime master:1 - xfs /dev/loop0 rw,attr2,inode64,logbufs=8,logbsize=32k,noquota
+3403 3244 7:0 /usr/lib/x86_64-linux-gnu/libnvcuvid.so.595.45.04 /usr/lib/x86_64-linux-gnu/libnvcuvid.so.595.45.04 ro,nosuid,nodev,relatime master:1 - xfs /dev/loop0 rw,attr2,inode64,logbufs=8,logbsize=32k,noquota
+3404 3244 7:0 /usr/lib/firmware/nvidia/595.45.04/gsp_ga10x.bin /usr/lib/firmware/nvidia/595.45.04/gsp_ga10x.bin ro,nosuid,nodev,relatime master:1 - xfs /dev/loop0 rw,attr2,inode64,logbufs=8,logbsize=32k,noquota
+3405 3244 7:0 /usr/lib/firmware/nvidia/595.45.04/gsp_tu10x.bin /usr/lib/firmware/nvidia/595.45.04/gsp_tu10x.bin ro,nosuid,nodev,relatime master:1 - xfs /dev/loop0 rw,attr2,inode64,logbufs=8,logbsize=32k,noquota
+3406 3246 0:5 /nvidiactl /dev/nvidiactl ro,nosuid,noexec,relatime master:2 - devtmpfs udev rw,size=527016176k,nr_inodes=131754044,mode=755,inode64
+3407 3246 0:5 /nvidia-uvm /dev/nvidia-uvm ro,nosuid,noexec,relatime master:2 - devtmpfs udev rw,size=527016176k,nr_inodes=131754044,mode=755,inode64
+3408 3246 0:5 /nvidia-uvm-tools /dev/nvidia-uvm-tools ro,nosuid,noexec,relatime master:2 - devtmpfs udev rw,size=527016176k,nr_inodes=131754044,mode=755,inode64
+3409 3246 0:5 /nvidia7 /dev/nvidia7 ro,nosuid,noexec,relatime master:2 - devtmpfs udev rw,size=527016176k,nr_inodes=131754044,mode=755,inode64
+3410 3358 0:23 /driver/nvidia/gpus/0000:a4:00.0 /proc/driver/nvidia/gpus/0000:a4:00.0 ro,nosuid,nodev,noexec,relatime master:13 - proc proc rw
+2208 3245 0:232 /bus /proc/bus ro,nosuid,nodev,noexec,relatime - proc proc rw
+2209 3245 0:232 /fs /proc/fs ro,nosuid,nodev,noexec,relatime - proc proc rw
+2210 3245 0:232 /irq /proc/irq ro,nosuid,nodev,noexec,relatime - proc proc rw
+2221 3245 0:232 /sys /proc/sys ro,nosuid,nodev,noexec,relatime - proc proc rw
+2222 3245 0:232 /sysrq-trigger /proc/sysrq-trigger ro,nosuid,nodev,noexec,relatime - proc proc rw
+2223 3245 0:242 / /proc/acpi ro,relatime - tmpfs tmpfs ro,inode64
+2224 3245 0:233 /null /proc/kcore rw,nosuid - tmpfs tmpfs rw,size=65536k,mode=755,inode64
+2225 3245 0:233 /null /proc/keys rw,nosuid - tmpfs tmpfs rw,size=65536k,mode=755,inode64
+2226 3245 0:233 /null /proc/timer_list rw,nosuid - tmpfs tmpfs rw,size=65536k,mode=755,inode64
+2227 3245 0:243 / /proc/scsi ro,relatime - tmpfs tmpfs ro,inode64
+2228 3249 0:244 / /sys/firmware ro,relatime - tmpfs tmpfs ro,inode64

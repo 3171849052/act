@@ -1,0 +1,8 @@
+{
+  "epochs_completed": 30,
+  "target_epochs": 30,
+  "updated_at": "2026-10-27T11:30:37.819292+08:00",
+  "last_epoch_seconds": 1.4524984927847981,
+  "best_epoch": 29,
+  "best_validation_loss": 0.44445282220840454
+}

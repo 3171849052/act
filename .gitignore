@@ -170,6 +170,33 @@ assets
 *.7z
 *.whl
 *.conda
+*.deb
+*.rpm
+*.so.*
+
+# V2/V3 machine-local rendering libraries, downloads and backup snapshots.
+# Keep scripts, configs, CSV/JSON results, episode/epoch metrics, reports and figures.
+/ACT_v2_results/runtime/
+/ACT_v3_results/runtime/
+/ACT_v2_results/downloads/
+/ACT_v3_results/downloads/
+/ACT_v2_results/backups/
+/ACT_v3_results/backups/
+/ACT_v2_results/**/*.pid
+/ACT_v3_results/**/*.pid
+/ACT_v2_results/**/*.lock*
+/ACT_v3_results/**/*.lock*
+/ACT_v2_results/**/pid.txt
+/ACT_v3_results/**/pid.txt
+/ACT_v2_results/logs/resource_monitor.jsonl
+/ACT_v3_results/logs/resource_monitor.jsonl
+/ACT_v3_results/logs/queue_checks.jsonl
+
+# Interrupted extraction and crash dumps.
+*.part
+*.partial.*
+/core
+/core.[0-9]*
 
 # Machine-local process state and temporary copies.
 /E1_results/*.pid

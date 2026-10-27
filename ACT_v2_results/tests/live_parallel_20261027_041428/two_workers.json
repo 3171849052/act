@@ -1,0 +1,8 @@
+{
+  "window_seconds": 91.08270233962685,
+  "workers": {
+    "k100_seed2": 102,
+    "k1_seed0": 102
+  },
+  "total_epochs_per_second": 2.2397227438348284
+}

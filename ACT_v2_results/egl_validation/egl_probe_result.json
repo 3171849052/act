@@ -1,0 +1,22 @@
+{
+  "passed": false,
+  "stage": "import_mujoco",
+  "gl_identity": null,
+  "environment": {
+    "MUJOCO_GL": "egl",
+    "PYOPENGL_PLATFORM": "egl",
+    "MUJOCO_EGL_DEVICE_ID": "0",
+    "MPLBACKEND": "Agg",
+    "LD_LIBRARY_PATH": "/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/lib/act-graphics"
+  },
+  "time": "2026-10-27T11:14:48.156882+08:00",
+  "versions": {
+    "mujoco": "2.3.7",
+    "dm-control": "1.0.14",
+    "PyOpenGL": "3.1.10"
+  },
+  "egl_find_library": null,
+  "egl_cdll_error": "libEGL.so.1: cannot open shared object file: No such file or directory",
+  "error": "Traceback (most recent call last):\n  File \"ACT_v2_results/egl_validation/probe_egl.py\", line 65, in main\n    import mujoco\n  File \"/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/lib/python3.8/site-packages/mujoco/__init__.py\", line 47, in <module>\n    from mujoco.gl_context import *\n  File \"/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/lib/python3.8/site-packages/mujoco/gl_context.py\", line 41, in <module>\n    from mujoco.egl import GLContext as _GLContext\n  File \"/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/lib/python3.8/site-packages/mujoco/egl/__init__.py\", line 31, in <module>\n    from mujoco.egl import egl_ext as EGL\n  File \"/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/lib/python3.8/site-packages/mujoco/egl/egl_ext.py\", line 27, in <module>\n    from OpenGL import EGL\n  File \"/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/lib/python3.8/site-packages/OpenGL/EGL/__init__.py\", line 2, in <module>\n    from OpenGL.raw.EGL._types import *\n  File \"/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/lib/python3.8/site-packages/OpenGL/raw/EGL/_types.py\", line 87, in <module>\n    raw_eglQueryString = _p.PLATFORM.EGL.eglQueryString\nAttributeError: 'NoneType' object has no attribute 'eglQueryString'\n",
+  "elapsed_seconds": 0.08551737479865551
+}

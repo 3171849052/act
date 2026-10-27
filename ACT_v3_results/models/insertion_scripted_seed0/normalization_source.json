@@ -1,0 +1,5 @@
+{
+  "task_name": "sim_insertion_scripted",
+  "dataset_dir": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted",
+  "preflight_manifest_sha256": "50910b9a804d7f5cc9bc491f4f2fa68f0436773d6910bcdb9b6ebc743036a208"
+}

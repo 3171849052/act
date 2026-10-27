@@ -1,0 +1,11 @@
+{
+  "completed": true,
+  "ended_at": "2026-10-27T11:25:02.671187+08:00",
+  "artifacts": {
+    "epochs": 3,
+    "best_epoch": 2,
+    "best_validation_loss": 14.743873596191406,
+    "checkpoint_sha256": "1c8661b289eeada8d0f7ce9a24e810595d880ef542a433911d9c10f29fd8735d",
+    "stats_sha256": "0780cc6244e3e039a3ffb28f2233cbbf348a8e18f24740909788617b4181cdcd"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "results": [
+    {
+      "concurrency": 1,
+      "episodes": 1,
+      "wall_seconds": 76.91203747037798,
+      "total_episodes_per_second": 0.013001865935291878,
+      "directories": [
+        "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/tests/eval_throughput_1_worker0"
+      ]
+    },
+    {
+      "concurrency": 2,
+      "episodes": 2,
+      "wall_seconds": 71.67140457220376,
+      "total_episodes_per_second": 0.027905131927268772,
+      "directories": [
+        "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/tests/eval_throughput_2_worker0",
+        "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/tests/eval_throughput_2_worker1"
+      ]
+    }
+  ],
+  "selected_concurrency": 2,
+  "temporal_and_non_temporal_smoke_passed": true,
+  "note": "Preliminary 3-epoch policy, one episode each; excluded from all formal statistics"
+}

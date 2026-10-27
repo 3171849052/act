@@ -1,0 +1,112 @@
+$ ['/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/bin/python', '-c', "import sys, json, ctypes, ctypes.util, importlib.metadata as m\nr = {'python': sys.version, 'executable': sys.executable, 'packages': {}, 'libraries': {}}\nfor p in ['mujoco','dm-control','PyOpenGL','PyOpenGL-accelerate','glfw','numpy','Pillow','torch']:\n try: r['packages'][p] = m.version(p)\n except m.PackageNotFoundError: r['packages'][p] = None\nfor name in ['EGL','EGL_nvidia','GLdispatch','OpenGL','GLX_nvidia','OSMesa']:\n entry = {'find_library': ctypes.util.find_library(name)}\n for path in [entry['find_library'], 'lib'+name+'.so', 'lib'+name+'.so.1', 'lib'+name+'.so.0']:\n  if not path: continue\n  try: lib=ctypes.CDLL(path); entry[path]={'loaded':True, 'name':lib._name}\n  except OSError as e: entry[path]={'loaded':False, 'error':str(e)}\n r['libraries'][name] = entry\nprint(json.dumps(r, indent=2))\n"]
+exit_code=0
+{
+  "python": "3.8.10 (default, Jun  4 2021, 15:09:15) \n[GCC 7.5.0]",
+  "executable": "/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/bin/python",
+  "packages": {
+    "mujoco": "2.3.7",
+    "dm-control": "1.0.14",
+    "PyOpenGL": "3.1.10",
+    "PyOpenGL-accelerate": null,
+    "glfw": "2.11.0",
+    "numpy": "1.23.5",
+    "Pillow": "10.4.0",
+    "torch": "2.0.1+cu118"
+  },
+  "libraries": {
+    "EGL": {
+      "find_library": null,
+      "libEGL.so": {
+        "loaded": false,
+        "error": "libEGL.so: cannot open shared object file: No such file or directory"
+      },
+      "libEGL.so.1": {
+        "loaded": false,
+        "error": "libEGL.so.1: cannot open shared object file: No such file or directory"
+      },
+      "libEGL.so.0": {
+        "loaded": false,
+        "error": "libEGL.so.0: cannot open shared object file: No such file or directory"
+      }
+    },
+    "EGL_nvidia": {
+      "find_library": null,
+      "libEGL_nvidia.so": {
+        "loaded": false,
+        "error": "libEGL_nvidia.so: cannot open shared object file: No such file or directory"
+      },
+      "libEGL_nvidia.so.1": {
+        "loaded": false,
+        "error": "libEGL_nvidia.so.1: cannot open shared object file: No such file or directory"
+      },
+      "libEGL_nvidia.so.0": {
+        "loaded": false,
+        "error": "libEGL_nvidia.so.0: cannot open shared object file: No such file or directory"
+      }
+    },
+    "GLdispatch": {
+      "find_library": null,
+      "libGLdispatch.so": {
+        "loaded": false,
+        "error": "libGLdispatch.so: cannot open shared object file: No such file or directory"
+      },
+      "libGLdispatch.so.1": {
+        "loaded": false,
+        "error": "libGLdispatch.so.1: cannot open shared object file: No such file or directory"
+      },
+      "libGLdispatch.so.0": {
+        "loaded": true,
+        "name": "libGLdispatch.so.0"
+      }
+    },
+    "OpenGL": {
+      "find_library": null,
+      "libOpenGL.so": {
+        "loaded": false,
+        "error": "libOpenGL.so: cannot open shared object file: No such file or directory"
+      },
+      "libOpenGL.so.1": {
+        "loaded": false,
+        "error": "libOpenGL.so.1: cannot open shared object file: No such file or directory"
+      },
+      "libOpenGL.so.0": {
+        "loaded": true,
+        "name": "libOpenGL.so.0"
+      }
+    },
+    "GLX_nvidia": {
+      "find_library": null,
+      "libGLX_nvidia.so": {
+        "loaded": false,
+        "error": "libGLX_nvidia.so: cannot open shared object file: No such file or directory"
+      },
+      "libGLX_nvidia.so.1": {
+        "loaded": false,
+        "error": "libGLX_nvidia.so.1: cannot open shared object file: No such file or directory"
+      },
+      "libGLX_nvidia.so.0": {
+        "loaded": false,
+        "error": "libGLX_nvidia.so.0: cannot open shared object file: No such file or directory"
+      }
+    },
+    "OSMesa": {
+      "find_library": "/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/lib/libOSMesa.so.8",
+      "/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/lib/libOSMesa.so.8": {
+        "loaded": true,
+        "name": "/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/lib/libOSMesa.so.8"
+      },
+      "libOSMesa.so": {
+        "loaded": true,
+        "name": "libOSMesa.so"
+      },
+      "libOSMesa.so.1": {
+        "loaded": false,
+        "error": "libOSMesa.so.1: cannot open shared object file: No such file or directory"
+      },
+      "libOSMesa.so.0": {
+        "loaded": false,
+        "error": "libOSMesa.so.0: cannot open shared object file: No such file or directory"
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "label": "k1_seed2",
+  "status": "CANCELLED_USER_SCOPE",
+  "pid": 2438871,
+  "command": [
+    "/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/bin/python",
+    "-u",
+    "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/scripts/worker.py",
+    "--phase",
+    "train",
+    "--output",
+    "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/models/k1_seed2",
+    "--chunk",
+    "1",
+    "--seed",
+    "2",
+    "--epochs",
+    "2000"
+  ],
+  "directory": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/models/k1_seed2",
+  "started_at": "2026-10-27T12:43:37.359429+08:00",
+  "start_timestamp": 1793076217.3594787,
+  "start_monotonic": 4131321.929330292,
+  "ended_at": "2026-10-27T13:25:47.975473+08:00",
+  "end_timestamp": 1793078747.9783864,
+  "exit_code": null,
+  "termination_signal": "SIGTERM",
+  "termination_reason": "User reduced training seeds to [0]; preserve artifacts but exclude all seed 1/2 results",
+  "elapsed_seconds": 2530.6189046539366
+}

@@ -1,0 +1,9 @@
+{
+  "pid": 2680932,
+  "started_at": "2026-10-27T13:58:59.268644+08:00",
+  "system_python": "/usr/bin/python",
+  "metadata_validation_python": "/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/bin/python",
+  "status": "STOPPED_USER_MANAGES_INSERTION_DATA",
+  "stopped_at": 1793081073.1439233,
+  "partial_files_preserved": true
+}

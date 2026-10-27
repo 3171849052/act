@@ -1,0 +1,27 @@
+{
+  "status": "SUCCEEDED",
+  "pid": 40102,
+  "command": [
+    "nice",
+    "-n",
+    "10",
+    "/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/bin/python",
+    "-u",
+    "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v3_results/scripts/worker.py",
+    "--phase",
+    "train",
+    "--task",
+    "insertion_scripted_seed0",
+    "--output",
+    "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v3_results/models/insertion_scripted_seed0",
+    "--epochs",
+    "2000"
+  ],
+  "directory": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v3_results/models/insertion_scripted_seed0",
+  "phase": "train",
+  "started_at": "2026-10-27T15:15:37.542806+08:00",
+  "start_monotonic": 943865.344254711,
+  "exit_code": 0,
+  "ended_at": "2026-10-27T15:49:56.024017+08:00",
+  "elapsed_seconds": 2058.4812214470003
+}

@@ -1,0 +1,34 @@
+{
+  "passed": true,
+  "time": "2026-10-27T16:59:37.266766+08:00",
+  "models": {
+    "cube_transfer_human_seed0": {
+      "epochs": 2000,
+      "task_name": "sim_transfer_cube_human",
+      "best_epoch": 1970,
+      "best_validation_loss": 0.13779562711715698,
+      "checkpoint_sha256": "f7d003bc55af3ff9e1cad24186da7ac3a235c4303ae6de720e1b16f0ee45014d",
+      "stats_sha256": "e63cfef8d65b96569fbe351139395c8eabd18f7b2405af872460a01cce80d161"
+    },
+    "insertion_scripted_seed0": {
+      "epochs": 2000,
+      "task_name": "sim_insertion_scripted",
+      "best_epoch": 1646,
+      "best_validation_loss": 0.04322348162531853,
+      "checkpoint_sha256": "8199924c70f6b7c731d3d5368ea7d42f494b272cd9a25493616383657ee9f92c",
+      "stats_sha256": "4e64dcd123eb05c4a47d8c93cd1a911e4bfc336ee2944c5b1cf494869379e2b6"
+    },
+    "insertion_human_seed0": {
+      "epochs": 2000,
+      "task_name": "sim_insertion_human",
+      "best_epoch": 1370,
+      "best_validation_loss": 0.13782554864883423,
+      "checkpoint_sha256": "429ea8a99fda860bad5b6e3e809ab7fe6acd072b314ff1d289ed17b911f43b28",
+      "stats_sha256": "c9dae4f7c0062d53cb527c0ea4c86469c8cba3dffdc83b02287cccc026fdc35a"
+    }
+  },
+  "episodes": 150,
+  "v2_completed": true,
+  "rendering_backend": "OSMesa llvmpipe CPU",
+  "training_seed": 0
+}

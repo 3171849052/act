@@ -1,0 +1,5 @@
+group,chunk_size,temporal_aggregation,completed_training_seeds,expected_training_seeds,episodes,successes,mean_seed_success_rate,sample_std_seed_success_rate,pooled_success_rate,mean_episode_return,mean_touch_cube_rate,mean_lift_cube_rate,mean_left_contact_rate,status
+main,100,True,1,1,50,49,0.98,,0.98,639.92,1.0,0.98,0.98,complete
+ablation,1,False,1,1,50,0,0.0,,0.0,0.0,0.0,0.0,0.0,complete
+ablation,100,False,1,1,50,46,0.92,,0.92,613.8,0.98,0.94,0.92,complete
+ablation,400,False,1,1,50,48,0.96,,0.96,490.08,1.0,1.0,0.96,complete

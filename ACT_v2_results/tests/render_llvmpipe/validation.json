@@ -1,0 +1,58 @@
+{
+  "passed": true,
+  "renderer": "llvmpipe",
+  "time": "2026-10-27T11:22:22.527067+08:00",
+  "poses": [
+    [
+      0.03,
+      0.42,
+      0.05,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.17,
+      0.58,
+      0.05,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  ],
+  "steps": 5,
+  "comparisons": [
+    {
+      "pose": 0,
+      "observations": 6,
+      "pixels_physics_rewards_numpy_python_torch_rng_exact": true
+    },
+    {
+      "pose": 1,
+      "observations": 6,
+      "pixels_physics_rewards_numpy_python_torch_rng_exact": true
+    }
+  ],
+  "gl_identity": {
+    "GL_VENDOR": "Mesa",
+    "GL_RENDERER": "llvmpipe (LLVM 17.0.6, 256 bits)",
+    "GL_VERSION": "4.5 (Compatibility Profile) Mesa 24.0.5-1ubuntu1",
+    "gl_error": 0,
+    "context_class": "dm_control._render.pyopengl.osmesa_renderer.OSMesaContext"
+  },
+  "timings_seconds": {
+    "all_cameras": [
+      2.0764074842445552,
+      1.8684455319307745
+    ],
+    "top_only": [
+      0.726299490313977,
+      0.6837772489525378
+    ]
+  },
+  "camera_filter_speedup": 2.79761583630359,
+  "mean_top_step_seconds": 0.11750639493887623,
+  "context_released": true
+}

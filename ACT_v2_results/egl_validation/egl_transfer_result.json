@@ -1,0 +1,25 @@
+{
+  "passed": false,
+  "backend": "egl",
+  "stage": "preflight",
+  "repeats": 3,
+  "steps_per_repeat": 5,
+  "fixed_box_pose": [
+    0.15,
+    0.5,
+    0.05,
+    1.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "camera": "top",
+  "image_shape": [
+    480,
+    640,
+    3
+  ],
+  "image_channels": "RGB",
+  "timing_note": "reset/step include original ACT top,angle,vis observations; render is one additional top frame; warmup excluded",
+  "error": "Traceback (most recent call last):\n  File \"/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/egl_validation/test_transfer_cube_egl.py\", line 39, in main\n    raise RuntimeError('BLOCKED: NVIDIA EGL probe has not passed; no Transfer Cube GPU run attempted')\nRuntimeError: BLOCKED: NVIDIA EGL probe has not passed; no Transfer Cube GPU run attempted\n"
+}

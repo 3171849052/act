@@ -1,0 +1,7 @@
+{
+  "name": "gdown",
+  "version": "6.4.2",
+  "url": "https://files.pythonhosted.org/packages/75/87/c0aa20d3f08d79c61bfe8f3713d0b99b61ef2ce714fa9749930f73ad865c/gdown-6.4.2-py3-none-any.whl",
+  "sha256": "feca9f54800b90f639729975a003958393f3003313c3e9cdb6c9838fe42ae5c6",
+  "installation": "unpacked only in V3 runtime; system and Conda packages unchanged"
+}

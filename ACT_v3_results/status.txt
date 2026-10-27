@@ -1,0 +1,13 @@
+ACT_V3 COMPLETED
+更新时间: 2026-10-27T16:59:37.873445+08:00
+调度器 PID: 40101
+CUDA 训练；OSMesa LLVMpipe CPU 仿真；seed=0；V3 正式评估等待 V2 完成
+当前训练并发上限: 2
+V2: V2_VERIFIED_COMPLETED
+models cube_transfer_human_seed0: SUCCEEDED 2000/2000
+models insertion_scripted_seed0: SUCCEEDED 2000/2000
+models insertion_human_seed0: SUCCEEDED 2000/2000
+evaluations cube_transfer_human_seed0: SUCCEEDED 50/50
+evaluations insertion_scripted_seed0: SUCCEEDED 50/50
+evaluations insertion_human_seed0: SUCCEEDED 50/50
+finish.txt: True

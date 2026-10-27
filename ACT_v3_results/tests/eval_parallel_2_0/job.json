@@ -1,0 +1,26 @@
+{
+  "status": "RUNNING",
+  "pid": 157430,
+  "command": [
+    "nice",
+    "-n",
+    "10",
+    "/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/bin/python",
+    "-u",
+    "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v3_results/scripts/worker.py",
+    "--phase",
+    "eval",
+    "--task",
+    "cube_transfer_human_seed0",
+    "--output",
+    "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v3_results/tests/eval_parallel_2_0",
+    "--epochs",
+    "2000",
+    "--smoke_episodes",
+    "1"
+  ],
+  "directory": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v3_results/tests/eval_parallel_2_0",
+  "phase": "eval",
+  "started_at": "2026-10-27T15:51:24.230279+08:00",
+  "start_monotonic": 946012.031765913
+}

@@ -1,0 +1,23 @@
+{
+  "constants.py": "4f3362b0648f6835df3a700e61ed8084b75dfdf24acceed93c320474793a5cf6",
+  "ee_sim_env.py": "4c93d949c0829ffbbd1ea613e8278c095e8265ebf0dd33ca129958edd93e76c4",
+  "imitate_episodes.py": "f2b057cd497f3fef20bdc4197879d1c02e1c751f83154cce0183fcc10f7e2540",
+  "policy.py": "352efca415ee0e31073a27ca91560195702d1e9b545e573a3a668a53f06dd127",
+  "prepare_transfer_cube_data.py": "8f938edc29522b1b828563198abb6e67b38819e9fd8a37bc2b0aeee01affa632",
+  "record_sim_episodes.py": "1ad3bdb05defb3059f664851a99d9c2cee6fea1e2591882e1685ee123c81cb98",
+  "scripted_policy.py": "8b8425ea09c248d086e47eebaf3875be77bea7d3694fee83a1d7c8f0e1f25c36",
+  "sim_env.py": "691f555cb3d8ede94c8ddc9c76a996f03b00f3bbdee9726efa44cd75b19d0ada",
+  "utils.py": "71315de9e613024e781f089c2f46baa6a94be79daa97a45c8601829fc1badcec",
+  "visualize_episodes.py": "b2d543b0b9271317bf461383d6b6d42269d10787fdd556432db303f905cdff75",
+  "detr/main.py": "c849042c949d4cfe9ff41b4b167a2af67dae4ba4a0e8b7d25a875d04231a4162",
+  "detr/models/__init__.py": "7ed43d119c4bef1c46df821cc3b4f256153fbe59717a2e9f1825abc2d3b3e778",
+  "detr/models/backbone.py": "dec9770e496e2deb56f694e622a15d01ea3bdea977c2446fb3c41bc18cf4ed55",
+  "detr/models/detr_vae.py": "499d968a3704156e5e29425a29691c3fa93421481d3609ed6b600b21801270f1",
+  "detr/models/position_encoding.py": "5a8f62c66fc7ec66e862bdfe96e122098b93a688fbed514460990c74fa307151",
+  "detr/models/transformer.py": "c6d2a1e7138e6ca62db7cc61bfc99857fb2a3a9375ba7b304310ca264f357ee2",
+  "detr/setup.py": "96d9ab1a9911e640992121cf64a2d98c1894bf50e51589502388ecd08228f120",
+  "detr/util/__init__.py": "9e535c45af09ac24ef8d5631a151f77febafe72a92ad6bfeb2d941f0c4a54e35",
+  "detr/util/box_ops.py": "f0c1c3e27b0f69955e74b09b4ae1898e41e409d1af292c478ba8be71856112fc",
+  "detr/util/misc.py": "b56dfabebf8eded2e7dbf359e167bd308d9c75ee0394f63a751cad9eee597f00",
+  "detr/util/plot_utils.py": "45e371d165675185fce81142332da1408abc982585e24f7b084f6068fb51e529"
+}

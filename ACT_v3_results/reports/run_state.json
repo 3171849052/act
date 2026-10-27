@@ -1,0 +1,389 @@
+{
+  "status": "COMPLETED",
+  "started_at": "2026-10-27T14:02:20.621490+08:00",
+  "models": {
+    "cube_transfer_human_seed0": {
+      "status": "SUCCEEDED",
+      "attempts": [
+        {
+          "status": "FAILED",
+          "pid": 2688773,
+          "command": [
+            "nice",
+            "-n",
+            "10",
+            "/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/bin/python",
+            "-u",
+            "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v3_results/scripts/worker.py",
+            "--phase",
+            "train",
+            "--task",
+            "cube_transfer_human_seed0",
+            "--output",
+            "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v3_results/models/cube_transfer_human_seed0",
+            "--epochs",
+            "2000"
+          ],
+          "directory": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v3_results/models/cube_transfer_human_seed0",
+          "phase": "train",
+          "started_at": "2026-10-27T14:02:20.661505+08:00",
+          "start_monotonic": 4136045.231370685,
+          "exit_code": 1,
+          "ended_at": "2026-10-27T14:02:30.935413+08:00",
+          "elapsed_seconds": 10.273918727878481
+        },
+        {
+          "status": "SUCCEEDED",
+          "pid": 2699505,
+          "command": [
+            "nice",
+            "-n",
+            "10",
+            "/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/bin/python",
+            "-u",
+            "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v3_results/scripts/worker.py",
+            "--phase",
+            "train",
+            "--task",
+            "cube_transfer_human_seed0",
+            "--output",
+            "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v3_results/models/cube_transfer_human_seed0_attempt1",
+            "--epochs",
+            "2000"
+          ],
+          "directory": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v3_results/models/cube_transfer_human_seed0_attempt1",
+          "phase": "train",
+          "started_at": "2026-10-27T14:06:25.979594+08:00",
+          "start_monotonic": 4136290.549454298,
+          "exit_code": 0,
+          "ended_at": "2026-10-27T14:34:31.658470+08:00",
+          "elapsed_seconds": 1685.6788918389939
+        }
+      ],
+      "directory": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v3_results/models/cube_transfer_human_seed0_attempt1",
+      "pid": 2699505,
+      "progress": {
+        "epochs_completed": 2000,
+        "target_epochs": 2000,
+        "updated_at": "2026-10-27T14:34:17.389026+08:00",
+        "last_epoch_seconds": 0.7792380750179291,
+        "best_epoch": 1970,
+        "best_validation_loss": 0.13779562711715698
+      },
+      "artifacts": {
+        "epochs": 2000,
+        "task_name": "sim_transfer_cube_human",
+        "best_epoch": 1970,
+        "best_validation_loss": 0.13779562711715698,
+        "checkpoint_sha256": "f7d003bc55af3ff9e1cad24186da7ac3a235c4303ae6de720e1b16f0ee45014d",
+        "stats_sha256": "e63cfef8d65b96569fbe351139395c8eabd18f7b2405af872460a01cce80d161"
+      }
+    },
+    "insertion_scripted_seed0": {
+      "status": "SUCCEEDED",
+      "attempts": [
+        {
+          "status": "SUCCEEDED",
+          "pid": 40102,
+          "command": [
+            "nice",
+            "-n",
+            "10",
+            "/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/bin/python",
+            "-u",
+            "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v3_results/scripts/worker.py",
+            "--phase",
+            "train",
+            "--task",
+            "insertion_scripted_seed0",
+            "--output",
+            "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v3_results/models/insertion_scripted_seed0",
+            "--epochs",
+            "2000"
+          ],
+          "directory": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v3_results/models/insertion_scripted_seed0",
+          "phase": "train",
+          "started_at": "2026-10-27T15:15:37.542806+08:00",
+          "start_monotonic": 943865.344254711,
+          "exit_code": 0,
+          "ended_at": "2026-10-27T15:49:56.024017+08:00",
+          "elapsed_seconds": 2058.4812214470003
+        }
+      ],
+      "directory": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v3_results/models/insertion_scripted_seed0",
+      "pid": 40102,
+      "progress": {
+        "epochs_completed": 2000,
+        "target_epochs": 2000,
+        "updated_at": "2026-10-27T15:49:43.634001+08:00",
+        "last_epoch_seconds": 1.0602511229226366,
+        "best_epoch": 1646,
+        "best_validation_loss": 0.04322348162531853
+      },
+      "artifacts": {
+        "epochs": 2000,
+        "task_name": "sim_insertion_scripted",
+        "best_epoch": 1646,
+        "best_validation_loss": 0.04322348162531853,
+        "checkpoint_sha256": "8199924c70f6b7c731d3d5368ea7d42f494b272cd9a25493616383657ee9f92c",
+        "stats_sha256": "4e64dcd123eb05c4a47d8c93cd1a911e4bfc336ee2944c5b1cf494869379e2b6"
+      }
+    },
+    "insertion_human_seed0": {
+      "status": "SUCCEEDED",
+      "attempts": [
+        {
+          "status": "SUCCEEDED",
+          "pid": 40103,
+          "command": [
+            "nice",
+            "-n",
+            "10",
+            "/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/bin/python",
+            "-u",
+            "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v3_results/scripts/worker.py",
+            "--phase",
+            "train",
+            "--task",
+            "insertion_human_seed0",
+            "--output",
+            "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v3_results/models/insertion_human_seed0",
+            "--epochs",
+            "2000"
+          ],
+          "directory": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v3_results/models/insertion_human_seed0",
+          "phase": "train",
+          "started_at": "2026-10-27T15:15:37.565511+08:00",
+          "start_monotonic": 943865.366959127,
+          "exit_code": 0,
+          "ended_at": "2026-10-27T15:49:56.039113+08:00",
+          "elapsed_seconds": 2058.473610286019
+        }
+      ],
+      "directory": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v3_results/models/insertion_human_seed0",
+      "pid": 40103,
+      "progress": {
+        "epochs_completed": 2000,
+        "target_epochs": 2000,
+        "updated_at": "2026-10-27T15:49:44.206836+08:00",
+        "last_epoch_seconds": 0.7610329140443355,
+        "best_epoch": 1370,
+        "best_validation_loss": 0.13782554864883423
+      },
+      "artifacts": {
+        "epochs": 2000,
+        "task_name": "sim_insertion_human",
+        "best_epoch": 1370,
+        "best_validation_loss": 0.13782554864883423,
+        "checkpoint_sha256": "429ea8a99fda860bad5b6e3e809ab7fe6acd072b314ff1d289ed17b911f43b28",
+        "stats_sha256": "c9dae4f7c0062d53cb527c0ea4c86469c8cba3dffdc83b02287cccc026fdc35a"
+      }
+    }
+  },
+  "evaluations": {
+    "cube_transfer_human_seed0": {
+      "status": "SUCCEEDED",
+      "attempts": [
+        {
+          "status": "SUCCEEDED",
+          "pid": 160501,
+          "command": [
+            "nice",
+            "-n",
+            "10",
+            "/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/bin/python",
+            "-u",
+            "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v3_results/scripts/worker.py",
+            "--phase",
+            "eval",
+            "--task",
+            "cube_transfer_human_seed0",
+            "--output",
+            "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v3_results/evaluations/cube_transfer_human_seed0",
+            "--epochs",
+            "2000"
+          ],
+          "directory": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v3_results/evaluations/cube_transfer_human_seed0",
+          "phase": "eval",
+          "started_at": "2026-10-27T15:53:34.906279+08:00",
+          "start_monotonic": 946142.707759728,
+          "exit_code": 0,
+          "ended_at": "2026-10-27T16:42:22.413026+08:00",
+          "elapsed_seconds": 2927.506720694015
+        }
+      ],
+      "directory": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v3_results/evaluations/cube_transfer_human_seed0",
+      "pid": 160501,
+      "progress": {
+        "episodes_completed": 50,
+        "target_episodes": 50,
+        "successes": 29,
+        "updated_at": "2026-10-27T16:42:07.617151+08:00"
+      },
+      "metrics": {
+        "episodes": 50,
+        "successes": 29,
+        "success_rate": 0.58,
+        "average_return": 379.26,
+        "threshold_rates": {
+          "1": 1.0,
+          "2": 0.64,
+          "3": 0.58,
+          "4": 0.58
+        },
+        "renderer": {
+          "GL_VENDOR": "Mesa",
+          "GL_RENDERER": "llvmpipe (LLVM 17.0.6, 256 bits)",
+          "GL_VERSION": "4.5 (Compatibility Profile) Mesa 24.0.5-1ubuntu1",
+          "gl_error": 0,
+          "context_class": "dm_control._render.pyopengl.osmesa_renderer.OSMesaContext"
+        },
+        "context_released": true
+      }
+    },
+    "insertion_scripted_seed0": {
+      "status": "SUCCEEDED",
+      "attempts": [
+        {
+          "status": "SUCCEEDED",
+          "pid": 160502,
+          "command": [
+            "nice",
+            "-n",
+            "10",
+            "/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/bin/python",
+            "-u",
+            "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v3_results/scripts/worker.py",
+            "--phase",
+            "eval",
+            "--task",
+            "insertion_scripted_seed0",
+            "--output",
+            "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v3_results/evaluations/insertion_scripted_seed0",
+            "--epochs",
+            "2000"
+          ],
+          "directory": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v3_results/evaluations/insertion_scripted_seed0",
+          "phase": "eval",
+          "started_at": "2026-10-27T15:53:34.918032+08:00",
+          "start_monotonic": 946142.719509375,
+          "exit_code": 0,
+          "ended_at": "2026-10-27T16:43:12.842764+08:00",
+          "elapsed_seconds": 2977.924709860934
+        }
+      ],
+      "directory": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v3_results/evaluations/insertion_scripted_seed0",
+      "pid": 160502,
+      "progress": {
+        "episodes_completed": 50,
+        "target_episodes": 50,
+        "successes": 4,
+        "updated_at": "2026-10-27T16:43:06.463559+08:00"
+      },
+      "metrics": {
+        "episodes": 50,
+        "successes": 4,
+        "success_rate": 0.08,
+        "average_return": 354.28,
+        "threshold_rates": {
+          "1": 1.0,
+          "2": 1.0,
+          "3": 0.94,
+          "4": 0.08
+        },
+        "renderer": {
+          "GL_VENDOR": "Mesa",
+          "GL_RENDERER": "llvmpipe (LLVM 17.0.6, 256 bits)",
+          "GL_VERSION": "4.5 (Compatibility Profile) Mesa 24.0.5-1ubuntu1",
+          "gl_error": 0,
+          "context_class": "dm_control._render.pyopengl.osmesa_renderer.OSMesaContext"
+        },
+        "context_released": true
+      }
+    },
+    "insertion_human_seed0": {
+      "status": "SUCCEEDED",
+      "attempts": [
+        {
+          "status": "SUCCEEDED",
+          "pid": 160503,
+          "command": [
+            "nice",
+            "-n",
+            "10",
+            "/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/bin/python",
+            "-u",
+            "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v3_results/scripts/worker.py",
+            "--phase",
+            "eval",
+            "--task",
+            "insertion_human_seed0",
+            "--output",
+            "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v3_results/evaluations/insertion_human_seed0",
+            "--epochs",
+            "2000"
+          ],
+          "directory": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v3_results/evaluations/insertion_human_seed0",
+          "phase": "eval",
+          "started_at": "2026-10-27T15:53:34.939011+08:00",
+          "start_monotonic": 946142.740488112,
+          "exit_code": 0,
+          "ended_at": "2026-10-27T16:56:29.157631+08:00",
+          "elapsed_seconds": 3774.2186139230616
+        }
+      ],
+      "directory": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v3_results/evaluations/insertion_human_seed0",
+      "pid": 160503,
+      "progress": {
+        "episodes_completed": 50,
+        "target_episodes": 50,
+        "successes": 14,
+        "updated_at": "2026-10-27T16:56:17.976439+08:00"
+      },
+      "metrics": {
+        "episodes": 50,
+        "successes": 14,
+        "success_rate": 0.28,
+        "average_return": 500.62,
+        "threshold_rates": {
+          "1": 0.92,
+          "2": 0.78,
+          "3": 0.74,
+          "4": 0.28
+        },
+        "renderer": {
+          "GL_VENDOR": "Mesa",
+          "GL_RENDERER": "llvmpipe (LLVM 17.0.6, 256 bits)",
+          "GL_VERSION": "4.5 (Compatibility Profile) Mesa 24.0.5-1ubuntu1",
+          "gl_error": 0,
+          "context_class": "dm_control._render.pyopengl.osmesa_renderer.OSMesaContext"
+        },
+        "context_released": true
+      }
+    }
+  },
+  "pid": 40101,
+  "updated_at": "2026-10-27T16:59:37.873445+08:00",
+  "v2": {
+    "checked_at": "2026-10-27T15:50:06.302679+08:00",
+    "completed": true,
+    "training_overlap_allowed": true,
+    "reason": "V2 plan, state, completion marker, integrity, selected task artifacts and no-live-worker checks agree",
+    "state_status": "COMPLETED",
+    "state_phase": "completed",
+    "live_workers": [],
+    "expected_models": 3,
+    "expected_evaluations": 4,
+    "expected_episodes": 200,
+    "all_v2_models_trained": true,
+    "condition": "V2_VERIFIED_COMPLETED",
+    "evidence_sha256": {
+      "finish.txt": "ac83739de8f997d81059c28289d5caf335af5de01706ef9a5a62e65c2c8272f1",
+      "experiment_plan.json": "0afb55534b5478d4a86cc9401b770950715148b3c84e22df468ee124b0a6df55",
+      "reports/integrity_check.json": "108c2ac5424a29f5e3385d8161c2ecc5571cd9c947e9a1aa9c681bc9f8691ced"
+    }
+  },
+  "train_parallel": 2,
+  "v2_completed_verified_at": "2026-10-27T15:50:06.307875+08:00",
+  "eval_parallel": 3
+}

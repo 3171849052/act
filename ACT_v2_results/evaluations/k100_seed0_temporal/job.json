@@ -1,0 +1,29 @@
+{
+  "label": "k100_seed0_temporal",
+  "status": "SUCCEEDED",
+  "pid": 2339451,
+  "command": [
+    "/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/bin/python",
+    "-u",
+    "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/scripts/worker.py",
+    "--phase",
+    "eval",
+    "--output",
+    "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/evaluations/k100_seed0_temporal",
+    "--chunk",
+    "100",
+    "--seed",
+    "0",
+    "--epochs",
+    "2000",
+    "--temporal"
+  ],
+  "directory": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/evaluations/k100_seed0_temporal",
+  "started_at": "2026-10-27T12:18:53.050306+08:00",
+  "start_timestamp": 1793074733.0503583,
+  "start_monotonic": 4129837.620210002,
+  "exit_code": 0,
+  "ended_at": "2026-10-27T13:20:26.881822+08:00",
+  "end_timestamp": 1793078426.8818555,
+  "elapsed_seconds": 3693.831494135782
+}

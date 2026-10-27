@@ -1,0 +1,18 @@
+V2_COMPLETED_WITH_USER_AUTHORIZED_OSMESA_CPU_RENDERING
+完成时间: 2026-10-27T15:47:40.038829+08:00
+NVIDIA EGL: 未启用；采用用户明确授权的 CPU 渲染替代协议
+GL_RENDERER: llvmpipe (LLVM 17.0.6, 256 bits)
+ACT k=1/100/400 × training_seeds=[0]，各 2000 epochs；batch_size=8，lr=1e-5，KL=10，hidden=512，FF=3200，ResNet18，top
+单训练种子；种子间标准差不适用。seed=1/2 历史文件保留，排除正式统计。
+最佳验证检查点及配套归一化统计全部有效；k100 模型复用于主实验与消融，无重复训练
+训练 k100_seed0: SUCCEEDED 2000/2000
+训练 k1_seed0: SUCCEEDED 2000/2000
+训练 k400_seed0: SUCCEEDED 2000/2000
+评估 k100_seed0_temporal: SUCCEEDED 50/50 × 400 steps
+评估 k100_seed0_no_temporal: SUCCEEDED 50/50 × 400 steps
+评估 k1_seed0_no_temporal: SUCCEEDED 50/50 × 400 steps
+评估 k400_seed0_no_temporal: SUCCEEDED 50/50 × 400 steps
+正式评估回合合计: 200
+报告: /XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/reports/final_report.md
+完整性检查: /XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/reports/integrity_check.json
+E1_results 全量文件及 50 条示范 SHA256 保持不变

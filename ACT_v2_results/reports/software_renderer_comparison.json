@@ -1,0 +1,23 @@
+{
+  "physical_states_exact": true,
+  "shape": [
+    12,
+    480,
+    640,
+    3
+  ],
+  "dtype": "uint8",
+  "mae": 0.40145751953125,
+  "rmse": 3.6891262769598065,
+  "max": 139.0,
+  "p99": 18.0,
+  "fraction_channels_difference_gt_10": 0.013652705439814814,
+  "channel_mae": [
+    0.4043177625868056,
+    0.4000273980034722,
+    0.4000273980034722
+  ],
+  "software_rendering_only": true,
+  "softpipe_to_llvmpipe_top_speedup": 5.540276483528174,
+  "softpipe_all_to_llvmpipe_top_speedup": 16.34791916410726
+}

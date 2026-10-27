@@ -1,0 +1,39 @@
+{
+  "results": [
+    {
+      "concurrency": 1,
+      "stable": true,
+      "wall_seconds": 55.47337199002504,
+      "episodes": 1,
+      "episodes_per_second": 0.018026666923723605,
+      "directories": [
+        "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v3_results/tests/eval_parallel_1_0"
+      ]
+    },
+    {
+      "concurrency": 2,
+      "stable": true,
+      "wall_seconds": 65.2588727530092,
+      "episodes": 2,
+      "episodes_per_second": 0.030647173566260788,
+      "directories": [
+        "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v3_results/tests/eval_parallel_2_0",
+        "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v3_results/tests/eval_parallel_2_1"
+      ]
+    },
+    {
+      "concurrency": 3,
+      "stable": true,
+      "wall_seconds": 65.38406104699243,
+      "episodes": 3,
+      "episodes_per_second": 0.04588274193987214,
+      "directories": [
+        "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v3_results/tests/eval_parallel_3_0",
+        "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v3_results/tests/eval_parallel_3_1",
+        "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v3_results/tests/eval_parallel_3_2"
+      ]
+    }
+  ],
+  "selected_concurrency": 3,
+  "reason": "Measured concurrency"
+}

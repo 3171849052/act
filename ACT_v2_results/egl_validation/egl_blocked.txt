@@ -1,0 +1,23 @@
+EGL_GPU_RENDERING_BLOCKED
+
+阻塞层：容器原生 EGL 加载及 NVIDIA graphics 驱动组件暴露。
+
+证据：
+1. GPU A800 80GB PCIe、驱动 595.45.04，nvidia-smi 正常；设备节点可读写。
+2. Kubernetes/containerd 挂载证据见 mountinfo.txt；NVIDIA_DRIVER_CAPABILITIES=compute,utility,video，没有 graphics。
+3. libEGL.so.1 和 NVIDIA EGL/vendor 库在已检查的系统及 act-repro 前缀中缺失，CDLL 实际加载失败；ldconfig、find、ldd 和 vendor 证据均已保存。
+4. egl_probe.log / egl_probe_result.json 实际复现 AttributeError: 'NoneType' object has no attribute 'eglQueryString'，停在 import_mujoco。
+5. egl_loader_isolation.log 显示 PyOpenGL 已选择 EGLPlatform，但 PLATFORM.EGL=None；切换到 Conda 完整 lib 后直接导入 dm_control 仍失败。
+6. 系统没有 NVIDIA vendor JSON；Conda sysroot 只有 Mesa vendor，不是 NVIDIA GPU，不能用于替代。
+7. OSMesa Transfer Cube 短基线通过，真实 GL_RENDERER=softpipe；顶部单帧平均 647.460945 ms。EGL 数据和加速比均为空。
+
+下一步（需要管理员/容器平台，当前未执行）：
+在原 Kubernetes 工作负载配置基础上创建独立验证任务，在创建前设置 NVIDIA_DRIVER_CAPABILITIES=compute,utility,video,graphics，保留平台原 GPU 分配和数据卷；确认 NVIDIA runtime/设备注入实际提供与宿主 595.45.04 匹配的 libEGL_nvidia、libnvidia-eglcore、图形依赖、GLVND libEGL.so.1 和 NVIDIA vendor JSON。不能只在现容器 export 环境变量，也不需要擅自重装驱动/CUDA。
+精确模板片段、平台查询及验证命令见 admin_graphics_configuration.md。
+补齐后，归档本目录，在激活 act-repro 之后设置 MUJOCO_GL=egl、PYOPENGL_PLATFORM=egl、MUJOCO_EGL_DEVICE_ID=0、MPLBACKEND=Agg，先运行 probe_egl.py，再运行 benchmark_render.py，查看图像与一致性结果。
+全部八项成功标准通过前不得创建 egl_success.txt。本次未创建该文件。
+
+中文报告：egl_validation_report.md
+机器可读结果：benchmark_results.json
+
+COMPLETED_AT=2026-10-27T11:08:19.816711+08:00

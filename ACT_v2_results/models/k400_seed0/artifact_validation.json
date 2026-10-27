@@ -1,0 +1,7 @@
+{
+  "epochs": 2000,
+  "best_epoch": 1829,
+  "best_validation_loss": 0.020572815090417862,
+  "checkpoint_sha256": "60f67d804cd0adcf5787c996b0350fa2e5e0339bc59dcf669d7bb8d3c3270837",
+  "stats_sha256": "0780cc6244e3e039a3ffb28f2233cbbf348a8e18f24740909788617b4181cdcd"
+}

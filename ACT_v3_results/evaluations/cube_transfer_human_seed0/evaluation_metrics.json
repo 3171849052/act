@@ -1,0 +1,20 @@
+{
+  "episodes": 50,
+  "successes": 29,
+  "success_rate": 0.58,
+  "average_return": 379.26,
+  "threshold_rates": {
+    "1": 1.0,
+    "2": 0.64,
+    "3": 0.58,
+    "4": 0.58
+  },
+  "renderer": {
+    "GL_VENDOR": "Mesa",
+    "GL_RENDERER": "llvmpipe (LLVM 17.0.6, 256 bits)",
+    "GL_VERSION": "4.5 (Compatibility Profile) Mesa 24.0.5-1ubuntu1",
+    "gl_error": 0,
+    "context_class": "dm_control._render.pyopengl.osmesa_renderer.OSMesaContext"
+  },
+  "context_released": true
+}

@@ -1,0 +1,24 @@
+{
+  "label": "k400_seed0_no_temporal",
+  "status": "RUNNING",
+  "pid": 2709380,
+  "command": [
+    "/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/bin/python",
+    "-u",
+    "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/scripts/worker.py",
+    "--phase",
+    "eval",
+    "--output",
+    "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/evaluations/k400_seed0_no_temporal",
+    "--chunk",
+    "400",
+    "--seed",
+    "0",
+    "--epochs",
+    "2000"
+  ],
+  "directory": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/evaluations/k400_seed0_no_temporal",
+  "started_at": "2026-10-27T14:10:31.967239+08:00",
+  "start_timestamp": 1793081431.9672894,
+  "start_monotonic": 4136536.537140949
+}

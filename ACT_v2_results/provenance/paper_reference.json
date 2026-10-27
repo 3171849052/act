@@ -1,0 +1,11 @@
+{
+  "source": "https://arxiv.org/pdf/2304.13705",
+  "table": "Table I",
+  "page": 8,
+  "task": "Cube Transfer (sim)",
+  "data": "scripted",
+  "success_rate": 0.86,
+  "training_seeds": 3,
+  "policy_evaluations_per_seed": 50,
+  "note": "Published paper reference; never part of V2 measured results"
+}

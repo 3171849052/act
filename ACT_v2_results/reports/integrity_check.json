@@ -1,0 +1,45 @@
+{
+  "passed": true,
+  "time": "2026-10-27T15:47:38.966775+08:00",
+  "models": {
+    "k100_seed0": {
+      "epochs": 2000,
+      "best_epoch": 1995,
+      "best_validation_loss": 0.04317197948694229,
+      "checkpoint_sha256": "f7a9742571412b8daa9dcff2e7dfc1d9d5b8299323ad1df8e9af141e8f95e180",
+      "stats_sha256": "0780cc6244e3e039a3ffb28f2233cbbf348a8e18f24740909788617b4181cdcd"
+    },
+    "k1_seed0": {
+      "epochs": 2000,
+      "best_epoch": 1939,
+      "best_validation_loss": 0.060187287628650665,
+      "checkpoint_sha256": "9663f51682b6d78f8688102f5b27e78bbc274ba412bf4c846aaa1e7a51a02a3a",
+      "stats_sha256": "0780cc6244e3e039a3ffb28f2233cbbf348a8e18f24740909788617b4181cdcd"
+    },
+    "k400_seed0": {
+      "epochs": 2000,
+      "best_epoch": 1829,
+      "best_validation_loss": 0.020572815090417862,
+      "checkpoint_sha256": "60f67d804cd0adcf5787c996b0350fa2e5e0339bc59dcf669d7bb8d3c3270837",
+      "stats_sha256": "0780cc6244e3e039a3ffb28f2233cbbf348a8e18f24740909788617b4181cdcd"
+    }
+  },
+  "e1_entire_manifest_unchanged": true,
+  "dataset_50_sha256_unchanged": true,
+  "physics_assets_unchanged": true,
+  "source_unchanged": true,
+  "shared_split": true,
+  "training_seeds": [
+    0
+  ],
+  "seed_variability_estimated": false,
+  "independent_training_initializations": null,
+  "renderer": "OSMesa / llvmpipe CPU",
+  "nvidia_egl_enabled": false,
+  "cpu_fallback_user_authorized": true,
+  "evaluation_groups": 4,
+  "episodes": 200,
+  "matching_initial_state_sequences": true,
+  "excluded_model_count": 6,
+  "excluded_evaluation_count": 8
+}

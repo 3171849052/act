@@ -1,0 +1,1042 @@
+[
+  {
+    "id": "1KrEtCH-63ULZ8DDmndUyltoZlbKIrc6f",
+    "path": "sim_insertion_human/episode_0.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_0.hdf5"
+  },
+  {
+    "id": "147Jwbas85C84WZUSEZ__QjUGB_Z0x_Ge",
+    "path": "sim_insertion_human/episode_0_qpos.png",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_0_qpos.png"
+  },
+  {
+    "id": "1n8EDingYmZUfhxGT4tsWAiWjdeDm68FB",
+    "path": "sim_insertion_human/episode_0_video.mp4",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_0_video.mp4"
+  },
+  {
+    "id": "1xrPBT9rhBn1iihTennK50Kf6J55758M6",
+    "path": "sim_insertion_human/episode_1.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_1.hdf5"
+  },
+  {
+    "id": "14HlsrHphqR1UiA4gh4-NfEuseEfbgLPn",
+    "path": "sim_insertion_human/episode_10.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_10.hdf5"
+  },
+  {
+    "id": "1Y1VhSNiw-H19bDS30ltBFs-EMhWrnDjz",
+    "path": "sim_insertion_human/episode_11.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_11.hdf5"
+  },
+  {
+    "id": "1ypAZEVYZb_THgzDcDlQR57xXXo_2ts86",
+    "path": "sim_insertion_human/episode_12.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_12.hdf5"
+  },
+  {
+    "id": "1yZHbHvKAJ5EaVslqxZD0G6my3tJao0Tg",
+    "path": "sim_insertion_human/episode_13.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_13.hdf5"
+  },
+  {
+    "id": "1WGTit0H8VBNmxNPqQz4qmJYZv6RtF1ti",
+    "path": "sim_insertion_human/episode_14.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_14.hdf5"
+  },
+  {
+    "id": "1bbtOi5_PuKUfCpJsPieZ3JAUtIs5NixO",
+    "path": "sim_insertion_human/episode_15.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_15.hdf5"
+  },
+  {
+    "id": "1kSjLbcmBqziU9ItkeeW1N6BkDgJDmQI-",
+    "path": "sim_insertion_human/episode_16.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_16.hdf5"
+  },
+  {
+    "id": "1E55g9H9S-bjjfK4R7yJHk_LvMpxoHQf-",
+    "path": "sim_insertion_human/episode_17.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_17.hdf5"
+  },
+  {
+    "id": "1KxsilvIz8DdfACNNsAcbo5Vma_3yzohn",
+    "path": "sim_insertion_human/episode_18.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_18.hdf5"
+  },
+  {
+    "id": "1fQ25b8-aLauuMlYWDZq2FyCY4vm5IajG",
+    "path": "sim_insertion_human/episode_19.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_19.hdf5"
+  },
+  {
+    "id": "1Z2PPIYT06BihIfgyfrviNIP6Znyr2hOI",
+    "path": "sim_insertion_human/episode_2.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_2.hdf5"
+  },
+  {
+    "id": "1WFdqPFDrlNZYAA-W3kZn8tK_vz3FiPyv",
+    "path": "sim_insertion_human/episode_20.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_20.hdf5"
+  },
+  {
+    "id": "1ADpL0bb3Vds85w4yUNuCL_Kb26EaJOl9",
+    "path": "sim_insertion_human/episode_21.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_21.hdf5"
+  },
+  {
+    "id": "1kiLuj253L5Pa2F-bqPzR6QgDY1MmY3hX",
+    "path": "sim_insertion_human/episode_22.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_22.hdf5"
+  },
+  {
+    "id": "1Dep920M2pagaw1u7GLD_vktTkbp4rtry",
+    "path": "sim_insertion_human/episode_23.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_23.hdf5"
+  },
+  {
+    "id": "1GuvWwoo6Dqspzmr8VD400Kjs7F-jhc54",
+    "path": "sim_insertion_human/episode_24.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_24.hdf5"
+  },
+  {
+    "id": "1nAoe9BF2kSu5SN33IW9PrdCWXyp45FtV",
+    "path": "sim_insertion_human/episode_25.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_25.hdf5"
+  },
+  {
+    "id": "1uIxKoM0QdnScnw8_C5anUPOgsw25zVto",
+    "path": "sim_insertion_human/episode_26.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_26.hdf5"
+  },
+  {
+    "id": "1C7TCElK7opDypiyZHF2Qgx6uo25KokAN",
+    "path": "sim_insertion_human/episode_27.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_27.hdf5"
+  },
+  {
+    "id": "19q8qxVf0i0dljgcjGUfU5vcrleM5FOGJ",
+    "path": "sim_insertion_human/episode_28.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_28.hdf5"
+  },
+  {
+    "id": "1g0vLryokQuUDpjKwu1eZS7iEpI2ueBD9",
+    "path": "sim_insertion_human/episode_29.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_29.hdf5"
+  },
+  {
+    "id": "1oRrDG2hpK_4ZtVe5gZYR4T7kh2K3nhF7",
+    "path": "sim_insertion_human/episode_3.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_3.hdf5"
+  },
+  {
+    "id": "1--wpJEMD-vX5IG9ptfRN3Xn9EbXvvDjj",
+    "path": "sim_insertion_human/episode_30.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_30.hdf5"
+  },
+  {
+    "id": "1Zc6JAZvgwXc-HF7_J6vSNSPkptrdsGlS",
+    "path": "sim_insertion_human/episode_31.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_31.hdf5"
+  },
+  {
+    "id": "1-ltgPY7Iwhi4maxjP6uSE6y9GTLA40au",
+    "path": "sim_insertion_human/episode_32.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_32.hdf5"
+  },
+  {
+    "id": "11W33rrUxAeiX6CPtDkqQaX6P_hpNNFRM",
+    "path": "sim_insertion_human/episode_33.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_33.hdf5"
+  },
+  {
+    "id": "1Mxs5PXPfgDOwisKcQObdpMyjdVUxzl6N",
+    "path": "sim_insertion_human/episode_34.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_34.hdf5"
+  },
+  {
+    "id": "1LN9-7zn6b3JbYURDrOqU3RWqyevYaEvN",
+    "path": "sim_insertion_human/episode_35.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_35.hdf5"
+  },
+  {
+    "id": "1zEjofFR1nrB0EF_0KG8CepGJyAVpyTUV",
+    "path": "sim_insertion_human/episode_36.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_36.hdf5"
+  },
+  {
+    "id": "1RFk8Of2SOTI1e4tvkUenzT45Fuaoxadi",
+    "path": "sim_insertion_human/episode_37.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_37.hdf5"
+  },
+  {
+    "id": "1Cj5g6nk5khZZOD3oA5odSZIetIMNlr4K",
+    "path": "sim_insertion_human/episode_38.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_38.hdf5"
+  },
+  {
+    "id": "1RimcD4naY2PJDEoeKfvTqe0L2dZrhy9Y",
+    "path": "sim_insertion_human/episode_39.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_39.hdf5"
+  },
+  {
+    "id": "1Z-p1f_jXmXT4UVxt4V4mlLZcYBkkQyJq",
+    "path": "sim_insertion_human/episode_4.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_4.hdf5"
+  },
+  {
+    "id": "1DUna8mBy2U8dt-7MsEk-y4zGf41Jkofy",
+    "path": "sim_insertion_human/episode_40.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_40.hdf5"
+  },
+  {
+    "id": "1uUASpBsYb45vgBcHj2Uv7A0IKsmdxuqH",
+    "path": "sim_insertion_human/episode_41.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_41.hdf5"
+  },
+  {
+    "id": "1fs8hl5wPDNf9Reo2mWiF8Vo_W4mMIGU7",
+    "path": "sim_insertion_human/episode_42.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_42.hdf5"
+  },
+  {
+    "id": "18ldB-FiJ0QVibBqkJap7Pct2qk6fS_dD",
+    "path": "sim_insertion_human/episode_43.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_43.hdf5"
+  },
+  {
+    "id": "1XCMFcOrLU4CI15U2CD57LjXJbH3KOiLk",
+    "path": "sim_insertion_human/episode_44.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_44.hdf5"
+  },
+  {
+    "id": "19ifmX72AjCoufqsxdrWzBYn_C9FPfbs-",
+    "path": "sim_insertion_human/episode_45.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_45.hdf5"
+  },
+  {
+    "id": "1v6EFXSAinf-FzWr2_46l-n2JmPz8wfkP",
+    "path": "sim_insertion_human/episode_46.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_46.hdf5"
+  },
+  {
+    "id": "1zxGthErg5yaTFcVZuCbzXmmQO38NAH9q",
+    "path": "sim_insertion_human/episode_47.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_47.hdf5"
+  },
+  {
+    "id": "18Cudl6nikDtgRolea7je8iF_gGKzynOP",
+    "path": "sim_insertion_human/episode_48.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_48.hdf5"
+  },
+  {
+    "id": "1C1kZYyROzs-PrLc0SkDgUgMi4-L3lauE",
+    "path": "sim_insertion_human/episode_49.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_49.hdf5"
+  },
+  {
+    "id": "1pCARnU_9AhBTDHGrjZhy49hY8CZLtSW6",
+    "path": "sim_insertion_human/episode_5.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_5.hdf5"
+  },
+  {
+    "id": "1mBiRHrehO7Q64howwmVAeD6iHsH8u3so",
+    "path": "sim_insertion_human/episode_6.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_6.hdf5"
+  },
+  {
+    "id": "1_XWiKI-7j-8ZNuXs-GkfvODnaEdxVmeC",
+    "path": "sim_insertion_human/episode_7.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_7.hdf5"
+  },
+  {
+    "id": "1ChxC3oa4PtldRmYeei9-UBFHHMqQbzbf",
+    "path": "sim_insertion_human/episode_8.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_8.hdf5"
+  },
+  {
+    "id": "1kiL0EtMg85hZoBDG_i4nuHEfunsuV0EU",
+    "path": "sim_insertion_human/episode_9.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_human/episode_9.hdf5"
+  },
+  {
+    "id": "1sAwN7lFxQ3FGdmPQJJw5bXfWzq-aoFBU",
+    "path": "sim_insertion_scripted/episode_0.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_0.hdf5"
+  },
+  {
+    "id": "1RbkOyicY5i-iCnuOruTMVuCEJaB8vN0y",
+    "path": "sim_insertion_scripted/episode_0_qpos.png",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_0_qpos.png"
+  },
+  {
+    "id": "1ouSrQUjopVnAxmTfGIlFxU0CwsHCTvVK",
+    "path": "sim_insertion_scripted/episode_0_video.mp4",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_0_video.mp4"
+  },
+  {
+    "id": "1mdfHnMHhfisSpvl9zKB1O74D6GFjAmNE",
+    "path": "sim_insertion_scripted/episode_1.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_1.hdf5"
+  },
+  {
+    "id": "1B7ZnuNkAuEIHkpkRnfo5hBnVeQ1gbRY_",
+    "path": "sim_insertion_scripted/episode_10.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_10.hdf5"
+  },
+  {
+    "id": "1rv2kx8PY5I9xQucskvT4RGfAJLmSCklc",
+    "path": "sim_insertion_scripted/episode_11.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_11.hdf5"
+  },
+  {
+    "id": "1UsOoaqlTojkN5HtZVKop7CsvdzZKEtw3",
+    "path": "sim_insertion_scripted/episode_12.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_12.hdf5"
+  },
+  {
+    "id": "1dpIPYStrgKXD3uKf9yznvLSeDUE_XybY",
+    "path": "sim_insertion_scripted/episode_13.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_13.hdf5"
+  },
+  {
+    "id": "12bl0nSUCI4L5sYId-Wxw6vjsmBIVGtc7",
+    "path": "sim_insertion_scripted/episode_14.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_14.hdf5"
+  },
+  {
+    "id": "1uAprX3gJl0s6M8cLZw0oRzoGWbBCxFJn",
+    "path": "sim_insertion_scripted/episode_15.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_15.hdf5"
+  },
+  {
+    "id": "1LvJp_NRc4CcrXxl61-WOZDRy2fpAfcay",
+    "path": "sim_insertion_scripted/episode_16.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_16.hdf5"
+  },
+  {
+    "id": "1K3bSQPEOpGghLWZsUnDWZ8CCRk5VHGqF",
+    "path": "sim_insertion_scripted/episode_17.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_17.hdf5"
+  },
+  {
+    "id": "13KKWbCY7E9UulgU3HuZ4qMnxPyANEQto",
+    "path": "sim_insertion_scripted/episode_18.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_18.hdf5"
+  },
+  {
+    "id": "1KD6SnQpv28S0beb-xk4WM-Kb13F5gDEO",
+    "path": "sim_insertion_scripted/episode_19.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_19.hdf5"
+  },
+  {
+    "id": "1W9okcqHPVhNLBXhhEAgQ7AmQqZiAhayW",
+    "path": "sim_insertion_scripted/episode_2.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_2.hdf5"
+  },
+  {
+    "id": "1TRkN486C3dTzspDNqG2uHqablYcYGiBG",
+    "path": "sim_insertion_scripted/episode_20.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_20.hdf5"
+  },
+  {
+    "id": "1UDUWX99pnCRcbhKhxVar8DJQgCNtgRHm",
+    "path": "sim_insertion_scripted/episode_21.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_21.hdf5"
+  },
+  {
+    "id": "1NMpy9FsFSDzkYTYFNEEC2ucSMiQp-w3C",
+    "path": "sim_insertion_scripted/episode_22.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_22.hdf5"
+  },
+  {
+    "id": "1LHZk6oeChylSxeqfYX7NYU0w3tZdrr6F",
+    "path": "sim_insertion_scripted/episode_23.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_23.hdf5"
+  },
+  {
+    "id": "1JpXf_r1zyaCJ7TUhO71FpRYsNNGJYN9M",
+    "path": "sim_insertion_scripted/episode_24.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_24.hdf5"
+  },
+  {
+    "id": "1ERku2chD6UtXrcsPbAsZOIyquJxUoM38",
+    "path": "sim_insertion_scripted/episode_25.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_25.hdf5"
+  },
+  {
+    "id": "1d0JtURt979QA7GaLvtYXA6m9itiiL1vV",
+    "path": "sim_insertion_scripted/episode_26.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_26.hdf5"
+  },
+  {
+    "id": "1SCMaMlXVAfzBhekg93DcDuhqE__l-hwy",
+    "path": "sim_insertion_scripted/episode_27.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_27.hdf5"
+  },
+  {
+    "id": "1r7WNF_ibsX6-D-xH91VF49wT57t0z1zP",
+    "path": "sim_insertion_scripted/episode_28.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_28.hdf5"
+  },
+  {
+    "id": "1liCOe5FFoCg0Y496vzXHdcXYWRbwJwJo",
+    "path": "sim_insertion_scripted/episode_29.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_29.hdf5"
+  },
+  {
+    "id": "1lVXgS4ve0Mtb1LbzZKJREIDxIdD5PTNX",
+    "path": "sim_insertion_scripted/episode_3.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_3.hdf5"
+  },
+  {
+    "id": "1TkVRpOPeqWPDiFouRBzGRJG1PqIKmJYH",
+    "path": "sim_insertion_scripted/episode_30.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_30.hdf5"
+  },
+  {
+    "id": "1lksbJDBmosO-saMLYEUg1wKorKapQ8QC",
+    "path": "sim_insertion_scripted/episode_31.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_31.hdf5"
+  },
+  {
+    "id": "1v_hlxKJNT0C9WqYouYOxmCdTcHjRPI8-",
+    "path": "sim_insertion_scripted/episode_32.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_32.hdf5"
+  },
+  {
+    "id": "1CLtRkJNrNCtRYynv58KbS1c5sPXQ3m9N",
+    "path": "sim_insertion_scripted/episode_33.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_33.hdf5"
+  },
+  {
+    "id": "11NZUKXdDFDtmFjLN9ctKY6k1SuEL9hRo",
+    "path": "sim_insertion_scripted/episode_34.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_34.hdf5"
+  },
+  {
+    "id": "1c0DENMmNAAGYlrrKAAALF8iOsPtPHKiY",
+    "path": "sim_insertion_scripted/episode_35.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_35.hdf5"
+  },
+  {
+    "id": "1AevSWVHIPCF06Bhf4wSG0kFBKhG7xOh8",
+    "path": "sim_insertion_scripted/episode_36.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_36.hdf5"
+  },
+  {
+    "id": "1L1S9YvFst3gazQkeY7RVOsIUOTP5BfHc",
+    "path": "sim_insertion_scripted/episode_37.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_37.hdf5"
+  },
+  {
+    "id": "1bOm_RflpWEy8t9KZVUzAfq9LohUWDoH7",
+    "path": "sim_insertion_scripted/episode_38.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_38.hdf5"
+  },
+  {
+    "id": "1KzYj0QxYIoeA17c6TiqeN2rwPdUjLdqF",
+    "path": "sim_insertion_scripted/episode_39.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_39.hdf5"
+  },
+  {
+    "id": "1g0HiVds7hBxTylmpwUZa-FmlDFaH3HPz",
+    "path": "sim_insertion_scripted/episode_4.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_4.hdf5"
+  },
+  {
+    "id": "1-P7M5K6hOXC9DFw-SRfU65uZCoXuUarW",
+    "path": "sim_insertion_scripted/episode_40.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_40.hdf5"
+  },
+  {
+    "id": "1sxSMBxN-aoLRPPULs6m6Rg_L9MwqCyDp",
+    "path": "sim_insertion_scripted/episode_41.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_41.hdf5"
+  },
+  {
+    "id": "14-lvqaAGdbr0hHCHxxnarp-g9fC19Vo9",
+    "path": "sim_insertion_scripted/episode_42.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_42.hdf5"
+  },
+  {
+    "id": "1ZM_53KNKP35LogXLbm-d2IOx5JD5tF5H",
+    "path": "sim_insertion_scripted/episode_43.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_43.hdf5"
+  },
+  {
+    "id": "1OkGeQlVprZ37rF8ioaXOXh0gRYqAeVsD",
+    "path": "sim_insertion_scripted/episode_44.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_44.hdf5"
+  },
+  {
+    "id": "1r1xHb8laeDQ_dweHb0xvN908HMYRkFrT",
+    "path": "sim_insertion_scripted/episode_45.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_45.hdf5"
+  },
+  {
+    "id": "1l3lQGUS7fdh8mp8i6-S5TjAOKp2t722Q",
+    "path": "sim_insertion_scripted/episode_46.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_46.hdf5"
+  },
+  {
+    "id": "1-EzUKAuOvm879Bs3_T1CwcjVkUX0bwr5",
+    "path": "sim_insertion_scripted/episode_47.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_47.hdf5"
+  },
+  {
+    "id": "1wfMSZ24oOh5KR_0aaP3Cnu_c4ZCveduB",
+    "path": "sim_insertion_scripted/episode_48.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_48.hdf5"
+  },
+  {
+    "id": "17EuCUWS6uCCr6yyNzpXdcdE-_TTNCKtf",
+    "path": "sim_insertion_scripted/episode_49.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_49.hdf5"
+  },
+  {
+    "id": "16etYikVQNQ7IvFqBb84I7Gx5sYZZxEDY",
+    "path": "sim_insertion_scripted/episode_5.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_5.hdf5"
+  },
+  {
+    "id": "1DImbiNOMSGKzSPT6f4W7AXxCxNb2BtjF",
+    "path": "sim_insertion_scripted/episode_6.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_6.hdf5"
+  },
+  {
+    "id": "1kziv4EgG_Lb--eYdIkg9kwykiuBAgqpG",
+    "path": "sim_insertion_scripted/episode_7.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_7.hdf5"
+  },
+  {
+    "id": "1aw1wsmZGURXVUEiZgCsKVzgGEDJWumJ4",
+    "path": "sim_insertion_scripted/episode_8.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_8.hdf5"
+  },
+  {
+    "id": "1FfYJ5OkI_PSE_1NYRUoflWoykxJMNAFA",
+    "path": "sim_insertion_scripted/episode_9.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_insertion_scripted/episode_9.hdf5"
+  },
+  {
+    "id": "1ixmq-5iRwjJ0lbTHXvXhFZGAFPIkMQj5",
+    "path": "sim_transfer_cube_human/episode_0.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_0.hdf5"
+  },
+  {
+    "id": "1oLTeGDPMV0yztD-hPfc1Pu8nJjL9kSiD",
+    "path": "sim_transfer_cube_human/episode_0_qpos.png",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_0_qpos.png"
+  },
+  {
+    "id": "1Fr6g28zpIqWkAwyw52s5NDGG30tlILjr",
+    "path": "sim_transfer_cube_human/episode_0_video.mp4",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_0_video.mp4"
+  },
+  {
+    "id": "1wLWrDtyl9yLUnQnTIE8e-qgEsZhQXcLE",
+    "path": "sim_transfer_cube_human/episode_1.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_1.hdf5"
+  },
+  {
+    "id": "1yclX0QPQd8wgtF2OarYVxWAD6yL3A5_s",
+    "path": "sim_transfer_cube_human/episode_10.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_10.hdf5"
+  },
+  {
+    "id": "1NdSeQ8CbnegwKsmZByEcTbMcwVv0ngcl",
+    "path": "sim_transfer_cube_human/episode_11.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_11.hdf5"
+  },
+  {
+    "id": "1CmIBejLaqE7C-TEFBTmLnb_FnM8NZumA",
+    "path": "sim_transfer_cube_human/episode_12.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_12.hdf5"
+  },
+  {
+    "id": "1wWWUw5td0WLL36BJd1CBJKvYk5ZNPDhY",
+    "path": "sim_transfer_cube_human/episode_13.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_13.hdf5"
+  },
+  {
+    "id": "1zxBLDsJEE3xZPD38n4pkcj7d2EYS0DA9",
+    "path": "sim_transfer_cube_human/episode_14.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_14.hdf5"
+  },
+  {
+    "id": "1RZfMnE6d3W1syr9tVmtLUNRcdNy4-7rA",
+    "path": "sim_transfer_cube_human/episode_15.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_15.hdf5"
+  },
+  {
+    "id": "1-enxdqykB3PXSwoPkCZkksyEtVfwTdaw",
+    "path": "sim_transfer_cube_human/episode_16.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_16.hdf5"
+  },
+  {
+    "id": "1c9avt2hLn7ocN44G92pAI8IiGrpI9tHm",
+    "path": "sim_transfer_cube_human/episode_17.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_17.hdf5"
+  },
+  {
+    "id": "1RL1UuIQjgvmjaos1OwFUovBkFZ8U8uSJ",
+    "path": "sim_transfer_cube_human/episode_18.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_18.hdf5"
+  },
+  {
+    "id": "1k6QYzuqZ2AdEtEtu6IA9aGfErbd9pjVC",
+    "path": "sim_transfer_cube_human/episode_19.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_19.hdf5"
+  },
+  {
+    "id": "1bKMP0rgtgNGumpEuP6tcTJZqDGhc7nPk",
+    "path": "sim_transfer_cube_human/episode_2.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_2.hdf5"
+  },
+  {
+    "id": "1QGegdf0HR2Pp5LT8LozlpVX3KvLYisEC",
+    "path": "sim_transfer_cube_human/episode_20.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_20.hdf5"
+  },
+  {
+    "id": "1XdqOm6XL_Z_5BsTL4MzdLQEHvjkdT9wb",
+    "path": "sim_transfer_cube_human/episode_21.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_21.hdf5"
+  },
+  {
+    "id": "1ZktgaYBYMlO8-4Ge2shid3qn0zb035HN",
+    "path": "sim_transfer_cube_human/episode_22.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_22.hdf5"
+  },
+  {
+    "id": "1PcektnVq1TRKbKSqxu9FMfGNrwf3e97a",
+    "path": "sim_transfer_cube_human/episode_23.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_23.hdf5"
+  },
+  {
+    "id": "1y2ymaVg87P7GTQvw9rvBA66JmlVN9yI1",
+    "path": "sim_transfer_cube_human/episode_24.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_24.hdf5"
+  },
+  {
+    "id": "16ML2OW9qE-8BegEKKhnEiS9JhMGXf1XN",
+    "path": "sim_transfer_cube_human/episode_25.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_25.hdf5"
+  },
+  {
+    "id": "1OftLzrcsyomCpXKvryuKaGiZ6eIiyVVv",
+    "path": "sim_transfer_cube_human/episode_26.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_26.hdf5"
+  },
+  {
+    "id": "1GKH6H6znlVzWlHx0D_4Lj0aLxTPdiziu",
+    "path": "sim_transfer_cube_human/episode_27.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_27.hdf5"
+  },
+  {
+    "id": "12gr5XM0WPu1R3A97J0nXzWDN1j_NP8_T",
+    "path": "sim_transfer_cube_human/episode_28.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_28.hdf5"
+  },
+  {
+    "id": "1ci1C-oTmChxh-bzME_YdZm75CUQZjFaV",
+    "path": "sim_transfer_cube_human/episode_29.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_29.hdf5"
+  },
+  {
+    "id": "10ZQlfNmJtipYl_7Dll_tuOjxoWY9VEln",
+    "path": "sim_transfer_cube_human/episode_3.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_3.hdf5"
+  },
+  {
+    "id": "1g5AMnf18UWdT2Xwc6t4sof1ukfnFuUzm",
+    "path": "sim_transfer_cube_human/episode_30.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_30.hdf5"
+  },
+  {
+    "id": "11QGLDwD8swrYlOee-WxBes0rKJh-WxC1",
+    "path": "sim_transfer_cube_human/episode_31.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_31.hdf5"
+  },
+  {
+    "id": "1Y4xAPhxop00w-duLQGXkcj2_SRbhIynP",
+    "path": "sim_transfer_cube_human/episode_32.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_32.hdf5"
+  },
+  {
+    "id": "11MeHsO2JV-ainuIMYaNqYTMjOSEQMNFz",
+    "path": "sim_transfer_cube_human/episode_33.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_33.hdf5"
+  },
+  {
+    "id": "1MDUO-9lmwRoL5NvUUA4QwEo72GRjrNH-",
+    "path": "sim_transfer_cube_human/episode_34.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_34.hdf5"
+  },
+  {
+    "id": "1glM76AxmX0rDI2DtQeiFqQtzZoVFIPE_",
+    "path": "sim_transfer_cube_human/episode_35.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_35.hdf5"
+  },
+  {
+    "id": "1itdJ1-yJTHwdOAlbyF-Dg-kDrqPCWgcn",
+    "path": "sim_transfer_cube_human/episode_36.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_36.hdf5"
+  },
+  {
+    "id": "1qXgK6JzX-EEBKvPYkX9KQu0Ekezx6vRB",
+    "path": "sim_transfer_cube_human/episode_37.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_37.hdf5"
+  },
+  {
+    "id": "1bp32vh8lpE9Z3z_ahQhe0Y8ly95nCM8T",
+    "path": "sim_transfer_cube_human/episode_38.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_38.hdf5"
+  },
+  {
+    "id": "1iNy6JBo_Drs_a9hWr-vRecwYk90UqVt9",
+    "path": "sim_transfer_cube_human/episode_39.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_39.hdf5"
+  },
+  {
+    "id": "1LJPge7dV_x_tEEHQ-kv_2W-fd4t7X6Ue",
+    "path": "sim_transfer_cube_human/episode_4.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_4.hdf5"
+  },
+  {
+    "id": "1rJvcLBuXXwFhD_2SPYHJxJgC2tHvyjly",
+    "path": "sim_transfer_cube_human/episode_40.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_40.hdf5"
+  },
+  {
+    "id": "1t2Bxb05nflX-zPtFwkFc6IqMfUX27KxW",
+    "path": "sim_transfer_cube_human/episode_41.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_41.hdf5"
+  },
+  {
+    "id": "1T_vDS7iUP8kkx52JXR38bQB8txKMuyC3",
+    "path": "sim_transfer_cube_human/episode_42.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_42.hdf5"
+  },
+  {
+    "id": "1MRB_Fn9gbl0ZrSLdF5kQs_AF-hINoXaA",
+    "path": "sim_transfer_cube_human/episode_43.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_43.hdf5"
+  },
+  {
+    "id": "1YLQL1evY6kOGpV5Us0IsByM3WS-VDbtQ",
+    "path": "sim_transfer_cube_human/episode_44.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_44.hdf5"
+  },
+  {
+    "id": "1dvLOopZYmN3rwImJLNdj3krOpmwVFuYd",
+    "path": "sim_transfer_cube_human/episode_45.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_45.hdf5"
+  },
+  {
+    "id": "1Rq-pu549H_KYSALkv-X2HQ1VoXxNQrD0",
+    "path": "sim_transfer_cube_human/episode_46.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_46.hdf5"
+  },
+  {
+    "id": "1dvyu-MVcv2p7whbQN0hDeBMO01lQJOnt",
+    "path": "sim_transfer_cube_human/episode_47.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_47.hdf5"
+  },
+  {
+    "id": "18smMymtr8tIxaNUQ61gW6dG50pt3MvGq",
+    "path": "sim_transfer_cube_human/episode_48.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_48.hdf5"
+  },
+  {
+    "id": "1Nk7l53d9sJoGDBKAOnNrExX5nLacATc6",
+    "path": "sim_transfer_cube_human/episode_49.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_49.hdf5"
+  },
+  {
+    "id": "1-NY2HBFil7RO5sTFC-GYVk3oLcFxzWuJ",
+    "path": "sim_transfer_cube_human/episode_5.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_5.hdf5"
+  },
+  {
+    "id": "1ebKGmCxD2318Xp2nJBXN1aqRAaM86ng6",
+    "path": "sim_transfer_cube_human/episode_6.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_6.hdf5"
+  },
+  {
+    "id": "1kE7hnrN5ueYh-SRm905eoFvPLHi6GBQr",
+    "path": "sim_transfer_cube_human/episode_7.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_7.hdf5"
+  },
+  {
+    "id": "1xGb0j3AHDgb_YHdkbkapyDM6hVvYUQY5",
+    "path": "sim_transfer_cube_human/episode_8.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_8.hdf5"
+  },
+  {
+    "id": "1vb7svOtGoBk2QEbkgDBY_tDC3IK9AYwd",
+    "path": "sim_transfer_cube_human/episode_9.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_human/episode_9.hdf5"
+  },
+  {
+    "id": "1hPLu8KKe4Cmmqjzz6ka6dz2ubY7X1T40",
+    "path": "sim_transfer_cube_scripted/episode_0.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_0.hdf5"
+  },
+  {
+    "id": "10on_oGrSezkJ_6TfZp2cFL2dGt9qVYNG",
+    "path": "sim_transfer_cube_scripted/episode_0_qpos.png",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_0_qpos.png"
+  },
+  {
+    "id": "1DKcxmun4YjPwabcfytZBjTUmY79zb_KJ",
+    "path": "sim_transfer_cube_scripted/episode_0_video.mp4",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_0_video.mp4"
+  },
+  {
+    "id": "1JQxr9ja-HR9feJLylWp_ZzUHIUzLMj7s",
+    "path": "sim_transfer_cube_scripted/episode_1.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_1.hdf5"
+  },
+  {
+    "id": "1FXdabQo8OyxKwKqLHqVzAsiA_4r8Zc3h",
+    "path": "sim_transfer_cube_scripted/episode_10.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_10.hdf5"
+  },
+  {
+    "id": "1EFs4eKvOOPpowtDgHrzFQz58J_WTqv9J",
+    "path": "sim_transfer_cube_scripted/episode_11.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_11.hdf5"
+  },
+  {
+    "id": "1lZnSJaJQIv3HU_1NMLaaiwLz0G55M-Si",
+    "path": "sim_transfer_cube_scripted/episode_12.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_12.hdf5"
+  },
+  {
+    "id": "1snKOB9dE7yhsLrQ-MhxXFGoUq3Sx8UL4",
+    "path": "sim_transfer_cube_scripted/episode_13.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_13.hdf5"
+  },
+  {
+    "id": "1ZugR4kKLZLeSihJcRk38eu5azLKUDrkS",
+    "path": "sim_transfer_cube_scripted/episode_14.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_14.hdf5"
+  },
+  {
+    "id": "1zJ_LW2TEWpKU_rHoY7NE1wVacVF4cS5P",
+    "path": "sim_transfer_cube_scripted/episode_15.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_15.hdf5"
+  },
+  {
+    "id": "1MK8-oRfHROvl8otgBJ39InEzfIxe1wSo",
+    "path": "sim_transfer_cube_scripted/episode_16.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_16.hdf5"
+  },
+  {
+    "id": "1yW2SgadeTD8wH6NC2nw99uLwMlhweIex",
+    "path": "sim_transfer_cube_scripted/episode_17.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_17.hdf5"
+  },
+  {
+    "id": "1qtzhxLyv0YKNLFzBWFqMZCulRji-aLil",
+    "path": "sim_transfer_cube_scripted/episode_18.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_18.hdf5"
+  },
+  {
+    "id": "1qCewQRk3DFHBtKEmm9Y56WnBihJf6l7A",
+    "path": "sim_transfer_cube_scripted/episode_19.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_19.hdf5"
+  },
+  {
+    "id": "1UQezVPJ6Jq3ATot6LpeEXTWSctaDO0-q",
+    "path": "sim_transfer_cube_scripted/episode_2.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_2.hdf5"
+  },
+  {
+    "id": "1FHucb1VxPhrQScLku0b4wYyYSGG2FfpR",
+    "path": "sim_transfer_cube_scripted/episode_20.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_20.hdf5"
+  },
+  {
+    "id": "14h6oDzYeuTbjE7pfUcD-ZBJ30Dvm94o7",
+    "path": "sim_transfer_cube_scripted/episode_21.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_21.hdf5"
+  },
+  {
+    "id": "1TXcbdK0KrGpGWj02r97GEcILFT9Mojo7",
+    "path": "sim_transfer_cube_scripted/episode_22.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_22.hdf5"
+  },
+  {
+    "id": "1LFVjxpcCwJJHFcZkyoava0yKUm0PdoG9",
+    "path": "sim_transfer_cube_scripted/episode_23.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_23.hdf5"
+  },
+  {
+    "id": "1sTo75JGrFEUd-k_F_-m2VAqJarwN6o2Q",
+    "path": "sim_transfer_cube_scripted/episode_24.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_24.hdf5"
+  },
+  {
+    "id": "1v0WKS6Y1b60mBAWI0NOqykmNF7xsgO0v",
+    "path": "sim_transfer_cube_scripted/episode_25.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_25.hdf5"
+  },
+  {
+    "id": "1UiNmXIbud-0kLZ2o_Rf8omm-awdCHLx8",
+    "path": "sim_transfer_cube_scripted/episode_26.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_26.hdf5"
+  },
+  {
+    "id": "1PNT_CqDJgInAOMM9gUGZalfhSq_dh13Z",
+    "path": "sim_transfer_cube_scripted/episode_27.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_27.hdf5"
+  },
+  {
+    "id": "1NWAKTvdiqEH7r-6LAI24-m9HSC4xzJCb",
+    "path": "sim_transfer_cube_scripted/episode_28.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_28.hdf5"
+  },
+  {
+    "id": "1gHXzfCOjpI4xjUYpG3QHtGTltWyOW4Qe",
+    "path": "sim_transfer_cube_scripted/episode_29.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_29.hdf5"
+  },
+  {
+    "id": "1vuIX9HiWGaw5JUUttaNpd813JiINkC-o",
+    "path": "sim_transfer_cube_scripted/episode_3.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_3.hdf5"
+  },
+  {
+    "id": "1k7xpllPK_D61kGQaG8lQQ-pRBpYwcHDW",
+    "path": "sim_transfer_cube_scripted/episode_30.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_30.hdf5"
+  },
+  {
+    "id": "1VLi2cR8wewOiI4CMrMN8myoSOVrYcj9L",
+    "path": "sim_transfer_cube_scripted/episode_31.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_31.hdf5"
+  },
+  {
+    "id": "12LeW29O1gEKSksa72wHxRbqjLqahHn_0",
+    "path": "sim_transfer_cube_scripted/episode_32.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_32.hdf5"
+  },
+  {
+    "id": "1016pE9BsBqXDs9MOZp3AGCQBTGW9zAjH",
+    "path": "sim_transfer_cube_scripted/episode_33.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_33.hdf5"
+  },
+  {
+    "id": "1p8n9XOQvDe5fddnGqkne3EWdxCaJcrE7",
+    "path": "sim_transfer_cube_scripted/episode_34.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_34.hdf5"
+  },
+  {
+    "id": "1TQ0ZZFIB3JBRitz80h554miBwVy9I9Ju",
+    "path": "sim_transfer_cube_scripted/episode_35.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_35.hdf5"
+  },
+  {
+    "id": "1jQvIkPR8DOQURct_bU3Uj7C3DgFt7T2R",
+    "path": "sim_transfer_cube_scripted/episode_36.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_36.hdf5"
+  },
+  {
+    "id": "1Sszc4TfJ8oKocBkK4u2yfz9XLMD4f1c_",
+    "path": "sim_transfer_cube_scripted/episode_37.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_37.hdf5"
+  },
+  {
+    "id": "1XIJXH44kfXlXW_Ojd9HM84H9YQNvOLbt",
+    "path": "sim_transfer_cube_scripted/episode_38.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_38.hdf5"
+  },
+  {
+    "id": "1gpKmA7Y0g-nJeg4_k-zcRR-ECESp7MnH",
+    "path": "sim_transfer_cube_scripted/episode_39.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_39.hdf5"
+  },
+  {
+    "id": "10IUFIZaCYHwRD87fc1gmIDS0PaPDVFlv",
+    "path": "sim_transfer_cube_scripted/episode_4.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_4.hdf5"
+  },
+  {
+    "id": "1DhgzbzdYc6hHKL4r8iuU6KAwtjrJ_--Y",
+    "path": "sim_transfer_cube_scripted/episode_40.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_40.hdf5"
+  },
+  {
+    "id": "1cOPdFvPUmuLmzbacqMT4Lz4Vi_gV8o-n",
+    "path": "sim_transfer_cube_scripted/episode_41.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_41.hdf5"
+  },
+  {
+    "id": "1yBSvnAR6TPqF7-m-zBQcbYNjTbeR5Ygt",
+    "path": "sim_transfer_cube_scripted/episode_42.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_42.hdf5"
+  },
+  {
+    "id": "1cU8mu3aCY_0tDRdfMdwjFzDEcdwnquv4",
+    "path": "sim_transfer_cube_scripted/episode_43.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_43.hdf5"
+  },
+  {
+    "id": "1_JNoHqNPSgdGm2FhvPtgpEY7hENPIeEN",
+    "path": "sim_transfer_cube_scripted/episode_44.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_44.hdf5"
+  },
+  {
+    "id": "1zrqzK04eZiW7PpEkOIeDvnyCxdnVPnI6",
+    "path": "sim_transfer_cube_scripted/episode_45.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_45.hdf5"
+  },
+  {
+    "id": "1C4WcG7qp16eGWr-UMWy9BtlKyV26exo6",
+    "path": "sim_transfer_cube_scripted/episode_46.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_46.hdf5"
+  },
+  {
+    "id": "1LHH4JR0expWcRpPEbaZQUxjw4r6fuUrX",
+    "path": "sim_transfer_cube_scripted/episode_47.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_47.hdf5"
+  },
+  {
+    "id": "1pnGIOd-E4-rhz2P3VxpknMKRZCoKt6eI",
+    "path": "sim_transfer_cube_scripted/episode_48.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_48.hdf5"
+  },
+  {
+    "id": "1GKReZHrXU73NMiC5zKCq_UtqPVtYq8eo",
+    "path": "sim_transfer_cube_scripted/episode_49.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_49.hdf5"
+  },
+  {
+    "id": "1nCFsqo3-dV1wihS1iLvuFEIDCdEfLIkC",
+    "path": "sim_transfer_cube_scripted/episode_5.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_5.hdf5"
+  },
+  {
+    "id": "1C2TQ5Lt-HRqMigkVyaYYzsQ7mXUgnFnp",
+    "path": "sim_transfer_cube_scripted/episode_6.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_6.hdf5"
+  },
+  {
+    "id": "19gaZxc5JCcj8y1QXoHMhcjYaw4JV0UrW",
+    "path": "sim_transfer_cube_scripted/episode_7.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_7.hdf5"
+  },
+  {
+    "id": "1EPog3rYPhQd85JNW5HeQWOx788TPGQVX",
+    "path": "sim_transfer_cube_scripted/episode_8.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_8.hdf5"
+  },
+  {
+    "id": "1HT0qCKK0I0G6NU_u04uEyuKA-oxvPoIX",
+    "path": "sim_transfer_cube_scripted/episode_9.hdf5",
+    "local_path": "ACT_v3_results/downloads/official_drive/sim_transfer_cube_scripted/episode_9.hdf5"
+  }
+]

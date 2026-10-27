@@ -1,0 +1,19 @@
+{
+  "checked_at": "2026-10-27T15:15:37.384403+08:00",
+  "completed": false,
+  "training_overlap_allowed": true,
+  "reason": "V2 running; no finish marker; V3 formal evaluation remains gated",
+  "state_status": "RUNNING",
+  "state_phase": "overlapped_training_and_evaluation",
+  "live_workers": [
+    {
+      "pid": 35481,
+      "output": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/evaluations/k400_seed0_no_temporal_attempt1"
+    }
+  ],
+  "expected_models": 3,
+  "expected_evaluations": 4,
+  "expected_episodes": 200,
+  "all_v2_models_trained": true,
+  "condition": "V2_EVALUATING"
+}

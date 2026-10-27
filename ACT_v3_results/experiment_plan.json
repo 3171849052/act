@@ -1,0 +1,74 @@
+{
+  "tasks": [
+    {
+      "name": "cube_transfer_human_seed0",
+      "task_name": "sim_transfer_cube_human",
+      "paper_success_rate": 0.5,
+      "dataset_dir": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_transfer_cube_human",
+      "num_episodes": 50,
+      "episode_len": 400,
+      "camera_names": [
+        "top"
+      ],
+      "enabled": true
+    },
+    {
+      "name": "insertion_scripted_seed0",
+      "task_name": "sim_insertion_scripted",
+      "paper_success_rate": 0.32,
+      "dataset_dir": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_scripted",
+      "num_episodes": 50,
+      "episode_len": 400,
+      "camera_names": [
+        "top"
+      ],
+      "enabled": true
+    },
+    {
+      "name": "insertion_human_seed0",
+      "task_name": "sim_insertion_human",
+      "paper_success_rate": 0.2,
+      "dataset_dir": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_insertion_human",
+      "num_episodes": 50,
+      "episode_len": 500,
+      "camera_names": [
+        "top"
+      ],
+      "enabled": true
+    }
+  ],
+  "training": {
+    "policy_class": "ACT",
+    "chunk_size": 100,
+    "kl_weight": 10,
+    "hidden_dim": 512,
+    "dim_feedforward": 3200,
+    "batch_size": 8,
+    "lr": 1e-05,
+    "num_epochs": 2000,
+    "seed": 0,
+    "backbone": "resnet18",
+    "camera_names": [
+      "top"
+    ]
+  },
+  "evaluation": {
+    "episodes": 50,
+    "temporal_agg": true,
+    "seed": 1000,
+    "backend": "osmesa"
+  },
+  "execution": {
+    "training_overlap_with_v2_authorized": true,
+    "authorization": "Latest direct user instruction: V3 training may run in parallel with V2 evaluation; supersedes pasted wait-before-training requirement",
+    "formal_evaluation_requires_v2_completed": true,
+    "overlap_training_processes": 2,
+    "after_v2_training_processes": 2,
+    "maximum_training_processes": 3,
+    "implementation_ready": true,
+    "evaluation_implementation_ready": true,
+    "active_scope": "All three V3 tasks; user authorized Insertion training after data verification",
+    "recovery_authorization": "Restart interrupted V2/V3 and launch Insertion experiments, maximize safe parallelism"
+  },
+  "created_at": "2026-10-27T13:51:56.918911+08:00"
+}

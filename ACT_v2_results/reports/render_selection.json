@@ -1,0 +1,11 @@
+{
+  "renderer": "llvmpipe",
+  "backend": "osmesa",
+  "nvidia_gpu_rendering": false,
+  "authorization": "User explicitly permits CPU rendering when no admin privileges; supersedes EGL prerequisite for V2",
+  "camera_filter_validated": true,
+  "validation": "tests/render_llvmpipe/validation.json",
+  "library_routing": "process-only ctypes loader for audited sidecar OSMesa and matching GLAPI; Conda untouched",
+  "egl_blocked_report": "egl_validation/egl_validation_report.md",
+  "eval_max_parallel": 2
+}

@@ -1,0 +1,16 @@
+{
+  "task_name": "sim_insertion_human",
+  "training_epochs": 2000,
+  "evaluation_episodes": 50,
+  "success_rate": 0.28,
+  "model_artifacts": {
+    "epochs": 2000,
+    "task_name": "sim_insertion_human",
+    "best_epoch": 1370,
+    "best_validation_loss": 0.13782554864883423,
+    "checkpoint_sha256": "429ea8a99fda860bad5b6e3e809ab7fe6acd072b314ff1d289ed17b911f43b28",
+    "stats_sha256": "c9dae4f7c0062d53cb527c0ea4c86469c8cba3dffdc83b02287cccc026fdc35a"
+  },
+  "completed_at": "2026-10-27T16:56:48.145880+08:00",
+  "note": "Task-level completion only; not the all-three-task V3 finish marker"
+}

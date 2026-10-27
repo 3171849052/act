@@ -1,0 +1,10 @@
+ACT_V3_COMPLETED
+V2 完成验证时间: 2026-10-27T15:50:06.307875+08:00
+V3 开始时间: 2026-10-27T14:02:20.621490+08:00
+V3 完成时间: 2026-10-27T16:59:37.270120+08:00
+渲染后端: OSMesa / llvmpipe CPU
+训练配置: ACT k100 seed0 2000 epochs, batch8, lr1e-5, KL10, hidden512, FF3200, ResNet18, top
+sim_transfer_cube_human: 训练 2000/2000，评估 50/50，成功 29/50（58.00%）
+sim_insertion_scripted: 训练 2000/2000，评估 50/50，成功 4/50（8.00%）
+sim_insertion_human: 训练 2000/2000，评估 50/50，成功 14/50（28.00%）
+报告: /XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v3_results/reports/final_report.md

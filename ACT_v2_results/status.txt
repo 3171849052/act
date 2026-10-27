@@ -1,0 +1,20 @@
+V2 COMPLETED
+阶段: completed
+更新时间: 2026-10-27T15:47:40.296111+08:00
+正式训练种子: [0]；模型 3 个；评估 4 组 / 200 回合
+渲染: llvmpipe / OSMesa CPU；NVIDIA EGL 未启用（用户已授权 CPU 回退）
+ACT 训练使用 A800 CUDA GPU；渲染使用 CPU
+调度器 PID: 35354
+训练并发: 1
+评估并发: 2
+训练期间评估并发: 2
+训练任务
+  k100_seed0: SUCCEEDED 2000/2000
+  k1_seed0: SUCCEEDED 2000/2000
+  k400_seed0: SUCCEEDED 2000/2000
+评估任务
+  k100_seed0_temporal: SUCCEEDED 50/50
+  k100_seed0_no_temporal: SUCCEEDED 50/50
+  k1_seed0_no_temporal: SUCCEEDED 50/50
+  k400_seed0_no_temporal: SUCCEEDED 50/50
+finish.txt: True

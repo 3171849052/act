@@ -1,0 +1,111 @@
+{
+  "completed_at": "2026-10-27T12:18:53.074070+08:00",
+  "old_supervisor": {
+    "pid": 2150441,
+    "start_ticks": "412681325",
+    "state": "S",
+    "command": [
+      "/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/bin/python",
+      "-u",
+      "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/scripts/pipeline.py"
+    ]
+  },
+  "new_supervisor_pid": 2339407,
+  "workers_before": {
+    "k100_seed2": {
+      "pid": 2293683,
+      "start_ticks": "412911695",
+      "state": "S",
+      "command": [
+        "/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/bin/python",
+        "-u",
+        "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/scripts/worker.py",
+        "--phase",
+        "train",
+        "--output",
+        "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/models/k100_seed2",
+        "--chunk",
+        "100",
+        "--seed",
+        "2",
+        "--epochs",
+        "2000"
+      ]
+    },
+    "k1_seed0": {
+      "pid": 2293684,
+      "start_ticks": "412911699",
+      "state": "R",
+      "command": [
+        "/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/bin/python",
+        "-u",
+        "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/scripts/worker.py",
+        "--phase",
+        "train",
+        "--output",
+        "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/models/k1_seed0",
+        "--chunk",
+        "1",
+        "--seed",
+        "0",
+        "--epochs",
+        "2000"
+      ]
+    }
+  },
+  "workers_after": {
+    "k100_seed2": {
+      "pid": 2293683,
+      "start_ticks": "412911695",
+      "state": "R",
+      "command": [
+        "/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/bin/python",
+        "-u",
+        "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/scripts/worker.py",
+        "--phase",
+        "train",
+        "--output",
+        "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/models/k100_seed2",
+        "--chunk",
+        "100",
+        "--seed",
+        "2",
+        "--epochs",
+        "2000"
+      ]
+    },
+    "k1_seed0": {
+      "pid": 2293684,
+      "start_ticks": "412911699",
+      "state": "S",
+      "command": [
+        "/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/bin/python",
+        "-u",
+        "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/scripts/worker.py",
+        "--phase",
+        "train",
+        "--output",
+        "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/models/k1_seed0",
+        "--chunk",
+        "1",
+        "--seed",
+        "0",
+        "--epochs",
+        "2000"
+      ]
+    }
+  },
+  "training_workers_restarted": false,
+  "optimizer_state_preserved_in_live_processes": true,
+  "controls": {
+    "train_parallel": 3,
+    "eval_parallel": 2,
+    "evaluations_during_training": 1,
+    "updated_at": "2026-10-27T12:18:52.557521+08:00",
+    "reason": "User requested more parallelism; live 100-epoch third-worker test plus early evaluation overlap",
+    "tuning_report": "reports/live_parallel_tuning.json"
+  },
+  "backup": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/backups/scheduler_handoff_20261027_041852",
+  "stdout": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/logs/parallel_pipeline_20261027_041852.stdout.log",
+  "stderr": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/ACT_v2_results/logs/parallel_pipeline_20261027_041852.stderr.log"
+}

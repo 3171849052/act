@@ -1,0 +1,19 @@
+{
+  "checked_at": "2026-10-27T16:59:45.582615+08:00",
+  "completed": true,
+  "training_overlap_allowed": true,
+  "reason": "V2 plan, state, completion marker, integrity, selected task artifacts and no-live-worker checks agree",
+  "state_status": "COMPLETED",
+  "state_phase": "completed",
+  "live_workers": [],
+  "expected_models": 3,
+  "expected_evaluations": 4,
+  "expected_episodes": 200,
+  "all_v2_models_trained": true,
+  "condition": "V2_VERIFIED_COMPLETED",
+  "evidence_sha256": {
+    "finish.txt": "ac83739de8f997d81059c28289d5caf335af5de01706ef9a5a62e65c2c8272f1",
+    "experiment_plan.json": "0afb55534b5478d4a86cc9401b770950715148b3c84e22df468ee124b0a6df55",
+    "reports/integrity_check.json": "108c2ac5424a29f5e3385d8161c2ecc5571cd9c947e9a1aa9c681bc9f8691ced"
+  }
+}

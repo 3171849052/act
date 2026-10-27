@@ -1,0 +1,393 @@
+{
+  "passed": true,
+  "started_at": "2026-10-27T11:19:18.607759+08:00",
+  "cwd": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act",
+  "project": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act",
+  "git_commit": "bec6795c25dff6ddee5465bbfbe91db59ffdcc5b",
+  "python": "/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/bin/python",
+  "versions": {
+    "torch": "2.0.1+cu118",
+    "torchvision": "0.15.2+cu118",
+    "numpy": "1.23.5",
+    "h5py": "3.10.0",
+    "mujoco": "2.3.7",
+    "dm-control": "1.0.14",
+    "PyOpenGL": "3.1.10",
+    "glfw": "2.11.0"
+  },
+  "dataset": [
+    {
+      "id": 0,
+      "bytes": 368740832,
+      "sha256": "52ebaf1f3d9521ffeb0e4a0317a99273647bc03d9158dd2c186c4420f15b431c"
+    },
+    {
+      "id": 1,
+      "bytes": 368740832,
+      "sha256": "2ec4e05f4a29d2cceae8fea343fcc52103330b0bcb1166a2c4a766b829d764c9"
+    },
+    {
+      "id": 2,
+      "bytes": 368740832,
+      "sha256": "bd2faa316907d8c6a6d7b2ea574ee6e4c313294636f7f51f75f11c28feccf59c"
+    },
+    {
+      "id": 3,
+      "bytes": 368740832,
+      "sha256": "01e22c9062d5b9f3ddf92ba6736b65c92744c2ba7b6cfdd3cb1abe99d006b3e1"
+    },
+    {
+      "id": 4,
+      "bytes": 368740832,
+      "sha256": "29f182a445f2bfed0312637625d8cb8c8bd08dff8b733a128556042bdc77fc16"
+    },
+    {
+      "id": 5,
+      "bytes": 368740832,
+      "sha256": "5ad863bf39655a774df0dde5c96a855d25fdabab90a61dc33515ee13a5778712"
+    },
+    {
+      "id": 6,
+      "bytes": 368740832,
+      "sha256": "25c4b3e9c6237b6b1275aeddbb898eeec212b13da2e00a59ec4753655df16518"
+    },
+    {
+      "id": 7,
+      "bytes": 368740832,
+      "sha256": "54569e02c8c62345bb9909fb97fdccf988a6cdd332bf1c1e2bf10b80c02cd62c"
+    },
+    {
+      "id": 8,
+      "bytes": 368740832,
+      "sha256": "52b06c78685aa088a6642a4829aa172f722265152886c7d035c0654c88cdba7e"
+    },
+    {
+      "id": 9,
+      "bytes": 368740832,
+      "sha256": "7fa0704b9014454244fe4425773e036c9978d83a1ef0d19220895761cb35b8a2"
+    },
+    {
+      "id": 10,
+      "bytes": 368740832,
+      "sha256": "e62d5e870d14be39f6486c29585fe1f7fa170a0967d0ff77768fe8da78236821"
+    },
+    {
+      "id": 11,
+      "bytes": 368740832,
+      "sha256": "56faafcd9929688817e3fac64f2e8a49a0435f14c4c403a1ee4707cae879546d"
+    },
+    {
+      "id": 12,
+      "bytes": 368740832,
+      "sha256": "137e2cbcb90fdf5fd7266600bb33ef97bfd793ab5683ecaa637bb399c3a00fef"
+    },
+    {
+      "id": 13,
+      "bytes": 368740832,
+      "sha256": "0cb5dfd46366fdb4000709794024adc810d3e26a9cf9844681af4e0effd98474"
+    },
+    {
+      "id": 14,
+      "bytes": 368740832,
+      "sha256": "289541e0ce09f20729a3d9616ee25a954252b212ece9f8765b06aea73b84b083"
+    },
+    {
+      "id": 15,
+      "bytes": 368740832,
+      "sha256": "10613202d74f9aee211727e2135dd45b70eec9531650898d8726d785db28db2a"
+    },
+    {
+      "id": 16,
+      "bytes": 368740832,
+      "sha256": "57ab05b60dc842d6d1c09b91f71b88a8091cce2007dedeb0da891af49196dbc7"
+    },
+    {
+      "id": 17,
+      "bytes": 368740832,
+      "sha256": "e7cd56dc3a1ead487574325d55be525217b9791e199f7a880067233f7ede45c8"
+    },
+    {
+      "id": 18,
+      "bytes": 368740832,
+      "sha256": "b2d7a0ac8019db509954bb61d76decdb1d34063c109a53c1a784ba432542f59f"
+    },
+    {
+      "id": 19,
+      "bytes": 368740832,
+      "sha256": "6b536c8d5a822484eb2c38ecb02ba3a95702a5d3cdbc918f3f9fe5c071253c38"
+    },
+    {
+      "id": 20,
+      "bytes": 368740832,
+      "sha256": "e64b470398a0d06c26f191cb0c95cae8e87f371b3fcb2464e338a1cc7ca45847"
+    },
+    {
+      "id": 21,
+      "bytes": 368740832,
+      "sha256": "a00e04c8faca15b37ea60f68941cab897920b216f1695f36d0cba9f5910bdfd6"
+    },
+    {
+      "id": 22,
+      "bytes": 368740832,
+      "sha256": "829683c3fea54b56fb80102f81a5cc78bfbcbe3ca1f2d8d15b0843872ae39f28"
+    },
+    {
+      "id": 23,
+      "bytes": 368740832,
+      "sha256": "5702bb4803a371eface282f7d53ecc49a2f0a3d2f905a8446953978ebfacad31"
+    },
+    {
+      "id": 24,
+      "bytes": 368740832,
+      "sha256": "c6825d6e145113ca6b96e03d309c4998181447ddb832ee296ce1ca97ec9c4245"
+    },
+    {
+      "id": 25,
+      "bytes": 368740832,
+      "sha256": "9dd875b585038740bf8c64acf6936c098921a1337567583c49298ee5e79a86d6"
+    },
+    {
+      "id": 26,
+      "bytes": 368740832,
+      "sha256": "8164c6b940253cd3afe59778c04f063054ac96bc7ebbc36b6389a60fbfecfcd2"
+    },
+    {
+      "id": 27,
+      "bytes": 368740832,
+      "sha256": "48661e7c8bcf2a84f967914eb5ba1aa7b7e747c1dbda0a5ec717e0431f4b2778"
+    },
+    {
+      "id": 28,
+      "bytes": 368740832,
+      "sha256": "b4e5491407cddfe2432eddfa8efb719255c4bc57d1e51daf79cc440aae7f0563"
+    },
+    {
+      "id": 29,
+      "bytes": 368740832,
+      "sha256": "218730f07a12f015392149f186c96c993e5f2cafc03e6e90bc89ad9c7b549206"
+    },
+    {
+      "id": 30,
+      "bytes": 368740832,
+      "sha256": "cebacf048a3222cd70157541c9506a569a9f82ca1077ad67294f1817900008e0"
+    },
+    {
+      "id": 31,
+      "bytes": 368740832,
+      "sha256": "85145b5b024c385c4e24eb3b47970df599d2a9e922139332aefbd8dfcc453af0"
+    },
+    {
+      "id": 32,
+      "bytes": 368740832,
+      "sha256": "4fe87f42466f8663befab849c6118e44281062313bc65e87471661176260cf7a"
+    },
+    {
+      "id": 33,
+      "bytes": 368740832,
+      "sha256": "77d977c2377fd3d792e5758d63fa3593a378f8a037ef4d573376ec6bb0b54ddc"
+    },
+    {
+      "id": 34,
+      "bytes": 368740832,
+      "sha256": "b7f8117692a63356a255a833c0a2220d7efa8e70f46e998d6cd0c1ff454bc3e1"
+    },
+    {
+      "id": 35,
+      "bytes": 368740832,
+      "sha256": "a66c37b8dba2a1ffaad419f6227c77aeef2db4e06b05befd144600c54bbcd115"
+    },
+    {
+      "id": 36,
+      "bytes": 368740832,
+      "sha256": "5848b0f91d68e7e6594abade9612aa78935e203d94752eb0cb40ccca4c6d7c85"
+    },
+    {
+      "id": 37,
+      "bytes": 368740832,
+      "sha256": "1453d9b68d1e6e34e2cd94b38e02cf671d247aced44d41fed13cb947d5fffd0a"
+    },
+    {
+      "id": 38,
+      "bytes": 368740832,
+      "sha256": "3f2fe938e3cea8b080fedb1fe911e4246201e7e2fab0166486b3a55d917cc6f7"
+    },
+    {
+      "id": 39,
+      "bytes": 368740832,
+      "sha256": "5e27119df054fbe2d4661d1cbecabba153cad8763bd4b0a2018a104e6593e43e"
+    },
+    {
+      "id": 40,
+      "bytes": 368740832,
+      "sha256": "a4ff2b213d468cef88f3632302c6dc2682f65571b54f305f34c6e5f7bd92f314"
+    },
+    {
+      "id": 41,
+      "bytes": 368740832,
+      "sha256": "a98a4c18c80aaaceb1f0a67cb34f6a2ddddc0e76c3ff45f214e63229aba50a17"
+    },
+    {
+      "id": 42,
+      "bytes": 368740832,
+      "sha256": "6e8f26df06b95913c73d65c46d826598104eb50735b8e3ab7701d0f9462e36bf"
+    },
+    {
+      "id": 43,
+      "bytes": 368740832,
+      "sha256": "929860afbaa8643a0656ab68013acea6d583dda3a4c3b4d681443de8e3d17195"
+    },
+    {
+      "id": 44,
+      "bytes": 368740832,
+      "sha256": "684af47ab95f21be18fcd341b67d665214463ab105a75e2ac232d249c5490513"
+    },
+    {
+      "id": 45,
+      "bytes": 368740832,
+      "sha256": "d5457e7dd14155568dde2f5acf95ac7bacf6055478a7f7f22a7ede8f981d5d69"
+    },
+    {
+      "id": 46,
+      "bytes": 368740832,
+      "sha256": "6641171f2065adf979e3544064c8e1e380582352a57731d8a6e1d74af8d26362"
+    },
+    {
+      "id": 47,
+      "bytes": 368740832,
+      "sha256": "ee2979b1f6304fed1c796d34dc20ef491e7214a28ef26d8c7adb3acecb998688"
+    },
+    {
+      "id": 48,
+      "bytes": 368740832,
+      "sha256": "e804362acd464cf6e752bbefb9ca37e9451e3dcc2f48f1271988882ad3db06be"
+    },
+    {
+      "id": 49,
+      "bytes": 368740832,
+      "sha256": "7586745d35202c01eddc8f61b5a459a52b12c0c33a48268c586df0821e9cd85d"
+    }
+  ],
+  "split_seed": 1,
+  "torch_cuda_version": "11.8",
+  "gpu": {
+    "name": "NVIDIA A800 80GB PCIe",
+    "total_memory_bytes": 85094825984
+  },
+  "cpu_quota": "600000 100000",
+  "memory_limit": "128849018880",
+  "disk": {
+    "total": 8421503208980480,
+    "used": 6588933764497408,
+    "free": 1407889350836224,
+    "conservative_required_bytes": 128849018880,
+    "note": "Shared filesystem free space; user/project quota may be separate"
+  },
+  "official_upstream_commit": "742c753c0d4a5d87076c8f69e5628c79a8cc5488",
+  "split": {
+    "train": [
+      27,
+      35,
+      40,
+      38,
+      2,
+      3,
+      48,
+      29,
+      46,
+      31,
+      32,
+      39,
+      21,
+      36,
+      19,
+      42,
+      49,
+      26,
+      22,
+      13,
+      41,
+      17,
+      45,
+      24,
+      23,
+      4,
+      33,
+      14,
+      30,
+      10,
+      28,
+      44,
+      34,
+      18,
+      20,
+      25,
+      6,
+      7,
+      47,
+      1
+    ],
+    "validation": [
+      16,
+      0,
+      15,
+      5,
+      11,
+      9,
+      8,
+      12,
+      43,
+      37
+    ]
+  },
+  "normalization_scope": "Official get_norm_stats uses all 50 trajectories, unchanged",
+  "train_batch_shapes": [
+    [
+      8,
+      1,
+      3,
+      480,
+      640
+    ],
+    [
+      8,
+      14
+    ],
+    [
+      8,
+      400,
+      14
+    ],
+    [
+      8,
+      400
+    ]
+  ],
+  "validation_batch_shapes": [
+    [
+      8,
+      1,
+      3,
+      480,
+      640
+    ],
+    [
+      8,
+      14
+    ],
+    [
+      8,
+      400,
+      14
+    ],
+    [
+      8,
+      400
+    ]
+  ],
+  "e1": {
+    "complete": true,
+    "inventory_files": 307,
+    "finish_sha256": "a53bd9e5b33c622e825025b852d8b56a401abda43b55542ce1608eb0c60627b3"
+  },
+  "completed_at": "2026-10-27T11:20:59.752998+08:00"
+}

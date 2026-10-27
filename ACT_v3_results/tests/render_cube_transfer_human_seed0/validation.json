@@ -1,0 +1,54 @@
+{
+  "passed": true,
+  "task_name": "sim_transfer_cube_human",
+  "episode_len": 400,
+  "cases": [
+    {
+      "case": 0,
+      "initial_pose": [
+        0.1307179170929219,
+        0.4230013886248812,
+        0.05,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "observations": 6,
+      "pixels_physics_rewards_numpy_python_torch_rng_exact": true
+    },
+    {
+      "case": 1,
+      "initial_pose": [
+        0.06124643590976109,
+        0.45301271312150115,
+        0.05,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "observations": 6,
+      "pixels_physics_rewards_numpy_python_torch_rng_exact": true
+    }
+  ],
+  "gl_identity": {
+    "GL_VENDOR": "Mesa",
+    "GL_RENDERER": "llvmpipe (LLVM 17.0.6, 256 bits)",
+    "GL_VERSION": "4.5 (Compatibility Profile) Mesa 24.0.5-1ubuntu1",
+    "gl_error": 0,
+    "context_class": "dm_control._render.pyopengl.osmesa_renderer.OSMesaContext"
+  },
+  "timings_seconds": {
+    "all_cameras": [
+      1.167925841989927,
+      1.8989409829955548
+    ],
+    "top_only": [
+      0.5917271219659597,
+      0.4353289529681206
+    ]
+  },
+  "top_filter_speedup": 2.98607534664777,
+  "context_released": true
+}
