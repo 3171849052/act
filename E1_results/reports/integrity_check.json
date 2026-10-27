@@ -1,0 +1,59 @@
+{
+  "checked_at": "2026-10-26T22:33:34.369491+08:00",
+  "models": {
+    "M1_ACT_k100": {
+      "status": "VERIFIED",
+      "epochs": 1000,
+      "checkpoint_sha256": "5629be1a43a80b97cd105e9ed569ae4153c018fba1d7260013e7c8757c65d9b9"
+    },
+    "M2_CNNMLP": {
+      "status": "VERIFIED",
+      "epochs": 1000,
+      "checkpoint_sha256": "1aeae5b4dc663811677c828dc818161de1d0ef2271030bbd3cae7d6dbc8d0c84"
+    },
+    "M3_ACT_k1": {
+      "status": "VERIFIED",
+      "epochs": 1000,
+      "checkpoint_sha256": "c76b4b21525e6c096bee8509d938b8fc1ca4e286fd4da05e49a6b23f4b12616c"
+    },
+    "M4_ACT_k10": {
+      "status": "VERIFIED",
+      "epochs": 1000,
+      "checkpoint_sha256": "f9c1523b4ff1408bcdb07206b9bca67007e0d062f09e506b3b8dc306b9a2c9ea"
+    }
+  },
+  "evaluations": {
+    "M1_ACT_k100": {
+      "status": "VERIFIED",
+      "episodes": 30,
+      "successes": 12,
+      "success_rate": 0.4
+    },
+    "M2_CNNMLP": {
+      "status": "VERIFIED",
+      "episodes": 30,
+      "successes": 0,
+      "success_rate": 0.0
+    },
+    "M3_ACT_k1": {
+      "status": "VERIFIED",
+      "episodes": 30,
+      "successes": 0,
+      "success_rate": 0.0
+    },
+    "M4_ACT_k10": {
+      "status": "VERIFIED",
+      "episodes": 30,
+      "successes": 0,
+      "success_rate": 0.0
+    }
+  },
+  "files": {
+    "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/figures/E1_algorithm_comparison.png": "76968ba110fd45cc1b543d157db7ad64d2ce96a03cebb2eecf80ecb8fc225c84",
+    "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/figures/E3_chunk_size_ablation.png": "5cb578c51fb1adb789b9dc384e914bcffba49a8fe5cfa940d3b7815ad2b0268d",
+    "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/reports/summary.csv": "d629f7bdf9d66bbd6445ec6e2626c0ad16d2d443ac6598f821ed647da55cf41b",
+    "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/reports/episode_level_results.csv": "70b21a9e7670b0b127db8644fbb16d12a55bb40fadbae25177542c1dd54f1d93",
+    "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/reports/experiment_manifest.csv": "6624383cbd96f5925f10c5615f35b5d3820d8ffcc4b8eaff59ee9ff9e76b38ea",
+    "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/reports/final_report.md": "a199f72a74a4e1f19095fef6253c55ebcdcb33ccc29ae95bd9b7402d1b810406"
+  }
+}

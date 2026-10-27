@@ -1,0 +1,12 @@
+E1_AND_E3_COMPLETED
+完成时间: 2026-10-26T22:34:39.157828+08:00
+实验根目录: /XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results
+项目结果根目录: /XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results
+M1_ACT_k100: 训练 SUCCEEDED (1000 epochs), 最佳检查点和归一化统计 VERIFIED; 评估 COMPLETED (30/30)
+M2_CNNMLP: 训练 SUCCEEDED (1000 epochs), 最佳检查点和归一化统计 VERIFIED; 评估 COMPLETED (30/30)
+M3_ACT_k1: 训练 SUCCEEDED (1000 epochs), 最佳检查点和归一化统计 VERIFIED; 评估 COMPLETED (30/30)
+M4_ACT_k10: 训练 SUCCEEDED (1000 epochs), 最佳检查点和归一化统计 VERIFIED; 评估 COMPLETED (30/30)
+E1 图表: /XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/figures/E1_algorithm_comparison.png
+E3 图表: /XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/figures/E3_chunk_size_ablation.png
+最终报告: /XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/reports/final_report.md
+完整性检查: /XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/reports/integrity_check.json

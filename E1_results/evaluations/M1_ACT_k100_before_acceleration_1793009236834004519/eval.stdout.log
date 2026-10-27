@@ -1,0 +1,20 @@
+number of parameters: 83.92M
+KL Weight 10
+<All keys matched successfully>
+Loaded: /XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/evaluations/M1_ACT_k100/policy_best.ckpt
+Rollout 0
+episode_return=34, episode_highest_reward=2, env_max_reward=4, Success: False
+Saved video to: /XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/evaluations/M1_ACT_k100/video0.mp4
+Rollout 1
+episode_return=151, episode_highest_reward=2, env_max_reward=4, Success: False
+Saved video to: /XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/evaluations/M1_ACT_k100/video1.mp4
+Rollout 2
+episode_return=688, episode_highest_reward=4, env_max_reward=4, Success: True
+Rollout 3
+episode_return=104, episode_highest_reward=2, env_max_reward=4, Success: False
+Rollout 4
+episode_return=56, episode_highest_reward=2, env_max_reward=4, Success: False
+Rollout 5
+episode_return=218, episode_highest_reward=4, env_max_reward=4, Success: True
+Rollout 6
+episode_return=12, episode_highest_reward=1, env_max_reward=4, Success: False

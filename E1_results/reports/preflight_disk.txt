@@ -1,0 +1,2 @@
+Filesystem                                                                             Size  Used Avail Use% Mounted on
+99.72.2.200@o2ib200:99.72.2.201@o2ib200:99.72.2.200@tcp200:99.72.2.201@tcp200:/XYFS01  7.5P  5.9P  1.3P  83% /XYFS01/HDD_POOL/sysu_qling/sysu_qling_3

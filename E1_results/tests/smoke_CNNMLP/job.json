@@ -1,0 +1,29 @@
+{
+  "label": "smoke_CNNMLP",
+  "status": "SUCCEEDED",
+  "pid": 4067229,
+  "command": [
+    "/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/bin/python",
+    "-u",
+    "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/scripts/worker.py",
+    "--phase",
+    "train",
+    "--output",
+    "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/tests/smoke_CNNMLP",
+    "--policy",
+    "CNNMLP",
+    "--chunk",
+    "1",
+    "--epochs",
+    "2"
+  ],
+  "directory": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/tests/smoke_CNNMLP",
+  "stdout": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/tests/smoke_CNNMLP/train.stdout.log",
+  "stderr": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/tests/smoke_CNNMLP/train.stderr.log",
+  "start_time": "2026-10-26T16:00:51.091180+08:00",
+  "start_timestamp": 1793001651.0912313,
+  "exit_code": 0,
+  "end_time": "2026-10-26T16:01:59.837089+08:00",
+  "end_timestamp": 1793001719.8371181,
+  "duration_seconds": 68.74588680267334
+}

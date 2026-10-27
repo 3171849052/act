@@ -1,0 +1,25 @@
+diff --git a/.gitignore b/.gitignore
+index d1e4c69..0664801 100644
+--- a/.gitignore
++++ b/.gitignore
+@@ -137,4 +137,5 @@ celerybeat.pid
+ dmypy.json
+ 
+ # Pyre type checker
+-.pyre/
+\ No newline at end of file
++.pyre/
++.opencode
+diff --git a/constants.py b/constants.py
+index f445350..15f06d4 100644
+--- a/constants.py
++++ b/constants.py
+@@ -1,7 +1,7 @@
+ import pathlib
+ 
+ ### Task parameters
+-DATA_DIR = '<put your data dir here>'
++DATA_DIR = '/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data'
+ SIM_TASK_CONFIGS = {
+     'sim_transfer_cube_scripted':{
+         'dataset_dir': DATA_DIR + '/sim_transfer_cube_scripted',

@@ -1,0 +1,310 @@
+
+Data from: /XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_transfer_cube_scripted
+
+number of parameters: 83.92M
+KL Weight 10
+
+Epoch 0
+Val loss:   59.16647
+l1: 0.983 kl: 5.818 loss: 59.166 
+Train loss: 47.62714
+l1: 0.689 kl: 4.694 loss: 47.627 
+Saved plots to /XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/tests/benchmark_ACT_k100_50epochs
+
+Epoch 1
+Val loss:   40.17024
+l1: 0.711 kl: 3.946 loss: 40.170 
+Train loss: 24.71943
+l1: 0.547 kl: 2.417 loss: 24.719 
+
+Epoch 2
+Val loss:   14.74388
+l1: 0.410 kl: 1.433 loss: 14.744 
+Train loss: 19.34846
+l1: 0.664 kl: 1.868 loss: 19.348 
+
+Epoch 3
+Val loss:   10.37954
+l1: 0.540 kl: 0.984 loss: 10.380 
+Train loss: 13.16295
+l1: 0.636 kl: 1.253 loss: 13.163 
+
+Epoch 4
+Val loss:   7.09104
+l1: 0.346 kl: 0.674 loss: 7.091 
+Train loss: 9.07843
+l1: 0.521 kl: 0.856 loss: 9.078 
+
+Epoch 5
+Val loss:   3.76319
+l1: 0.389 kl: 0.337 loss: 3.763 
+Train loss: 7.91619
+l1: 0.575 kl: 0.734 loss: 7.916 
+
+Epoch 6
+Val loss:   3.34751
+l1: 0.453 kl: 0.289 loss: 3.348 
+Train loss: 6.05852
+l1: 0.490 kl: 0.557 loss: 6.059 
+
+Epoch 7
+Val loss:   2.96458
+l1: 0.493 kl: 0.247 loss: 2.965 
+Train loss: 5.70511
+l1: 0.459 kl: 0.525 loss: 5.705 
+
+Epoch 8
+Val loss:   1.80375
+l1: 0.378 kl: 0.143 loss: 1.804 
+Train loss: 5.52836
+l1: 0.430 kl: 0.510 loss: 5.528 
+
+Epoch 9
+Val loss:   1.47825
+l1: 0.349 kl: 0.113 loss: 1.478 
+Train loss: 4.77161
+l1: 0.435 kl: 0.434 loss: 4.772 
+
+Epoch 10
+Val loss:   2.00447
+l1: 0.385 kl: 0.162 loss: 2.004 
+Train loss: 4.86856
+l1: 0.426 kl: 0.444 loss: 4.869 
+
+Epoch 11
+Val loss:   2.74828
+l1: 0.508 kl: 0.224 loss: 2.748 
+Train loss: 4.35394
+l1: 0.437 kl: 0.392 loss: 4.354 
+
+Epoch 12
+Val loss:   1.17570
+l1: 0.312 kl: 0.086 loss: 1.176 
+Train loss: 4.11247
+l1: 0.399 kl: 0.371 loss: 4.112 
+
+Epoch 13
+Val loss:   0.93117
+l1: 0.252 kl: 0.068 loss: 0.931 
+Train loss: 4.58042
+l1: 0.419 kl: 0.416 loss: 4.580 
+
+Epoch 14
+Val loss:   1.32545
+l1: 0.452 kl: 0.087 loss: 1.325 
+Train loss: 4.27523
+l1: 0.428 kl: 0.385 loss: 4.275 
+
+Epoch 15
+Val loss:   1.34007
+l1: 0.354 kl: 0.099 loss: 1.340 
+Train loss: 4.13835
+l1: 0.374 kl: 0.376 loss: 4.138 
+
+Epoch 16
+Val loss:   1.06162
+l1: 0.428 kl: 0.063 loss: 1.062 
+Train loss: 4.19967
+l1: 0.395 kl: 0.380 loss: 4.200 
+
+Epoch 17
+Val loss:   1.18079
+l1: 0.394 kl: 0.079 loss: 1.181 
+Train loss: 4.00064
+l1: 0.391 kl: 0.361 loss: 4.001 
+
+Epoch 18
+Val loss:   1.20769
+l1: 0.394 kl: 0.081 loss: 1.208 
+Train loss: 4.20929
+l1: 0.437 kl: 0.377 loss: 4.209 
+
+Epoch 19
+Val loss:   0.79002
+l1: 0.272 kl: 0.052 loss: 0.790 
+Train loss: 3.76858
+l1: 0.357 kl: 0.341 loss: 3.769 
+
+Epoch 20
+Val loss:   1.11241
+l1: 0.377 kl: 0.074 loss: 1.112 
+Train loss: 3.90445
+l1: 0.381 kl: 0.352 loss: 3.904 
+
+Epoch 21
+Val loss:   1.05851
+l1: 0.399 kl: 0.066 loss: 1.059 
+Train loss: 3.89376
+l1: 0.380 kl: 0.351 loss: 3.894 
+
+Epoch 22
+Val loss:   0.73251
+l1: 0.325 kl: 0.041 loss: 0.733 
+Train loss: 3.87928
+l1: 0.388 kl: 0.349 loss: 3.879 
+
+Epoch 23
+Val loss:   0.87560
+l1: 0.278 kl: 0.060 loss: 0.876 
+Train loss: 3.98220
+l1: 0.409 kl: 0.357 loss: 3.982 
+
+Epoch 24
+Val loss:   0.72883
+l1: 0.322 kl: 0.041 loss: 0.729 
+Train loss: 4.10132
+l1: 0.396 kl: 0.371 loss: 4.101 
+
+Epoch 25
+Val loss:   0.57357
+l1: 0.240 kl: 0.033 loss: 0.574 
+Train loss: 3.57008
+l1: 0.368 kl: 0.320 loss: 3.570 
+
+Epoch 26
+Val loss:   1.45167
+l1: 0.404 kl: 0.105 loss: 1.452 
+Train loss: 3.70142
+l1: 0.432 kl: 0.327 loss: 3.701 
+
+Epoch 27
+Val loss:   0.82651
+l1: 0.316 kl: 0.051 loss: 0.827 
+Train loss: 3.74449
+l1: 0.387 kl: 0.336 loss: 3.744 
+
+Epoch 28
+Val loss:   0.89470
+l1: 0.361 kl: 0.053 loss: 0.895 
+Train loss: 3.38657
+l1: 0.324 kl: 0.306 loss: 3.387 
+
+Epoch 29
+Val loss:   0.72202
+l1: 0.226 kl: 0.050 loss: 0.722 
+Train loss: 3.74448
+l1: 0.345 kl: 0.340 loss: 3.744 
+
+Epoch 30
+Val loss:   0.82832
+l1: 0.397 kl: 0.043 loss: 0.828 
+Train loss: 3.63944
+l1: 0.362 kl: 0.328 loss: 3.639 
+
+Epoch 31
+Val loss:   0.71116
+l1: 0.345 kl: 0.037 loss: 0.711 
+Train loss: 3.43887
+l1: 0.373 kl: 0.307 loss: 3.439 
+
+Epoch 32
+Val loss:   0.70361
+l1: 0.319 kl: 0.038 loss: 0.704 
+Train loss: 3.64153
+l1: 0.339 kl: 0.330 loss: 3.642 
+
+Epoch 33
+Val loss:   0.48530
+l1: 0.174 kl: 0.031 loss: 0.485 
+Train loss: 3.48996
+l1: 0.310 kl: 0.318 loss: 3.490 
+
+Epoch 34
+Val loss:   0.68243
+l1: 0.324 kl: 0.036 loss: 0.682 
+Train loss: 3.50938
+l1: 0.352 kl: 0.316 loss: 3.509 
+
+Epoch 35
+Val loss:   0.63824
+l1: 0.303 kl: 0.034 loss: 0.638 
+Train loss: 3.34699
+l1: 0.338 kl: 0.301 loss: 3.347 
+
+Epoch 36
+Val loss:   0.93275
+l1: 0.475 kl: 0.046 loss: 0.933 
+Train loss: 3.30834
+l1: 0.311 kl: 0.300 loss: 3.308 
+
+Epoch 37
+Val loss:   0.67001
+l1: 0.322 kl: 0.035 loss: 0.670 
+Train loss: 3.28219
+l1: 0.340 kl: 0.294 loss: 3.282 
+
+Epoch 38
+Val loss:   0.45671
+l1: 0.217 kl: 0.024 loss: 0.457 
+Train loss: 3.38356
+l1: 0.322 kl: 0.306 loss: 3.384 
+
+Epoch 39
+Val loss:   0.38645
+l1: 0.195 kl: 0.019 loss: 0.386 
+Train loss: 3.23929
+l1: 0.333 kl: 0.291 loss: 3.239 
+
+Epoch 40
+Val loss:   0.44016
+l1: 0.192 kl: 0.025 loss: 0.440 
+Train loss: 3.23064
+l1: 0.293 kl: 0.294 loss: 3.231 
+
+Epoch 41
+Val loss:   0.41129
+l1: 0.185 kl: 0.023 loss: 0.411 
+Train loss: 3.41090
+l1: 0.366 kl: 0.305 loss: 3.411 
+
+Epoch 42
+Val loss:   0.88757
+l1: 0.286 kl: 0.060 loss: 0.888 
+Train loss: 3.41153
+l1: 0.277 kl: 0.313 loss: 3.412 
+
+Epoch 43
+Val loss:   0.47229
+l1: 0.230 kl: 0.024 loss: 0.472 
+Train loss: 3.12729
+l1: 0.314 kl: 0.281 loss: 3.127 
+
+Epoch 44
+Val loss:   0.51727
+l1: 0.237 kl: 0.028 loss: 0.517 
+Train loss: 3.20977
+l1: 0.303 kl: 0.291 loss: 3.210 
+
+Epoch 45
+Val loss:   0.89386
+l1: 0.460 kl: 0.043 loss: 0.894 
+Train loss: 3.18967
+l1: 0.303 kl: 0.289 loss: 3.190 
+
+Epoch 46
+Val loss:   0.45417
+l1: 0.205 kl: 0.025 loss: 0.454 
+Train loss: 3.09546
+l1: 0.263 kl: 0.283 loss: 3.095 
+
+Epoch 47
+Val loss:   0.59921
+l1: 0.268 kl: 0.033 loss: 0.599 
+Train loss: 3.30463
+l1: 0.355 kl: 0.295 loss: 3.305 
+
+Epoch 48
+Val loss:   0.45915
+l1: 0.211 kl: 0.025 loss: 0.459 
+Train loss: 3.22905
+l1: 0.305 kl: 0.292 loss: 3.229 
+
+Epoch 49
+Val loss:   0.59073
+l1: 0.254 kl: 0.034 loss: 0.591 
+Train loss: 3.21186
+l1: 0.345 kl: 0.287 loss: 3.212 
+Training finished:
+Seed 0, val loss 0.386450 at epoch 39
+Saved plots to /XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/tests/benchmark_ACT_k100_50epochs
+Best ckpt, val loss 0.386450 @ epoch39

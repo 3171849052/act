@@ -1,0 +1,21 @@
+
+Data from: /XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_transfer_cube_scripted
+
+number of parameters: 14.94M
+
+Epoch 0
+Val loss:   0.86872
+mse: 0.869 loss: 0.869 
+Train loss: 0.92948
+mse: 0.929 loss: 0.929 
+Saved plots to /XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/tests/smoke_CNNMLP
+
+Epoch 1
+Val loss:   0.89914
+mse: 0.899 loss: 0.899 
+Train loss: 1.07384
+mse: 1.074 loss: 1.074 
+Training finished:
+Seed 0, val loss 0.868719 at epoch 0
+Saved plots to /XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/tests/smoke_CNNMLP
+Best ckpt, val loss 0.868719 @ epoch0

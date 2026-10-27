@@ -1,0 +1,11 @@
+{
+  "checked_at": "2026-10-26T16:05:44.399953+08:00",
+  "python": "/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/bin/python",
+  "evaluation_ast_only_changes": [
+    "rollout_count",
+    "video_save_limit"
+  ],
+  "evaluation_ast_identical_after_reverting_two_controls": true,
+  "completion_gate_rejects_incomplete_training": true,
+  "completion_marker_exists": false
+}

@@ -1,0 +1,90 @@
+{
+  "updated_at": "2026-10-26T18:08:30.318094+08:00",
+  "three_parallel_evaluations": true,
+  "top_only_validation": {
+    "checked_at": "2026-10-26T18:03:55.863286+08:00",
+    "steps_per_pose": 8,
+    "poses": [
+      [
+        0.03,
+        0.42,
+        0.05,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        0.17,
+        0.58,
+        0.05,
+        1,
+        0,
+        0,
+        0
+      ]
+    ],
+    "comparisons": [
+      {
+        "pose_index": 0,
+        "observations": 9,
+        "pixels_states_rewards_rng_bitwise_equal": true
+      },
+      {
+        "pose_index": 1,
+        "observations": 9,
+        "pixels_states_rewards_rng_bitwise_equal": true
+      }
+    ],
+    "original_seconds": 35.17357157636434,
+    "top_only_seconds": 11.911923915147781,
+    "passed": true,
+    "measured_speedup": 2.952803579582633
+  },
+  "egl_probe": {
+    "passed": false,
+    "error": "Traceback (most recent call last):\n  File \"results/acceptance_check.py\", line 151, in <module>\n    result = globals()[args.mode]()\n  File \"results/acceptance_check.py\", line 65, in sim\n    from sim_env import make_sim_env, BOX_POSE\n  File \"/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/sim_env.py\", line 5, in <module>\n    from dm_control import mujoco\n  File \"/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/lib/python3.8/site-packages/dm_control/mujoco/__init__.py\", line 18, in <module>\n    from dm_control.mujoco.engine import action_spec\n  File \"/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/lib/python3.8/site-packages/dm_control/mujoco/engine.py\", line 41, in <module>\n    from dm_control import _render\n  File \"/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/lib/python3.8/site-packages/dm_control/_render/__init__.py\", line 86, in <module>\n    Renderer = import_func()\n  File \"/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/lib/python3.8/site-packages/dm_control/_render/__init__.py\", line 36, in _import_egl\n    from dm_control._render.pyopengl.egl_renderer import EGLContext\n  File \"/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/lib/python3.8/site-packages/dm_control/_render/pyopengl/egl_renderer.py\", line 39, in <module>\n    from dm_control._render.pyopengl import egl_ext as EGL\n  File \"/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/lib/python3.8/site-packages/dm_control/_render/pyopengl/egl_ext.py\", line 29, in <module>\n    from OpenGL import EGL\n  File \"/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/lib/python3.8/site-packages/OpenGL/EGL/__init__.py\", line 2, in <module>\n    from OpenGL.raw.EGL._types import *\n  File \"/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/lib/python3.8/site-packages/OpenGL/raw/EGL/_types.py\", line 87, in <module>\n    raw_eglQueryString = _p.PLATFORM.EGL.eglQueryString\nAttributeError: 'NoneType' object has no attribute 'eglQueryString'\n"
+  },
+  "egl_status": "blocked_by_container_graphics_configuration",
+  "original_evaluation_history": [
+    {
+      "label": "M1_ACT_k100_eval",
+      "status": "INTERRUPTED_FOR_ACCELERATION",
+      "pid": 4167524,
+      "command": [
+        "/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/bin/python",
+        "-u",
+        "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/scripts/worker.py",
+        "--phase",
+        "eval",
+        "--output",
+        "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/evaluations/M1_ACT_k100",
+        "--policy",
+        "ACT",
+        "--chunk",
+        "100",
+        "--epochs",
+        "1000",
+        "--num_eval_episodes",
+        "30",
+        "--max_saved_videos",
+        "2"
+      ],
+      "directory": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/evaluations/M1_ACT_k100_before_acceleration_1793009236834004519",
+      "stdout": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/evaluations/M1_ACT_k100_before_acceleration_1793009236834004519/eval.stdout.log",
+      "stderr": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/evaluations/M1_ACT_k100_before_acceleration_1793009236834004519/eval.stderr.log",
+      "start_time": "2026-10-26T16:29:11.361672+08:00",
+      "start_timestamp": 1793003351.3616955,
+      "end_time": "2026-10-26T18:07:17.344115+08:00",
+      "end_timestamp": 1793009237.3441489,
+      "exit_code": null,
+      "termination_signal": "SIGTERM",
+      "previous_directory": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/evaluations/M1_ACT_k100",
+      "reason": "User authorized parallel evaluation and removal of two unused camera renders",
+      "duration_seconds": 5885.982453346252,
+      "completed_rollouts": 7,
+      "model": "M1_ACT_k100"
+    }
+  ],
+  "scheduler_pid": 151367
+}

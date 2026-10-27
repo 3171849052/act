@@ -1,0 +1,77 @@
+number of parameters: 83.88M
+KL Weight 10
+<All keys matched successfully>
+Loaded: /XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/evaluations/M4_ACT_k10/policy_best.ckpt
+Rollout 0
+episode_return=174, episode_highest_reward=2, env_max_reward=4, Success: False
+Saved video to: /XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/evaluations/M4_ACT_k10/video0.mp4
+Rollout 1
+episode_return=0, episode_highest_reward=0, env_max_reward=4, Success: False
+Saved video to: /XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/evaluations/M4_ACT_k10/video1.mp4
+Rollout 2
+episode_return=0, episode_highest_reward=0, env_max_reward=4, Success: False
+Rollout 3
+episode_return=10, episode_highest_reward=2, env_max_reward=4, Success: False
+Rollout 4
+episode_return=49, episode_highest_reward=1, env_max_reward=4, Success: False
+Rollout 5
+episode_return=8, episode_highest_reward=2, env_max_reward=4, Success: False
+Rollout 6
+episode_return=0, episode_highest_reward=0, env_max_reward=4, Success: False
+Rollout 7
+episode_return=0, episode_highest_reward=0, env_max_reward=4, Success: False
+Rollout 8
+episode_return=219, episode_highest_reward=2, env_max_reward=4, Success: False
+Rollout 9
+episode_return=0, episode_highest_reward=0, env_max_reward=4, Success: False
+Rollout 10
+episode_return=0, episode_highest_reward=0, env_max_reward=4, Success: False
+Rollout 11
+episode_return=56, episode_highest_reward=1, env_max_reward=4, Success: False
+Rollout 12
+episode_return=0, episode_highest_reward=0, env_max_reward=4, Success: False
+Rollout 13
+episode_return=28, episode_highest_reward=2, env_max_reward=4, Success: False
+Rollout 14
+episode_return=0, episode_highest_reward=0, env_max_reward=4, Success: False
+Rollout 15
+episode_return=0, episode_highest_reward=0, env_max_reward=4, Success: False
+Rollout 16
+episode_return=0, episode_highest_reward=0, env_max_reward=4, Success: False
+Rollout 17
+episode_return=0, episode_highest_reward=0, env_max_reward=4, Success: False
+Rollout 18
+episode_return=0, episode_highest_reward=0, env_max_reward=4, Success: False
+Rollout 19
+episode_return=61, episode_highest_reward=1, env_max_reward=4, Success: False
+Rollout 20
+episode_return=58, episode_highest_reward=2, env_max_reward=4, Success: False
+Rollout 21
+episode_return=0, episode_highest_reward=0, env_max_reward=4, Success: False
+Rollout 22
+episode_return=0, episode_highest_reward=0, env_max_reward=4, Success: False
+Rollout 23
+episode_return=3, episode_highest_reward=2, env_max_reward=4, Success: False
+Rollout 24
+episode_return=0, episode_highest_reward=0, env_max_reward=4, Success: False
+Rollout 25
+episode_return=0, episode_highest_reward=0, env_max_reward=4, Success: False
+Rollout 26
+episode_return=250, episode_highest_reward=2, env_max_reward=4, Success: False
+Rollout 27
+episode_return=0, episode_highest_reward=0, env_max_reward=4, Success: False
+Rollout 28
+episode_return=0, episode_highest_reward=0, env_max_reward=4, Success: False
+Rollout 29
+episode_return=366, episode_highest_reward=2, env_max_reward=4, Success: False
+
+Success rate: 0.0
+Average return: 42.733333333333334
+
+Reward >= 0: 30/30 = 100.0%
+Reward >= 1: 12/30 = 40.0%
+Reward >= 2: 9/30 = 30.0%
+Reward >= 3: 0/30 = 0.0%
+Reward >= 4: 0/30 = 0.0%
+
+Evaluation completed: 0.0 42.733333333333334

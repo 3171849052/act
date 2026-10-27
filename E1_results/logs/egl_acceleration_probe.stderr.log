@@ -1,0 +1,2 @@
+usage: acceptance_check.py [-h] --output OUTPUT {imports,gpu,sim,data}
+acceptance_check.py: error: unrecognized arguments: --mode

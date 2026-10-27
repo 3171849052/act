@@ -1,0 +1,22 @@
+
+Data from: /XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_transfer_cube_scripted
+
+number of parameters: 83.92M
+KL Weight 10
+
+Epoch 0
+Val loss:   59.16647
+l1: 0.983 kl: 5.818 loss: 59.166 
+Train loss: 47.62714
+l1: 0.689 kl: 4.694 loss: 47.627 
+Saved plots to /XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/tests/smoke_ACT_k100
+
+Epoch 1
+Val loss:   40.17024
+l1: 0.711 kl: 3.946 loss: 40.170 
+Train loss: 24.71943
+l1: 0.547 kl: 2.417 loss: 24.719 
+Training finished:
+Seed 0, val loss 40.170242 at epoch 1
+Saved plots to /XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/tests/smoke_ACT_k100
+Best ckpt, val loss 40.170242 @ epoch1

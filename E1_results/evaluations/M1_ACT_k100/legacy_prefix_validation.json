@@ -1,0 +1,21 @@
+{
+  "expected_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "verified_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "reference_directory": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/evaluations/M1_ACT_k100_before_acceleration_1793009236834004519"
+}

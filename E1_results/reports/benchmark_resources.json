@@ -1,0 +1,22 @@
+{
+  "benchmark_seconds": 53.167640924453735,
+  "average_seconds_per_epoch_including_startup": 1.0633528184890748,
+  "sample_count": 10,
+  "sampling_interval_seconds": 5,
+  "gpu_utilization": {
+    "min": 0.0,
+    "max": 95.0,
+    "mean": 41.3
+  },
+  "memory_used_mib": {
+    "min": 0.0,
+    "max": 4459.0,
+    "mean": 3660.9
+  },
+  "cpu_load_1min": {
+    "min": 21.12255859375,
+    "max": 25.2666015625,
+    "mean": 22.9375
+  },
+  "cpu_count": 112
+}

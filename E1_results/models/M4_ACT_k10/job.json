@@ -1,0 +1,29 @@
+{
+  "label": "M4_ACT_k10",
+  "status": "SUCCEEDED",
+  "pid": 4122158,
+  "command": [
+    "/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/bin/python",
+    "-u",
+    "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/scripts/worker.py",
+    "--phase",
+    "train",
+    "--output",
+    "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/models/M4_ACT_k10",
+    "--policy",
+    "ACT",
+    "--chunk",
+    "10",
+    "--epochs",
+    "1000"
+  ],
+  "directory": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/models/M4_ACT_k10",
+  "stdout": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/models/M4_ACT_k10/train.stdout.log",
+  "stderr": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/models/M4_ACT_k10/train.stderr.log",
+  "start_time": "2026-10-26T16:13:49.805749+08:00",
+  "start_timestamp": 1793002429.80578,
+  "exit_code": 0,
+  "end_time": "2026-10-26T16:29:05.569805+08:00",
+  "end_timestamp": 1793003345.5698586,
+  "duration_seconds": 915.764078617096
+}

@@ -1,0 +1,29 @@
+{
+  "label": "M1_ACT_k100_eval",
+  "status": "RUNNING",
+  "pid": 4167524,
+  "command": [
+    "/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/bin/python",
+    "-u",
+    "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/scripts/worker.py",
+    "--phase",
+    "eval",
+    "--output",
+    "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/evaluations/M1_ACT_k100",
+    "--policy",
+    "ACT",
+    "--chunk",
+    "100",
+    "--epochs",
+    "1000",
+    "--num_eval_episodes",
+    "30",
+    "--max_saved_videos",
+    "2"
+  ],
+  "directory": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/evaluations/M1_ACT_k100",
+  "stdout": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/evaluations/M1_ACT_k100/eval.stdout.log",
+  "stderr": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/evaluations/M1_ACT_k100/eval.stderr.log",
+  "start_time": "2026-10-26T16:29:11.361672+08:00",
+  "start_timestamp": 1793003351.3616955
+}

@@ -1,0 +1,40 @@
+{
+  "checked_at": "2026-10-26T18:03:55.863286+08:00",
+  "steps_per_pose": 8,
+  "poses": [
+    [
+      0.03,
+      0.42,
+      0.05,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0.17,
+      0.58,
+      0.05,
+      1,
+      0,
+      0,
+      0
+    ]
+  ],
+  "comparisons": [
+    {
+      "pose_index": 0,
+      "observations": 9,
+      "pixels_states_rewards_rng_bitwise_equal": true
+    },
+    {
+      "pose_index": 1,
+      "observations": 9,
+      "pixels_states_rewards_rng_bitwise_equal": true
+    }
+  ],
+  "original_seconds": 35.17357157636434,
+  "top_only_seconds": 11.911923915147781,
+  "passed": true,
+  "measured_speedup": 2.952803579582633
+}

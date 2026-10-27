@@ -1,0 +1,29 @@
+{
+  "label": "benchmark_ACT_k100_50epochs",
+  "status": "SUCCEEDED",
+  "pid": 4070102,
+  "command": [
+    "/HOME/sysu_qling/sysu_qling_3/HDD_POOL/anaconda3/envs/act-repro/bin/python",
+    "-u",
+    "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/scripts/worker.py",
+    "--phase",
+    "train",
+    "--output",
+    "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/tests/benchmark_ACT_k100_50epochs",
+    "--policy",
+    "ACT",
+    "--chunk",
+    "100",
+    "--epochs",
+    "50"
+  ],
+  "directory": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/tests/benchmark_ACT_k100_50epochs",
+  "stdout": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/tests/benchmark_ACT_k100_50epochs/train.stdout.log",
+  "stderr": "/XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/tests/benchmark_ACT_k100_50epochs/train.stderr.log",
+  "start_time": "2026-10-26T16:02:00.067109+08:00",
+  "start_timestamp": 1793001720.0671334,
+  "exit_code": 0,
+  "end_time": "2026-10-26T16:02:53.234711+08:00",
+  "end_timestamp": 1793001773.2347744,
+  "duration_seconds": 53.167640924453735
+}

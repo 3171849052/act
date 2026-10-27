@@ -1,0 +1,8 @@
+{
+  "benchmark_seconds": 53.167640924453735,
+  "seconds_per_epoch_including_startup": 1.0633528184890748,
+  "estimated_serial_training_seconds": 4253.411273956299,
+  "estimated_parallel_lower_bound_seconds": 1417.8037579854329,
+  "over_24_hours": false,
+  "note": "实测 ACT 50 轮外推；CNNMLP、并行争用、I/O 和评估耗时另计。资源数据见 resource_monitor.jsonl。"
+}

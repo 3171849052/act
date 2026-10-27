@@ -1,0 +1,6019 @@
+
+Data from: /XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/data/sim_transfer_cube_scripted
+
+number of parameters: 83.88M
+KL Weight 10
+
+Epoch 0
+Val loss:   83.13914
+l1: 1.062 kl: 8.208 loss: 83.139 
+Train loss: 59.58839
+l1: 0.901 kl: 5.869 loss: 59.588 
+Saved plots to /XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/models/M4_ACT_k10
+
+Epoch 1
+Val loss:   35.60342
+l1: 0.675 kl: 3.493 loss: 35.603 
+Train loss: 28.14556
+l1: 0.691 kl: 2.745 loss: 28.146 
+
+Epoch 2
+Val loss:   16.88842
+l1: 0.651 kl: 1.624 loss: 16.888 
+Train loss: 17.69754
+l1: 0.662 kl: 1.704 loss: 17.698 
+
+Epoch 3
+Val loss:   9.67915
+l1: 0.574 kl: 0.911 loss: 9.679 
+Train loss: 11.98701
+l1: 0.564 kl: 1.142 loss: 11.987 
+
+Epoch 4
+Val loss:   7.91333
+l1: 0.653 kl: 0.726 loss: 7.913 
+Train loss: 9.02116
+l1: 0.547 kl: 0.847 loss: 9.021 
+
+Epoch 5
+Val loss:   7.23981
+l1: 0.684 kl: 0.656 loss: 7.240 
+Train loss: 7.61123
+l1: 0.502 kl: 0.711 loss: 7.611 
+
+Epoch 6
+Val loss:   4.31198
+l1: 0.500 kl: 0.381 loss: 4.312 
+Train loss: 7.37123
+l1: 0.496 kl: 0.687 loss: 7.371 
+
+Epoch 7
+Val loss:   2.44662
+l1: 0.342 kl: 0.210 loss: 2.447 
+Train loss: 7.14642
+l1: 0.497 kl: 0.665 loss: 7.146 
+
+Epoch 8
+Val loss:   2.27337
+l1: 0.419 kl: 0.185 loss: 2.273 
+Train loss: 6.27702
+l1: 0.444 kl: 0.583 loss: 6.277 
+
+Epoch 9
+Val loss:   2.27242
+l1: 0.493 kl: 0.178 loss: 2.272 
+Train loss: 5.23936
+l1: 0.451 kl: 0.479 loss: 5.239 
+
+Epoch 10
+Val loss:   2.26582
+l1: 0.406 kl: 0.186 loss: 2.266 
+Train loss: 5.05695
+l1: 0.399 kl: 0.466 loss: 5.057 
+
+Epoch 11
+Val loss:   1.36239
+l1: 0.332 kl: 0.103 loss: 1.362 
+Train loss: 5.09869
+l1: 0.403 kl: 0.470 loss: 5.099 
+
+Epoch 12
+Val loss:   1.40858
+l1: 0.343 kl: 0.107 loss: 1.409 
+Train loss: 4.76707
+l1: 0.400 kl: 0.437 loss: 4.767 
+
+Epoch 13
+Val loss:   3.44116
+l1: 0.304 kl: 0.314 loss: 3.441 
+Train loss: 4.90299
+l1: 0.355 kl: 0.455 loss: 4.903 
+
+Epoch 14
+Val loss:   0.93783
+l1: 0.247 kl: 0.069 loss: 0.938 
+Train loss: 4.63684
+l1: 0.343 kl: 0.429 loss: 4.637 
+
+Epoch 15
+Val loss:   1.03775
+l1: 0.209 kl: 0.083 loss: 1.038 
+Train loss: 4.74769
+l1: 0.337 kl: 0.441 loss: 4.748 
+
+Epoch 16
+Val loss:   0.83974
+l1: 0.208 kl: 0.063 loss: 0.840 
+Train loss: 4.34199
+l1: 0.357 kl: 0.398 loss: 4.342 
+
+Epoch 17
+Val loss:   1.10483
+l1: 0.265 kl: 0.084 loss: 1.105 
+Train loss: 4.36129
+l1: 0.343 kl: 0.402 loss: 4.361 
+
+Epoch 18
+Val loss:   0.97458
+l1: 0.283 kl: 0.069 loss: 0.975 
+Train loss: 4.24363
+l1: 0.328 kl: 0.392 loss: 4.244 
+
+Epoch 19
+Val loss:   0.72213
+l1: 0.230 kl: 0.049 loss: 0.722 
+Train loss: 4.22985
+l1: 0.339 kl: 0.389 loss: 4.230 
+
+Epoch 20
+Val loss:   1.02219
+l1: 0.274 kl: 0.075 loss: 1.022 
+Train loss: 4.07100
+l1: 0.291 kl: 0.378 loss: 4.071 
+
+Epoch 21
+Val loss:   1.06840
+l1: 0.241 kl: 0.083 loss: 1.068 
+Train loss: 4.35418
+l1: 0.308 kl: 0.405 loss: 4.354 
+
+Epoch 22
+Val loss:   1.06628
+l1: 0.323 kl: 0.074 loss: 1.066 
+Train loss: 3.83346
+l1: 0.280 kl: 0.355 loss: 3.833 
+
+Epoch 23
+Val loss:   0.76942
+l1: 0.308 kl: 0.046 loss: 0.769 
+Train loss: 3.81810
+l1: 0.287 kl: 0.353 loss: 3.818 
+
+Epoch 24
+Val loss:   0.93290
+l1: 0.239 kl: 0.069 loss: 0.933 
+Train loss: 3.91753
+l1: 0.303 kl: 0.361 loss: 3.918 
+
+Epoch 25
+Val loss:   0.67041
+l1: 0.220 kl: 0.045 loss: 0.670 
+Train loss: 3.80117
+l1: 0.275 kl: 0.353 loss: 3.801 
+
+Epoch 26
+Val loss:   0.81042
+l1: 0.224 kl: 0.059 loss: 0.810 
+Train loss: 3.80105
+l1: 0.270 kl: 0.353 loss: 3.801 
+
+Epoch 27
+Val loss:   0.73253
+l1: 0.239 kl: 0.049 loss: 0.733 
+Train loss: 3.69682
+l1: 0.240 kl: 0.346 loss: 3.697 
+
+Epoch 28
+Val loss:   0.55960
+l1: 0.181 kl: 0.038 loss: 0.560 
+Train loss: 3.75205
+l1: 0.246 kl: 0.351 loss: 3.752 
+
+Epoch 29
+Val loss:   0.48618
+l1: 0.169 kl: 0.032 loss: 0.486 
+Train loss: 3.83456
+l1: 0.237 kl: 0.360 loss: 3.835 
+
+Epoch 30
+Val loss:   0.94425
+l1: 0.310 kl: 0.063 loss: 0.944 
+Train loss: 3.76994
+l1: 0.269 kl: 0.350 loss: 3.770 
+
+Epoch 31
+Val loss:   0.50005
+l1: 0.157 kl: 0.034 loss: 0.500 
+Train loss: 3.82725
+l1: 0.240 kl: 0.359 loss: 3.827 
+
+Epoch 32
+Val loss:   0.80305
+l1: 0.273 kl: 0.053 loss: 0.803 
+Train loss: 3.79242
+l1: 0.240 kl: 0.355 loss: 3.792 
+
+Epoch 33
+Val loss:   0.54304
+l1: 0.180 kl: 0.036 loss: 0.543 
+Train loss: 3.55702
+l1: 0.224 kl: 0.333 loss: 3.557 
+
+Epoch 34
+Val loss:   0.58117
+l1: 0.127 kl: 0.045 loss: 0.581 
+Train loss: 3.54578
+l1: 0.195 kl: 0.335 loss: 3.546 
+
+Epoch 35
+Val loss:   0.50118
+l1: 0.162 kl: 0.034 loss: 0.501 
+Train loss: 3.58341
+l1: 0.216 kl: 0.337 loss: 3.583 
+
+Epoch 36
+Val loss:   0.47855
+l1: 0.147 kl: 0.033 loss: 0.479 
+Train loss: 3.47727
+l1: 0.199 kl: 0.328 loss: 3.477 
+
+Epoch 37
+Val loss:   0.77688
+l1: 0.225 kl: 0.055 loss: 0.777 
+Train loss: 3.33287
+l1: 0.199 kl: 0.313 loss: 3.333 
+
+Epoch 38
+Val loss:   0.47465
+l1: 0.124 kl: 0.035 loss: 0.475 
+Train loss: 3.26783
+l1: 0.218 kl: 0.305 loss: 3.268 
+
+Epoch 39
+Val loss:   0.37609
+l1: 0.117 kl: 0.026 loss: 0.376 
+Train loss: 3.11363
+l1: 0.180 kl: 0.293 loss: 3.114 
+
+Epoch 40
+Val loss:   0.53926
+l1: 0.136 kl: 0.040 loss: 0.539 
+Train loss: 3.17445
+l1: 0.196 kl: 0.298 loss: 3.174 
+
+Epoch 41
+Val loss:   0.65090
+l1: 0.236 kl: 0.041 loss: 0.651 
+Train loss: 3.41232
+l1: 0.210 kl: 0.320 loss: 3.412 
+
+Epoch 42
+Val loss:   0.40077
+l1: 0.116 kl: 0.029 loss: 0.401 
+Train loss: 3.29259
+l1: 0.200 kl: 0.309 loss: 3.293 
+
+Epoch 43
+Val loss:   0.53381
+l1: 0.141 kl: 0.039 loss: 0.534 
+Train loss: 3.29588
+l1: 0.215 kl: 0.308 loss: 3.296 
+
+Epoch 44
+Val loss:   0.60533
+l1: 0.179 kl: 0.043 loss: 0.605 
+Train loss: 3.27070
+l1: 0.205 kl: 0.307 loss: 3.271 
+
+Epoch 45
+Val loss:   0.40496
+l1: 0.123 kl: 0.028 loss: 0.405 
+Train loss: 3.08520
+l1: 0.199 kl: 0.289 loss: 3.085 
+
+Epoch 46
+Val loss:   0.53181
+l1: 0.182 kl: 0.035 loss: 0.532 
+Train loss: 3.37785
+l1: 0.215 kl: 0.316 loss: 3.378 
+
+Epoch 47
+Val loss:   0.40190
+l1: 0.161 kl: 0.024 loss: 0.402 
+Train loss: 3.23362
+l1: 0.191 kl: 0.304 loss: 3.234 
+
+Epoch 48
+Val loss:   0.48795
+l1: 0.194 kl: 0.029 loss: 0.488 
+Train loss: 3.24430
+l1: 0.212 kl: 0.303 loss: 3.244 
+
+Epoch 49
+Val loss:   0.46894
+l1: 0.145 kl: 0.032 loss: 0.469 
+Train loss: 3.49856
+l1: 0.206 kl: 0.329 loss: 3.499 
+
+Epoch 50
+Val loss:   0.37752
+l1: 0.116 kl: 0.026 loss: 0.378 
+Train loss: 3.09076
+l1: 0.181 kl: 0.291 loss: 3.091 
+
+Epoch 51
+Val loss:   0.44658
+l1: 0.113 kl: 0.033 loss: 0.447 
+Train loss: 3.05738
+l1: 0.203 kl: 0.285 loss: 3.057 
+
+Epoch 52
+Val loss:   0.50294
+l1: 0.175 kl: 0.033 loss: 0.503 
+Train loss: 3.10725
+l1: 0.167 kl: 0.294 loss: 3.107 
+
+Epoch 53
+Val loss:   0.41348
+l1: 0.132 kl: 0.028 loss: 0.413 
+Train loss: 3.21193
+l1: 0.183 kl: 0.303 loss: 3.212 
+
+Epoch 54
+Val loss:   0.54869
+l1: 0.204 kl: 0.034 loss: 0.549 
+Train loss: 3.07858
+l1: 0.194 kl: 0.288 loss: 3.079 
+
+Epoch 55
+Val loss:   0.41601
+l1: 0.115 kl: 0.030 loss: 0.416 
+Train loss: 3.02757
+l1: 0.194 kl: 0.283 loss: 3.028 
+
+Epoch 56
+Val loss:   0.45476
+l1: 0.110 kl: 0.034 loss: 0.455 
+Train loss: 3.19716
+l1: 0.174 kl: 0.302 loss: 3.197 
+
+Epoch 57
+Val loss:   0.44244
+l1: 0.134 kl: 0.031 loss: 0.442 
+Train loss: 3.03659
+l1: 0.192 kl: 0.284 loss: 3.037 
+
+Epoch 58
+Val loss:   0.52842
+l1: 0.195 kl: 0.033 loss: 0.528 
+Train loss: 3.18909
+l1: 0.189 kl: 0.300 loss: 3.189 
+
+Epoch 59
+Val loss:   0.43057
+l1: 0.148 kl: 0.028 loss: 0.431 
+Train loss: 3.02902
+l1: 0.164 kl: 0.287 loss: 3.029 
+
+Epoch 60
+Val loss:   0.66605
+l1: 0.173 kl: 0.049 loss: 0.666 
+Train loss: 3.08896
+l1: 0.178 kl: 0.291 loss: 3.089 
+
+Epoch 61
+Val loss:   0.46709
+l1: 0.184 kl: 0.028 loss: 0.467 
+Train loss: 2.96964
+l1: 0.197 kl: 0.277 loss: 2.970 
+
+Epoch 62
+Val loss:   0.44015
+l1: 0.137 kl: 0.030 loss: 0.440 
+Train loss: 2.94728
+l1: 0.174 kl: 0.277 loss: 2.947 
+
+Epoch 63
+Val loss:   0.45502
+l1: 0.151 kl: 0.030 loss: 0.455 
+Train loss: 3.09198
+l1: 0.163 kl: 0.293 loss: 3.092 
+
+Epoch 64
+Val loss:   0.34612
+l1: 0.119 kl: 0.023 loss: 0.346 
+Train loss: 2.93933
+l1: 0.172 kl: 0.277 loss: 2.939 
+
+Epoch 65
+Val loss:   0.41093
+l1: 0.132 kl: 0.028 loss: 0.411 
+Train loss: 2.98925
+l1: 0.200 kl: 0.279 loss: 2.989 
+
+Epoch 66
+Val loss:   0.38141
+l1: 0.144 kl: 0.024 loss: 0.381 
+Train loss: 2.83941
+l1: 0.179 kl: 0.266 loss: 2.839 
+
+Epoch 67
+Val loss:   0.36563
+l1: 0.108 kl: 0.026 loss: 0.366 
+Train loss: 3.05293
+l1: 0.176 kl: 0.288 loss: 3.053 
+
+Epoch 68
+Val loss:   0.52456
+l1: 0.219 kl: 0.031 loss: 0.525 
+Train loss: 2.92058
+l1: 0.172 kl: 0.275 loss: 2.921 
+
+Epoch 69
+Val loss:   0.30791
+l1: 0.100 kl: 0.021 loss: 0.308 
+Train loss: 2.80467
+l1: 0.172 kl: 0.263 loss: 2.805 
+
+Epoch 70
+Val loss:   0.43407
+l1: 0.153 kl: 0.028 loss: 0.434 
+Train loss: 2.91888
+l1: 0.164 kl: 0.275 loss: 2.919 
+
+Epoch 71
+Val loss:   0.32666
+l1: 0.113 kl: 0.021 loss: 0.327 
+Train loss: 2.79923
+l1: 0.166 kl: 0.263 loss: 2.799 
+
+Epoch 72
+Val loss:   0.34888
+l1: 0.136 kl: 0.021 loss: 0.349 
+Train loss: 2.82024
+l1: 0.162 kl: 0.266 loss: 2.820 
+
+Epoch 73
+Val loss:   0.40517
+l1: 0.141 kl: 0.026 loss: 0.405 
+Train loss: 2.79182
+l1: 0.184 kl: 0.261 loss: 2.792 
+
+Epoch 74
+Val loss:   0.28201
+l1: 0.107 kl: 0.017 loss: 0.282 
+Train loss: 2.78349
+l1: 0.190 kl: 0.259 loss: 2.783 
+
+Epoch 75
+Val loss:   0.35327
+l1: 0.126 kl: 0.023 loss: 0.353 
+Train loss: 2.79217
+l1: 0.201 kl: 0.259 loss: 2.792 
+
+Epoch 76
+Val loss:   0.54383
+l1: 0.220 kl: 0.032 loss: 0.544 
+Train loss: 2.71214
+l1: 0.167 kl: 0.255 loss: 2.712 
+
+Epoch 77
+Val loss:   0.32401
+l1: 0.115 kl: 0.021 loss: 0.324 
+Train loss: 2.62789
+l1: 0.172 kl: 0.246 loss: 2.628 
+
+Epoch 78
+Val loss:   0.44656
+l1: 0.187 kl: 0.026 loss: 0.447 
+Train loss: 2.79134
+l1: 0.170 kl: 0.262 loss: 2.791 
+
+Epoch 79
+Val loss:   0.28874
+l1: 0.127 kl: 0.016 loss: 0.289 
+Train loss: 2.70128
+l1: 0.170 kl: 0.253 loss: 2.701 
+
+Epoch 80
+Val loss:   0.35861
+l1: 0.109 kl: 0.025 loss: 0.359 
+Train loss: 2.82061
+l1: 0.167 kl: 0.265 loss: 2.821 
+
+Epoch 81
+Val loss:   0.28643
+l1: 0.122 kl: 0.016 loss: 0.286 
+Train loss: 2.71937
+l1: 0.175 kl: 0.254 loss: 2.719 
+
+Epoch 82
+Val loss:   0.26262
+l1: 0.093 kl: 0.017 loss: 0.263 
+Train loss: 2.58993
+l1: 0.159 kl: 0.243 loss: 2.590 
+
+Epoch 83
+Val loss:   0.26689
+l1: 0.088 kl: 0.018 loss: 0.267 
+Train loss: 2.76323
+l1: 0.154 kl: 0.261 loss: 2.763 
+
+Epoch 84
+Val loss:   0.35147
+l1: 0.123 kl: 0.023 loss: 0.351 
+Train loss: 2.67044
+l1: 0.167 kl: 0.250 loss: 2.670 
+
+Epoch 85
+Val loss:   0.36897
+l1: 0.137 kl: 0.023 loss: 0.369 
+Train loss: 2.59378
+l1: 0.172 kl: 0.242 loss: 2.594 
+
+Epoch 86
+Val loss:   0.32223
+l1: 0.111 kl: 0.021 loss: 0.322 
+Train loss: 2.76038
+l1: 0.158 kl: 0.260 loss: 2.760 
+
+Epoch 87
+Val loss:   0.34941
+l1: 0.126 kl: 0.022 loss: 0.349 
+Train loss: 2.66573
+l1: 0.161 kl: 0.250 loss: 2.666 
+
+Epoch 88
+Val loss:   0.53815
+l1: 0.177 kl: 0.036 loss: 0.538 
+Train loss: 2.69881
+l1: 0.179 kl: 0.252 loss: 2.699 
+
+Epoch 89
+Val loss:   0.22961
+l1: 0.076 kl: 0.015 loss: 0.230 
+Train loss: 2.71623
+l1: 0.172 kl: 0.254 loss: 2.716 
+
+Epoch 90
+Val loss:   0.33439
+l1: 0.099 kl: 0.024 loss: 0.334 
+Train loss: 2.77466
+l1: 0.166 kl: 0.261 loss: 2.775 
+
+Epoch 91
+Val loss:   0.27404
+l1: 0.138 kl: 0.014 loss: 0.274 
+Train loss: 2.71208
+l1: 0.175 kl: 0.254 loss: 2.712 
+
+Epoch 92
+Val loss:   0.30648
+l1: 0.106 kl: 0.020 loss: 0.306 
+Train loss: 2.70940
+l1: 0.151 kl: 0.256 loss: 2.709 
+
+Epoch 93
+Val loss:   0.32988
+l1: 0.121 kl: 0.021 loss: 0.330 
+Train loss: 2.57229
+l1: 0.163 kl: 0.241 loss: 2.572 
+
+Epoch 94
+Val loss:   0.25515
+l1: 0.087 kl: 0.017 loss: 0.255 
+Train loss: 2.68725
+l1: 0.176 kl: 0.251 loss: 2.687 
+
+Epoch 95
+Val loss:   0.33032
+l1: 0.102 kl: 0.023 loss: 0.330 
+Train loss: 2.62557
+l1: 0.159 kl: 0.247 loss: 2.626 
+
+Epoch 96
+Val loss:   0.27382
+l1: 0.107 kl: 0.017 loss: 0.274 
+Train loss: 2.63071
+l1: 0.159 kl: 0.247 loss: 2.631 
+
+Epoch 97
+Val loss:   0.33625
+l1: 0.141 kl: 0.019 loss: 0.336 
+Train loss: 2.54102
+l1: 0.171 kl: 0.237 loss: 2.541 
+
+Epoch 98
+Val loss:   0.28486
+l1: 0.119 kl: 0.017 loss: 0.285 
+Train loss: 2.51766
+l1: 0.157 kl: 0.236 loss: 2.518 
+
+Epoch 99
+Val loss:   0.35751
+l1: 0.156 kl: 0.020 loss: 0.358 
+Train loss: 2.53488
+l1: 0.169 kl: 0.237 loss: 2.535 
+
+Epoch 100
+Val loss:   0.23937
+l1: 0.101 kl: 0.014 loss: 0.239 
+Train loss: 2.55305
+l1: 0.154 kl: 0.240 loss: 2.553 
+Saved plots to /XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/models/M4_ACT_k10
+
+Epoch 101
+Val loss:   0.27976
+l1: 0.116 kl: 0.016 loss: 0.280 
+Train loss: 2.72333
+l1: 0.161 kl: 0.256 loss: 2.723 
+
+Epoch 102
+Val loss:   0.28700
+l1: 0.088 kl: 0.020 loss: 0.287 
+Train loss: 2.54317
+l1: 0.141 kl: 0.240 loss: 2.543 
+
+Epoch 103
+Val loss:   0.36724
+l1: 0.153 kl: 0.021 loss: 0.367 
+Train loss: 2.51517
+l1: 0.151 kl: 0.236 loss: 2.515 
+
+Epoch 104
+Val loss:   0.35006
+l1: 0.110 kl: 0.024 loss: 0.350 
+Train loss: 2.54029
+l1: 0.144 kl: 0.240 loss: 2.540 
+
+Epoch 105
+Val loss:   0.29483
+l1: 0.099 kl: 0.020 loss: 0.295 
+Train loss: 2.54965
+l1: 0.153 kl: 0.240 loss: 2.550 
+
+Epoch 106
+Val loss:   0.30175
+l1: 0.087 kl: 0.021 loss: 0.302 
+Train loss: 2.51888
+l1: 0.152 kl: 0.237 loss: 2.519 
+
+Epoch 107
+Val loss:   0.21536
+l1: 0.085 kl: 0.013 loss: 0.215 
+Train loss: 2.67481
+l1: 0.166 kl: 0.251 loss: 2.675 
+
+Epoch 108
+Val loss:   0.30892
+l1: 0.125 kl: 0.018 loss: 0.309 
+Train loss: 2.47625
+l1: 0.150 kl: 0.233 loss: 2.476 
+
+Epoch 109
+Val loss:   0.32191
+l1: 0.153 kl: 0.017 loss: 0.322 
+Train loss: 2.61864
+l1: 0.158 kl: 0.246 loss: 2.619 
+
+Epoch 110
+Val loss:   0.24694
+l1: 0.088 kl: 0.016 loss: 0.247 
+Train loss: 2.67233
+l1: 0.166 kl: 0.251 loss: 2.672 
+
+Epoch 111
+Val loss:   0.27158
+l1: 0.101 kl: 0.017 loss: 0.272 
+Train loss: 2.52487
+l1: 0.167 kl: 0.236 loss: 2.525 
+
+Epoch 112
+Val loss:   0.30491
+l1: 0.113 kl: 0.019 loss: 0.305 
+Train loss: 2.53880
+l1: 0.158 kl: 0.238 loss: 2.539 
+
+Epoch 113
+Val loss:   0.33931
+l1: 0.166 kl: 0.017 loss: 0.339 
+Train loss: 2.46616
+l1: 0.158 kl: 0.231 loss: 2.466 
+
+Epoch 114
+Val loss:   0.29518
+l1: 0.110 kl: 0.018 loss: 0.295 
+Train loss: 2.57518
+l1: 0.165 kl: 0.241 loss: 2.575 
+
+Epoch 115
+Val loss:   0.33126
+l1: 0.156 kl: 0.018 loss: 0.331 
+Train loss: 2.49149
+l1: 0.138 kl: 0.235 loss: 2.491 
+
+Epoch 116
+Val loss:   0.29908
+l1: 0.118 kl: 0.018 loss: 0.299 
+Train loss: 2.45568
+l1: 0.143 kl: 0.231 loss: 2.456 
+
+Epoch 117
+Val loss:   0.22747
+l1: 0.069 kl: 0.016 loss: 0.227 
+Train loss: 2.44924
+l1: 0.148 kl: 0.230 loss: 2.449 
+
+Epoch 118
+Val loss:   0.26147
+l1: 0.088 kl: 0.017 loss: 0.261 
+Train loss: 2.48742
+l1: 0.168 kl: 0.232 loss: 2.487 
+
+Epoch 119
+Val loss:   0.22371
+l1: 0.085 kl: 0.014 loss: 0.224 
+Train loss: 2.43752
+l1: 0.156 kl: 0.228 loss: 2.438 
+
+Epoch 120
+Val loss:   0.24463
+l1: 0.090 kl: 0.016 loss: 0.245 
+Train loss: 2.34045
+l1: 0.156 kl: 0.218 loss: 2.340 
+
+Epoch 121
+Val loss:   0.23964
+l1: 0.072 kl: 0.017 loss: 0.240 
+Train loss: 2.46560
+l1: 0.143 kl: 0.232 loss: 2.466 
+
+Epoch 122
+Val loss:   0.27250
+l1: 0.105 kl: 0.017 loss: 0.272 
+Train loss: 2.44898
+l1: 0.145 kl: 0.230 loss: 2.449 
+
+Epoch 123
+Val loss:   0.27032
+l1: 0.089 kl: 0.018 loss: 0.270 
+Train loss: 2.41631
+l1: 0.145 kl: 0.227 loss: 2.416 
+
+Epoch 124
+Val loss:   0.34136
+l1: 0.169 kl: 0.017 loss: 0.341 
+Train loss: 2.50430
+l1: 0.142 kl: 0.236 loss: 2.504 
+
+Epoch 125
+Val loss:   0.27177
+l1: 0.085 kl: 0.019 loss: 0.272 
+Train loss: 2.52920
+l1: 0.147 kl: 0.238 loss: 2.529 
+
+Epoch 126
+Val loss:   0.23696
+l1: 0.076 kl: 0.016 loss: 0.237 
+Train loss: 2.30488
+l1: 0.145 kl: 0.216 loss: 2.305 
+
+Epoch 127
+Val loss:   0.31851
+l1: 0.110 kl: 0.021 loss: 0.319 
+Train loss: 2.46599
+l1: 0.142 kl: 0.232 loss: 2.466 
+
+Epoch 128
+Val loss:   0.26502
+l1: 0.084 kl: 0.018 loss: 0.265 
+Train loss: 2.30351
+l1: 0.146 kl: 0.216 loss: 2.304 
+
+Epoch 129
+Val loss:   0.22423
+l1: 0.087 kl: 0.014 loss: 0.224 
+Train loss: 2.34652
+l1: 0.154 kl: 0.219 loss: 2.347 
+
+Epoch 130
+Val loss:   0.28896
+l1: 0.103 kl: 0.019 loss: 0.289 
+Train loss: 2.44403
+l1: 0.145 kl: 0.230 loss: 2.444 
+
+Epoch 131
+Val loss:   0.17033
+l1: 0.074 kl: 0.010 loss: 0.170 
+Train loss: 2.21579
+l1: 0.141 kl: 0.208 loss: 2.216 
+
+Epoch 132
+Val loss:   0.28717
+l1: 0.125 kl: 0.016 loss: 0.287 
+Train loss: 2.45019
+l1: 0.144 kl: 0.231 loss: 2.450 
+
+Epoch 133
+Val loss:   0.19788
+l1: 0.077 kl: 0.012 loss: 0.198 
+Train loss: 2.38756
+l1: 0.147 kl: 0.224 loss: 2.388 
+
+Epoch 134
+Val loss:   0.19929
+l1: 0.078 kl: 0.012 loss: 0.199 
+Train loss: 2.37209
+l1: 0.141 kl: 0.223 loss: 2.372 
+
+Epoch 135
+Val loss:   0.22726
+l1: 0.102 kl: 0.013 loss: 0.227 
+Train loss: 2.32214
+l1: 0.136 kl: 0.219 loss: 2.322 
+
+Epoch 136
+Val loss:   0.27985
+l1: 0.117 kl: 0.016 loss: 0.280 
+Train loss: 2.36849
+l1: 0.146 kl: 0.222 loss: 2.368 
+
+Epoch 137
+Val loss:   0.21897
+l1: 0.092 kl: 0.013 loss: 0.219 
+Train loss: 2.27112
+l1: 0.138 kl: 0.213 loss: 2.271 
+
+Epoch 138
+Val loss:   0.28596
+l1: 0.110 kl: 0.018 loss: 0.286 
+Train loss: 2.28754
+l1: 0.148 kl: 0.214 loss: 2.288 
+
+Epoch 139
+Val loss:   0.25308
+l1: 0.089 kl: 0.016 loss: 0.253 
+Train loss: 2.43541
+l1: 0.146 kl: 0.229 loss: 2.435 
+
+Epoch 140
+Val loss:   0.28658
+l1: 0.084 kl: 0.020 loss: 0.287 
+Train loss: 2.34302
+l1: 0.149 kl: 0.219 loss: 2.343 
+
+Epoch 141
+Val loss:   0.35133
+l1: 0.155 kl: 0.020 loss: 0.351 
+Train loss: 2.21216
+l1: 0.148 kl: 0.206 loss: 2.212 
+
+Epoch 142
+Val loss:   0.30393
+l1: 0.087 kl: 0.022 loss: 0.304 
+Train loss: 2.57477
+l1: 0.151 kl: 0.242 loss: 2.575 
+
+Epoch 143
+Val loss:   0.25212
+l1: 0.099 kl: 0.015 loss: 0.252 
+Train loss: 2.27368
+l1: 0.143 kl: 0.213 loss: 2.274 
+
+Epoch 144
+Val loss:   0.29970
+l1: 0.141 kl: 0.016 loss: 0.300 
+Train loss: 2.22207
+l1: 0.138 kl: 0.208 loss: 2.222 
+
+Epoch 145
+Val loss:   0.30838
+l1: 0.131 kl: 0.018 loss: 0.308 
+Train loss: 2.24514
+l1: 0.138 kl: 0.211 loss: 2.245 
+
+Epoch 146
+Val loss:   0.27253
+l1: 0.114 kl: 0.016 loss: 0.273 
+Train loss: 2.37751
+l1: 0.136 kl: 0.224 loss: 2.378 
+
+Epoch 147
+Val loss:   0.27602
+l1: 0.078 kl: 0.020 loss: 0.276 
+Train loss: 2.30488
+l1: 0.140 kl: 0.216 loss: 2.305 
+
+Epoch 148
+Val loss:   0.30322
+l1: 0.108 kl: 0.020 loss: 0.303 
+Train loss: 2.26947
+l1: 0.135 kl: 0.213 loss: 2.269 
+
+Epoch 149
+Val loss:   0.26560
+l1: 0.102 kl: 0.016 loss: 0.266 
+Train loss: 2.14611
+l1: 0.134 kl: 0.201 loss: 2.146 
+
+Epoch 150
+Val loss:   0.28877
+l1: 0.124 kl: 0.017 loss: 0.289 
+Train loss: 2.29972
+l1: 0.139 kl: 0.216 loss: 2.300 
+
+Epoch 151
+Val loss:   0.23193
+l1: 0.069 kl: 0.016 loss: 0.232 
+Train loss: 2.37187
+l1: 0.143 kl: 0.223 loss: 2.372 
+
+Epoch 152
+Val loss:   0.28831
+l1: 0.154 kl: 0.013 loss: 0.288 
+Train loss: 2.43249
+l1: 0.140 kl: 0.229 loss: 2.432 
+
+Epoch 153
+Val loss:   0.27671
+l1: 0.096 kl: 0.018 loss: 0.277 
+Train loss: 2.27029
+l1: 0.146 kl: 0.212 loss: 2.270 
+
+Epoch 154
+Val loss:   0.21533
+l1: 0.092 kl: 0.012 loss: 0.215 
+Train loss: 2.24442
+l1: 0.140 kl: 0.210 loss: 2.244 
+
+Epoch 155
+Val loss:   0.27926
+l1: 0.075 kl: 0.020 loss: 0.279 
+Train loss: 2.20172
+l1: 0.138 kl: 0.206 loss: 2.202 
+
+Epoch 156
+Val loss:   0.38755
+l1: 0.098 kl: 0.029 loss: 0.388 
+Train loss: 2.32375
+l1: 0.150 kl: 0.217 loss: 2.324 
+
+Epoch 157
+Val loss:   0.32250
+l1: 0.123 kl: 0.020 loss: 0.322 
+Train loss: 2.25531
+l1: 0.147 kl: 0.211 loss: 2.255 
+
+Epoch 158
+Val loss:   0.25747
+l1: 0.100 kl: 0.016 loss: 0.257 
+Train loss: 2.39934
+l1: 0.138 kl: 0.226 loss: 2.399 
+
+Epoch 159
+Val loss:   0.26598
+l1: 0.141 kl: 0.013 loss: 0.266 
+Train loss: 2.31167
+l1: 0.145 kl: 0.217 loss: 2.312 
+
+Epoch 160
+Val loss:   0.30623
+l1: 0.122 kl: 0.018 loss: 0.306 
+Train loss: 2.20499
+l1: 0.139 kl: 0.207 loss: 2.205 
+
+Epoch 161
+Val loss:   0.22731
+l1: 0.086 kl: 0.014 loss: 0.227 
+Train loss: 2.25802
+l1: 0.139 kl: 0.212 loss: 2.258 
+
+Epoch 162
+Val loss:   0.22121
+l1: 0.074 kl: 0.015 loss: 0.221 
+Train loss: 2.22336
+l1: 0.139 kl: 0.208 loss: 2.223 
+
+Epoch 163
+Val loss:   0.25072
+l1: 0.100 kl: 0.015 loss: 0.251 
+Train loss: 2.18206
+l1: 0.148 kl: 0.203 loss: 2.182 
+
+Epoch 164
+Val loss:   0.28494
+l1: 0.130 kl: 0.015 loss: 0.285 
+Train loss: 2.43014
+l1: 0.149 kl: 0.228 loss: 2.430 
+
+Epoch 165
+Val loss:   0.24763
+l1: 0.115 kl: 0.013 loss: 0.248 
+Train loss: 2.15541
+l1: 0.151 kl: 0.200 loss: 2.155 
+
+Epoch 166
+Val loss:   0.25051
+l1: 0.111 kl: 0.014 loss: 0.251 
+Train loss: 2.33879
+l1: 0.134 kl: 0.220 loss: 2.339 
+
+Epoch 167
+Val loss:   0.19880
+l1: 0.108 kl: 0.009 loss: 0.199 
+Train loss: 2.22358
+l1: 0.144 kl: 0.208 loss: 2.224 
+
+Epoch 168
+Val loss:   0.17872
+l1: 0.068 kl: 0.011 loss: 0.179 
+Train loss: 2.06632
+l1: 0.129 kl: 0.194 loss: 2.066 
+
+Epoch 169
+Val loss:   0.24284
+l1: 0.100 kl: 0.014 loss: 0.243 
+Train loss: 2.20905
+l1: 0.136 kl: 0.207 loss: 2.209 
+
+Epoch 170
+Val loss:   0.20586
+l1: 0.079 kl: 0.013 loss: 0.206 
+Train loss: 2.12691
+l1: 0.138 kl: 0.199 loss: 2.127 
+
+Epoch 171
+Val loss:   0.22352
+l1: 0.092 kl: 0.013 loss: 0.224 
+Train loss: 2.09318
+l1: 0.131 kl: 0.196 loss: 2.093 
+
+Epoch 172
+Val loss:   0.26550
+l1: 0.115 kl: 0.015 loss: 0.266 
+Train loss: 2.12853
+l1: 0.138 kl: 0.199 loss: 2.129 
+
+Epoch 173
+Val loss:   0.26635
+l1: 0.118 kl: 0.015 loss: 0.266 
+Train loss: 2.11496
+l1: 0.129 kl: 0.199 loss: 2.115 
+
+Epoch 174
+Val loss:   0.24440
+l1: 0.078 kl: 0.017 loss: 0.244 
+Train loss: 2.17657
+l1: 0.134 kl: 0.204 loss: 2.177 
+
+Epoch 175
+Val loss:   0.24889
+l1: 0.077 kl: 0.017 loss: 0.249 
+Train loss: 2.10492
+l1: 0.140 kl: 0.196 loss: 2.105 
+
+Epoch 176
+Val loss:   0.21836
+l1: 0.091 kl: 0.013 loss: 0.218 
+Train loss: 2.14792
+l1: 0.141 kl: 0.201 loss: 2.148 
+
+Epoch 177
+Val loss:   0.22376
+l1: 0.071 kl: 0.015 loss: 0.224 
+Train loss: 2.29232
+l1: 0.144 kl: 0.215 loss: 2.292 
+
+Epoch 178
+Val loss:   0.24019
+l1: 0.127 kl: 0.011 loss: 0.240 
+Train loss: 2.19107
+l1: 0.144 kl: 0.205 loss: 2.191 
+
+Epoch 179
+Val loss:   0.22454
+l1: 0.111 kl: 0.011 loss: 0.225 
+Train loss: 2.11043
+l1: 0.143 kl: 0.197 loss: 2.110 
+
+Epoch 180
+Val loss:   0.22391
+l1: 0.116 kl: 0.011 loss: 0.224 
+Train loss: 2.08419
+l1: 0.134 kl: 0.195 loss: 2.084 
+
+Epoch 181
+Val loss:   0.19288
+l1: 0.091 kl: 0.010 loss: 0.193 
+Train loss: 2.02174
+l1: 0.132 kl: 0.189 loss: 2.022 
+
+Epoch 182
+Val loss:   0.26493
+l1: 0.112 kl: 0.015 loss: 0.265 
+Train loss: 2.24566
+l1: 0.143 kl: 0.210 loss: 2.246 
+
+Epoch 183
+Val loss:   0.26090
+l1: 0.134 kl: 0.013 loss: 0.261 
+Train loss: 2.09430
+l1: 0.146 kl: 0.195 loss: 2.094 
+
+Epoch 184
+Val loss:   0.27991
+l1: 0.136 kl: 0.014 loss: 0.280 
+Train loss: 2.17187
+l1: 0.134 kl: 0.204 loss: 2.172 
+
+Epoch 185
+Val loss:   0.16356
+l1: 0.071 kl: 0.009 loss: 0.164 
+Train loss: 2.10339
+l1: 0.132 kl: 0.197 loss: 2.103 
+
+Epoch 186
+Val loss:   0.26303
+l1: 0.097 kl: 0.017 loss: 0.263 
+Train loss: 2.20380
+l1: 0.116 kl: 0.209 loss: 2.204 
+
+Epoch 187
+Val loss:   0.31428
+l1: 0.110 kl: 0.020 loss: 0.314 
+Train loss: 2.06393
+l1: 0.145 kl: 0.192 loss: 2.064 
+
+Epoch 188
+Val loss:   0.29529
+l1: 0.062 kl: 0.023 loss: 0.295 
+Train loss: 2.22855
+l1: 0.128 kl: 0.210 loss: 2.229 
+
+Epoch 189
+Val loss:   0.24859
+l1: 0.075 kl: 0.017 loss: 0.249 
+Train loss: 2.10848
+l1: 0.124 kl: 0.198 loss: 2.108 
+
+Epoch 190
+Val loss:   0.25156
+l1: 0.095 kl: 0.016 loss: 0.252 
+Train loss: 2.15561
+l1: 0.134 kl: 0.202 loss: 2.156 
+
+Epoch 191
+Val loss:   0.27226
+l1: 0.088 kl: 0.018 loss: 0.272 
+Train loss: 2.07409
+l1: 0.126 kl: 0.195 loss: 2.074 
+
+Epoch 192
+Val loss:   0.24176
+l1: 0.097 kl: 0.015 loss: 0.242 
+Train loss: 2.15781
+l1: 0.142 kl: 0.202 loss: 2.158 
+
+Epoch 193
+Val loss:   0.27353
+l1: 0.091 kl: 0.018 loss: 0.274 
+Train loss: 2.10472
+l1: 0.124 kl: 0.198 loss: 2.105 
+
+Epoch 194
+Val loss:   0.20750
+l1: 0.088 kl: 0.012 loss: 0.208 
+Train loss: 2.15287
+l1: 0.125 kl: 0.203 loss: 2.153 
+
+Epoch 195
+Val loss:   0.29153
+l1: 0.136 kl: 0.016 loss: 0.292 
+Train loss: 2.07996
+l1: 0.120 kl: 0.196 loss: 2.080 
+
+Epoch 196
+Val loss:   0.23234
+l1: 0.110 kl: 0.012 loss: 0.232 
+Train loss: 2.09172
+l1: 0.145 kl: 0.195 loss: 2.092 
+
+Epoch 197
+Val loss:   0.22379
+l1: 0.097 kl: 0.013 loss: 0.224 
+Train loss: 2.31018
+l1: 0.143 kl: 0.217 loss: 2.310 
+
+Epoch 198
+Val loss:   0.24983
+l1: 0.114 kl: 0.014 loss: 0.250 
+Train loss: 2.06291
+l1: 0.144 kl: 0.192 loss: 2.063 
+
+Epoch 199
+Val loss:   0.21278
+l1: 0.071 kl: 0.014 loss: 0.213 
+Train loss: 2.14182
+l1: 0.138 kl: 0.200 loss: 2.142 
+
+Epoch 200
+Val loss:   0.19282
+l1: 0.082 kl: 0.011 loss: 0.193 
+Train loss: 2.02143
+l1: 0.138 kl: 0.188 loss: 2.021 
+Saved plots to /XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/models/M4_ACT_k10
+
+Epoch 201
+Val loss:   0.22048
+l1: 0.108 kl: 0.011 loss: 0.220 
+Train loss: 2.01066
+l1: 0.132 kl: 0.188 loss: 2.011 
+
+Epoch 202
+Val loss:   0.21503
+l1: 0.108 kl: 0.011 loss: 0.215 
+Train loss: 2.15580
+l1: 0.128 kl: 0.203 loss: 2.156 
+
+Epoch 203
+Val loss:   0.20395
+l1: 0.086 kl: 0.012 loss: 0.204 
+Train loss: 2.08929
+l1: 0.132 kl: 0.196 loss: 2.089 
+
+Epoch 204
+Val loss:   0.26150
+l1: 0.121 kl: 0.014 loss: 0.262 
+Train loss: 2.12881
+l1: 0.134 kl: 0.199 loss: 2.129 
+
+Epoch 205
+Val loss:   0.22805
+l1: 0.090 kl: 0.014 loss: 0.228 
+Train loss: 2.08694
+l1: 0.134 kl: 0.195 loss: 2.087 
+
+Epoch 206
+Val loss:   0.30948
+l1: 0.095 kl: 0.021 loss: 0.309 
+Train loss: 1.93231
+l1: 0.126 kl: 0.181 loss: 1.932 
+
+Epoch 207
+Val loss:   0.28393
+l1: 0.109 kl: 0.018 loss: 0.284 
+Train loss: 2.17148
+l1: 0.124 kl: 0.205 loss: 2.171 
+
+Epoch 208
+Val loss:   0.22530
+l1: 0.093 kl: 0.013 loss: 0.225 
+Train loss: 2.01571
+l1: 0.124 kl: 0.189 loss: 2.016 
+
+Epoch 209
+Val loss:   0.21044
+l1: 0.082 kl: 0.013 loss: 0.210 
+Train loss: 2.03657
+l1: 0.137 kl: 0.190 loss: 2.037 
+
+Epoch 210
+Val loss:   0.17450
+l1: 0.079 kl: 0.010 loss: 0.175 
+Train loss: 2.01036
+l1: 0.127 kl: 0.188 loss: 2.010 
+
+Epoch 211
+Val loss:   0.19648
+l1: 0.078 kl: 0.012 loss: 0.196 
+Train loss: 2.01299
+l1: 0.125 kl: 0.189 loss: 2.013 
+
+Epoch 212
+Val loss:   0.17783
+l1: 0.093 kl: 0.008 loss: 0.178 
+Train loss: 2.01319
+l1: 0.127 kl: 0.189 loss: 2.013 
+
+Epoch 213
+Val loss:   0.20798
+l1: 0.090 kl: 0.012 loss: 0.208 
+Train loss: 1.97621
+l1: 0.127 kl: 0.185 loss: 1.976 
+
+Epoch 214
+Val loss:   0.15876
+l1: 0.076 kl: 0.008 loss: 0.159 
+Train loss: 1.96162
+l1: 0.125 kl: 0.184 loss: 1.962 
+
+Epoch 215
+Val loss:   0.20761
+l1: 0.078 kl: 0.013 loss: 0.208 
+Train loss: 2.12002
+l1: 0.129 kl: 0.199 loss: 2.120 
+
+Epoch 216
+Val loss:   0.18704
+l1: 0.086 kl: 0.010 loss: 0.187 
+Train loss: 1.95761
+l1: 0.122 kl: 0.184 loss: 1.958 
+
+Epoch 217
+Val loss:   0.19265
+l1: 0.077 kl: 0.012 loss: 0.193 
+Train loss: 2.05777
+l1: 0.131 kl: 0.193 loss: 2.058 
+
+Epoch 218
+Val loss:   0.21791
+l1: 0.094 kl: 0.012 loss: 0.218 
+Train loss: 2.04094
+l1: 0.127 kl: 0.191 loss: 2.041 
+
+Epoch 219
+Val loss:   0.22010
+l1: 0.102 kl: 0.012 loss: 0.220 
+Train loss: 1.91847
+l1: 0.129 kl: 0.179 loss: 1.918 
+
+Epoch 220
+Val loss:   0.25694
+l1: 0.100 kl: 0.016 loss: 0.257 
+Train loss: 2.05701
+l1: 0.138 kl: 0.192 loss: 2.057 
+
+Epoch 221
+Val loss:   0.22708
+l1: 0.093 kl: 0.013 loss: 0.227 
+Train loss: 1.99290
+l1: 0.131 kl: 0.186 loss: 1.993 
+
+Epoch 222
+Val loss:   0.24856
+l1: 0.110 kl: 0.014 loss: 0.249 
+Train loss: 1.93560
+l1: 0.130 kl: 0.181 loss: 1.936 
+
+Epoch 223
+Val loss:   0.26398
+l1: 0.122 kl: 0.014 loss: 0.264 
+Train loss: 1.99575
+l1: 0.122 kl: 0.187 loss: 1.996 
+
+Epoch 224
+Val loss:   0.28115
+l1: 0.099 kl: 0.018 loss: 0.281 
+Train loss: 1.95760
+l1: 0.132 kl: 0.183 loss: 1.958 
+
+Epoch 225
+Val loss:   0.21737
+l1: 0.097 kl: 0.012 loss: 0.217 
+Train loss: 1.94268
+l1: 0.131 kl: 0.181 loss: 1.943 
+
+Epoch 226
+Val loss:   0.25585
+l1: 0.115 kl: 0.014 loss: 0.256 
+Train loss: 1.98940
+l1: 0.142 kl: 0.185 loss: 1.989 
+
+Epoch 227
+Val loss:   0.26196
+l1: 0.121 kl: 0.014 loss: 0.262 
+Train loss: 2.10525
+l1: 0.136 kl: 0.197 loss: 2.105 
+
+Epoch 228
+Val loss:   0.17958
+l1: 0.079 kl: 0.010 loss: 0.180 
+Train loss: 1.88088
+l1: 0.130 kl: 0.175 loss: 1.881 
+
+Epoch 229
+Val loss:   0.17144
+l1: 0.076 kl: 0.010 loss: 0.171 
+Train loss: 2.05704
+l1: 0.133 kl: 0.192 loss: 2.057 
+
+Epoch 230
+Val loss:   0.22711
+l1: 0.097 kl: 0.013 loss: 0.227 
+Train loss: 2.12060
+l1: 0.133 kl: 0.199 loss: 2.121 
+
+Epoch 231
+Val loss:   0.18184
+l1: 0.077 kl: 0.011 loss: 0.182 
+Train loss: 1.88091
+l1: 0.129 kl: 0.175 loss: 1.881 
+
+Epoch 232
+Val loss:   0.17906
+l1: 0.081 kl: 0.010 loss: 0.179 
+Train loss: 1.82049
+l1: 0.119 kl: 0.170 loss: 1.820 
+
+Epoch 233
+Val loss:   0.20774
+l1: 0.075 kl: 0.013 loss: 0.208 
+Train loss: 1.97356
+l1: 0.119 kl: 0.185 loss: 1.974 
+
+Epoch 234
+Val loss:   0.23210
+l1: 0.084 kl: 0.015 loss: 0.232 
+Train loss: 1.86608
+l1: 0.129 kl: 0.174 loss: 1.866 
+
+Epoch 235
+Val loss:   0.18144
+l1: 0.078 kl: 0.010 loss: 0.181 
+Train loss: 1.94441
+l1: 0.130 kl: 0.181 loss: 1.944 
+
+Epoch 236
+Val loss:   0.21168
+l1: 0.081 kl: 0.013 loss: 0.212 
+Train loss: 1.92185
+l1: 0.117 kl: 0.180 loss: 1.922 
+
+Epoch 237
+Val loss:   0.20397
+l1: 0.095 kl: 0.011 loss: 0.204 
+Train loss: 2.02146
+l1: 0.123 kl: 0.190 loss: 2.021 
+
+Epoch 238
+Val loss:   0.19017
+l1: 0.095 kl: 0.010 loss: 0.190 
+Train loss: 1.88494
+l1: 0.124 kl: 0.176 loss: 1.885 
+
+Epoch 239
+Val loss:   0.18001
+l1: 0.062 kl: 0.012 loss: 0.180 
+Train loss: 1.99038
+l1: 0.118 kl: 0.187 loss: 1.990 
+
+Epoch 240
+Val loss:   0.17918
+l1: 0.079 kl: 0.010 loss: 0.179 
+Train loss: 2.07654
+l1: 0.118 kl: 0.196 loss: 2.077 
+
+Epoch 241
+Val loss:   0.18658
+l1: 0.070 kl: 0.012 loss: 0.187 
+Train loss: 1.96801
+l1: 0.122 kl: 0.185 loss: 1.968 
+
+Epoch 242
+Val loss:   0.23609
+l1: 0.092 kl: 0.014 loss: 0.236 
+Train loss: 1.93994
+l1: 0.120 kl: 0.182 loss: 1.940 
+
+Epoch 243
+Val loss:   0.20834
+l1: 0.090 kl: 0.012 loss: 0.208 
+Train loss: 1.94867
+l1: 0.119 kl: 0.183 loss: 1.949 
+
+Epoch 244
+Val loss:   0.23832
+l1: 0.103 kl: 0.013 loss: 0.238 
+Train loss: 1.86293
+l1: 0.116 kl: 0.175 loss: 1.863 
+
+Epoch 245
+Val loss:   0.18256
+l1: 0.082 kl: 0.010 loss: 0.183 
+Train loss: 1.95301
+l1: 0.130 kl: 0.182 loss: 1.953 
+
+Epoch 246
+Val loss:   0.18350
+l1: 0.075 kl: 0.011 loss: 0.183 
+Train loss: 1.96288
+l1: 0.120 kl: 0.184 loss: 1.963 
+
+Epoch 247
+Val loss:   0.22278
+l1: 0.092 kl: 0.013 loss: 0.223 
+Train loss: 1.90970
+l1: 0.120 kl: 0.179 loss: 1.910 
+
+Epoch 248
+Val loss:   0.20164
+l1: 0.083 kl: 0.012 loss: 0.202 
+Train loss: 1.84889
+l1: 0.119 kl: 0.173 loss: 1.849 
+
+Epoch 249
+Val loss:   0.21218
+l1: 0.091 kl: 0.012 loss: 0.212 
+Train loss: 1.87857
+l1: 0.125 kl: 0.175 loss: 1.879 
+
+Epoch 250
+Val loss:   0.21428
+l1: 0.093 kl: 0.012 loss: 0.214 
+Train loss: 1.86951
+l1: 0.127 kl: 0.174 loss: 1.870 
+
+Epoch 251
+Val loss:   0.19930
+l1: 0.081 kl: 0.012 loss: 0.199 
+Train loss: 1.91632
+l1: 0.118 kl: 0.180 loss: 1.916 
+
+Epoch 252
+Val loss:   0.16822
+l1: 0.087 kl: 0.008 loss: 0.168 
+Train loss: 1.79708
+l1: 0.124 kl: 0.167 loss: 1.797 
+
+Epoch 253
+Val loss:   0.24488
+l1: 0.132 kl: 0.011 loss: 0.245 
+Train loss: 2.01025
+l1: 0.129 kl: 0.188 loss: 2.010 
+
+Epoch 254
+Val loss:   0.29763
+l1: 0.154 kl: 0.014 loss: 0.298 
+Train loss: 1.98613
+l1: 0.123 kl: 0.186 loss: 1.986 
+
+Epoch 255
+Val loss:   0.16929
+l1: 0.075 kl: 0.009 loss: 0.169 
+Train loss: 1.92645
+l1: 0.122 kl: 0.180 loss: 1.926 
+
+Epoch 256
+Val loss:   0.26128
+l1: 0.090 kl: 0.017 loss: 0.261 
+Train loss: 1.94148
+l1: 0.119 kl: 0.182 loss: 1.941 
+
+Epoch 257
+Val loss:   0.22944
+l1: 0.113 kl: 0.012 loss: 0.229 
+Train loss: 1.84225
+l1: 0.129 kl: 0.171 loss: 1.842 
+
+Epoch 258
+Val loss:   0.24816
+l1: 0.087 kl: 0.016 loss: 0.248 
+Train loss: 1.92923
+l1: 0.124 kl: 0.181 loss: 1.929 
+
+Epoch 259
+Val loss:   0.21652
+l1: 0.097 kl: 0.012 loss: 0.217 
+Train loss: 1.85954
+l1: 0.123 kl: 0.174 loss: 1.860 
+
+Epoch 260
+Val loss:   0.16371
+l1: 0.072 kl: 0.009 loss: 0.164 
+Train loss: 1.78029
+l1: 0.113 kl: 0.167 loss: 1.780 
+
+Epoch 261
+Val loss:   0.20483
+l1: 0.069 kl: 0.014 loss: 0.205 
+Train loss: 2.00494
+l1: 0.126 kl: 0.188 loss: 2.005 
+
+Epoch 262
+Val loss:   0.20550
+l1: 0.104 kl: 0.010 loss: 0.206 
+Train loss: 1.93384
+l1: 0.114 kl: 0.182 loss: 1.934 
+
+Epoch 263
+Val loss:   0.20640
+l1: 0.086 kl: 0.012 loss: 0.206 
+Train loss: 1.89178
+l1: 0.115 kl: 0.178 loss: 1.892 
+
+Epoch 264
+Val loss:   0.23380
+l1: 0.091 kl: 0.014 loss: 0.234 
+Train loss: 1.91086
+l1: 0.112 kl: 0.180 loss: 1.911 
+
+Epoch 265
+Val loss:   0.19386
+l1: 0.083 kl: 0.011 loss: 0.194 
+Train loss: 1.79589
+l1: 0.108 kl: 0.169 loss: 1.796 
+
+Epoch 266
+Val loss:   0.16394
+l1: 0.078 kl: 0.009 loss: 0.164 
+Train loss: 1.93408
+l1: 0.125 kl: 0.181 loss: 1.934 
+
+Epoch 267
+Val loss:   0.19803
+l1: 0.092 kl: 0.011 loss: 0.198 
+Train loss: 1.72869
+l1: 0.116 kl: 0.161 loss: 1.729 
+
+Epoch 268
+Val loss:   0.18182
+l1: 0.067 kl: 0.011 loss: 0.182 
+Train loss: 1.80471
+l1: 0.114 kl: 0.169 loss: 1.805 
+
+Epoch 269
+Val loss:   0.19107
+l1: 0.096 kl: 0.010 loss: 0.191 
+Train loss: 1.93832
+l1: 0.127 kl: 0.181 loss: 1.938 
+
+Epoch 270
+Val loss:   0.19253
+l1: 0.089 kl: 0.010 loss: 0.193 
+Train loss: 1.84942
+l1: 0.124 kl: 0.173 loss: 1.849 
+
+Epoch 271
+Val loss:   0.19706
+l1: 0.100 kl: 0.010 loss: 0.197 
+Train loss: 1.83714
+l1: 0.118 kl: 0.172 loss: 1.837 
+
+Epoch 272
+Val loss:   0.17105
+l1: 0.077 kl: 0.009 loss: 0.171 
+Train loss: 1.86693
+l1: 0.121 kl: 0.175 loss: 1.867 
+
+Epoch 273
+Val loss:   0.25854
+l1: 0.119 kl: 0.014 loss: 0.259 
+Train loss: 1.90032
+l1: 0.136 kl: 0.176 loss: 1.900 
+
+Epoch 274
+Val loss:   0.23603
+l1: 0.076 kl: 0.016 loss: 0.236 
+Train loss: 1.85099
+l1: 0.125 kl: 0.173 loss: 1.851 
+
+Epoch 275
+Val loss:   0.23490
+l1: 0.099 kl: 0.014 loss: 0.235 
+Train loss: 1.86320
+l1: 0.116 kl: 0.175 loss: 1.863 
+
+Epoch 276
+Val loss:   0.21219
+l1: 0.099 kl: 0.011 loss: 0.212 
+Train loss: 1.84749
+l1: 0.118 kl: 0.173 loss: 1.847 
+
+Epoch 277
+Val loss:   0.18149
+l1: 0.067 kl: 0.011 loss: 0.181 
+Train loss: 1.73792
+l1: 0.117 kl: 0.162 loss: 1.738 
+
+Epoch 278
+Val loss:   0.20824
+l1: 0.084 kl: 0.012 loss: 0.208 
+Train loss: 1.80283
+l1: 0.124 kl: 0.168 loss: 1.803 
+
+Epoch 279
+Val loss:   0.20314
+l1: 0.098 kl: 0.011 loss: 0.203 
+Train loss: 1.80995
+l1: 0.116 kl: 0.169 loss: 1.810 
+
+Epoch 280
+Val loss:   0.20964
+l1: 0.082 kl: 0.013 loss: 0.210 
+Train loss: 1.78155
+l1: 0.119 kl: 0.166 loss: 1.782 
+
+Epoch 281
+Val loss:   0.20625
+l1: 0.108 kl: 0.010 loss: 0.206 
+Train loss: 1.85873
+l1: 0.125 kl: 0.173 loss: 1.859 
+
+Epoch 282
+Val loss:   0.21846
+l1: 0.084 kl: 0.013 loss: 0.218 
+Train loss: 1.88164
+l1: 0.115 kl: 0.177 loss: 1.882 
+
+Epoch 283
+Val loss:   0.17566
+l1: 0.099 kl: 0.008 loss: 0.176 
+Train loss: 1.76489
+l1: 0.113 kl: 0.165 loss: 1.765 
+
+Epoch 284
+Val loss:   0.18616
+l1: 0.080 kl: 0.011 loss: 0.186 
+Train loss: 1.84355
+l1: 0.116 kl: 0.173 loss: 1.844 
+
+Epoch 285
+Val loss:   0.17950
+l1: 0.090 kl: 0.009 loss: 0.180 
+Train loss: 1.70276
+l1: 0.115 kl: 0.159 loss: 1.703 
+
+Epoch 286
+Val loss:   0.22492
+l1: 0.049 kl: 0.018 loss: 0.225 
+Train loss: 1.84609
+l1: 0.119 kl: 0.173 loss: 1.846 
+
+Epoch 287
+Val loss:   0.17485
+l1: 0.081 kl: 0.009 loss: 0.175 
+Train loss: 1.73960
+l1: 0.114 kl: 0.163 loss: 1.740 
+
+Epoch 288
+Val loss:   0.24796
+l1: 0.110 kl: 0.014 loss: 0.248 
+Train loss: 1.91321
+l1: 0.130 kl: 0.178 loss: 1.913 
+
+Epoch 289
+Val loss:   0.19047
+l1: 0.082 kl: 0.011 loss: 0.190 
+Train loss: 1.75459
+l1: 0.117 kl: 0.164 loss: 1.755 
+
+Epoch 290
+Val loss:   0.26150
+l1: 0.123 kl: 0.014 loss: 0.261 
+Train loss: 1.84275
+l1: 0.116 kl: 0.173 loss: 1.843 
+
+Epoch 291
+Val loss:   0.19421
+l1: 0.090 kl: 0.010 loss: 0.194 
+Train loss: 1.77538
+l1: 0.119 kl: 0.166 loss: 1.775 
+
+Epoch 292
+Val loss:   0.20773
+l1: 0.084 kl: 0.012 loss: 0.208 
+Train loss: 1.80264
+l1: 0.125 kl: 0.168 loss: 1.803 
+
+Epoch 293
+Val loss:   0.21931
+l1: 0.109 kl: 0.011 loss: 0.219 
+Train loss: 1.85837
+l1: 0.119 kl: 0.174 loss: 1.858 
+
+Epoch 294
+Val loss:   0.19110
+l1: 0.054 kl: 0.014 loss: 0.191 
+Train loss: 1.84369
+l1: 0.118 kl: 0.173 loss: 1.844 
+
+Epoch 295
+Val loss:   0.19091
+l1: 0.089 kl: 0.010 loss: 0.191 
+Train loss: 1.77173
+l1: 0.123 kl: 0.165 loss: 1.772 
+
+Epoch 296
+Val loss:   0.16819
+l1: 0.073 kl: 0.010 loss: 0.168 
+Train loss: 1.77320
+l1: 0.134 kl: 0.164 loss: 1.773 
+
+Epoch 297
+Val loss:   0.18896
+l1: 0.098 kl: 0.009 loss: 0.189 
+Train loss: 1.85847
+l1: 0.122 kl: 0.174 loss: 1.858 
+
+Epoch 298
+Val loss:   0.22525
+l1: 0.116 kl: 0.011 loss: 0.225 
+Train loss: 1.82118
+l1: 0.117 kl: 0.170 loss: 1.821 
+
+Epoch 299
+Val loss:   0.21465
+l1: 0.087 kl: 0.013 loss: 0.215 
+Train loss: 1.80229
+l1: 0.122 kl: 0.168 loss: 1.802 
+
+Epoch 300
+Val loss:   0.17952
+l1: 0.074 kl: 0.011 loss: 0.180 
+Train loss: 1.78907
+l1: 0.113 kl: 0.168 loss: 1.789 
+Saved plots to /XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/models/M4_ACT_k10
+
+Epoch 301
+Val loss:   0.19289
+l1: 0.104 kl: 0.009 loss: 0.193 
+Train loss: 1.78358
+l1: 0.116 kl: 0.167 loss: 1.784 
+
+Epoch 302
+Val loss:   0.15813
+l1: 0.060 kl: 0.010 loss: 0.158 
+Train loss: 1.74460
+l1: 0.111 kl: 0.163 loss: 1.745 
+
+Epoch 303
+Val loss:   0.19078
+l1: 0.079 kl: 0.011 loss: 0.191 
+Train loss: 1.78820
+l1: 0.126 kl: 0.166 loss: 1.788 
+
+Epoch 304
+Val loss:   0.20528
+l1: 0.083 kl: 0.012 loss: 0.205 
+Train loss: 1.75490
+l1: 0.113 kl: 0.164 loss: 1.755 
+
+Epoch 305
+Val loss:   0.19063
+l1: 0.078 kl: 0.011 loss: 0.191 
+Train loss: 1.71497
+l1: 0.109 kl: 0.161 loss: 1.715 
+
+Epoch 306
+Val loss:   0.19450
+l1: 0.078 kl: 0.012 loss: 0.194 
+Train loss: 1.74534
+l1: 0.120 kl: 0.163 loss: 1.745 
+
+Epoch 307
+Val loss:   0.18464
+l1: 0.079 kl: 0.011 loss: 0.185 
+Train loss: 1.79214
+l1: 0.116 kl: 0.168 loss: 1.792 
+
+Epoch 308
+Val loss:   0.21101
+l1: 0.091 kl: 0.012 loss: 0.211 
+Train loss: 1.67103
+l1: 0.114 kl: 0.156 loss: 1.671 
+
+Epoch 309
+Val loss:   0.19836
+l1: 0.077 kl: 0.012 loss: 0.198 
+Train loss: 1.78686
+l1: 0.113 kl: 0.167 loss: 1.787 
+
+Epoch 310
+Val loss:   0.20823
+l1: 0.096 kl: 0.011 loss: 0.208 
+Train loss: 1.68159
+l1: 0.109 kl: 0.157 loss: 1.682 
+
+Epoch 311
+Val loss:   0.19410
+l1: 0.082 kl: 0.011 loss: 0.194 
+Train loss: 1.82604
+l1: 0.120 kl: 0.171 loss: 1.826 
+
+Epoch 312
+Val loss:   0.19674
+l1: 0.080 kl: 0.012 loss: 0.197 
+Train loss: 1.70135
+l1: 0.114 kl: 0.159 loss: 1.701 
+
+Epoch 313
+Val loss:   0.23799
+l1: 0.118 kl: 0.012 loss: 0.238 
+Train loss: 1.75852
+l1: 0.118 kl: 0.164 loss: 1.759 
+
+Epoch 314
+Val loss:   0.21716
+l1: 0.106 kl: 0.011 loss: 0.217 
+Train loss: 1.75791
+l1: 0.107 kl: 0.165 loss: 1.758 
+
+Epoch 315
+Val loss:   0.16849
+l1: 0.066 kl: 0.010 loss: 0.168 
+Train loss: 1.72007
+l1: 0.114 kl: 0.161 loss: 1.720 
+
+Epoch 316
+Val loss:   0.20557
+l1: 0.089 kl: 0.012 loss: 0.206 
+Train loss: 1.74051
+l1: 0.105 kl: 0.164 loss: 1.741 
+
+Epoch 317
+Val loss:   0.20764
+l1: 0.096 kl: 0.011 loss: 0.208 
+Train loss: 1.65229
+l1: 0.112 kl: 0.154 loss: 1.652 
+
+Epoch 318
+Val loss:   0.19612
+l1: 0.086 kl: 0.011 loss: 0.196 
+Train loss: 1.67689
+l1: 0.101 kl: 0.158 loss: 1.677 
+
+Epoch 319
+Val loss:   0.23795
+l1: 0.090 kl: 0.015 loss: 0.238 
+Train loss: 1.68568
+l1: 0.112 kl: 0.157 loss: 1.686 
+
+Epoch 320
+Val loss:   0.19877
+l1: 0.074 kl: 0.012 loss: 0.199 
+Train loss: 1.67493
+l1: 0.111 kl: 0.156 loss: 1.675 
+
+Epoch 321
+Val loss:   0.17512
+l1: 0.070 kl: 0.011 loss: 0.175 
+Train loss: 1.68206
+l1: 0.107 kl: 0.158 loss: 1.682 
+
+Epoch 322
+Val loss:   0.18713
+l1: 0.086 kl: 0.010 loss: 0.187 
+Train loss: 1.77978
+l1: 0.113 kl: 0.167 loss: 1.780 
+
+Epoch 323
+Val loss:   0.17949
+l1: 0.076 kl: 0.010 loss: 0.179 
+Train loss: 1.63259
+l1: 0.113 kl: 0.152 loss: 1.633 
+
+Epoch 324
+Val loss:   0.20136
+l1: 0.077 kl: 0.012 loss: 0.201 
+Train loss: 1.71860
+l1: 0.113 kl: 0.161 loss: 1.719 
+
+Epoch 325
+Val loss:   0.22246
+l1: 0.093 kl: 0.013 loss: 0.222 
+Train loss: 1.68114
+l1: 0.108 kl: 0.157 loss: 1.681 
+
+Epoch 326
+Val loss:   0.18950
+l1: 0.053 kl: 0.014 loss: 0.189 
+Train loss: 1.77989
+l1: 0.118 kl: 0.166 loss: 1.780 
+
+Epoch 327
+Val loss:   0.19999
+l1: 0.079 kl: 0.012 loss: 0.200 
+Train loss: 1.71636
+l1: 0.114 kl: 0.160 loss: 1.716 
+
+Epoch 328
+Val loss:   0.15154
+l1: 0.060 kl: 0.009 loss: 0.152 
+Train loss: 1.70005
+l1: 0.117 kl: 0.158 loss: 1.700 
+
+Epoch 329
+Val loss:   0.20883
+l1: 0.101 kl: 0.011 loss: 0.209 
+Train loss: 1.60916
+l1: 0.109 kl: 0.150 loss: 1.609 
+
+Epoch 330
+Val loss:   0.18838
+l1: 0.101 kl: 0.009 loss: 0.188 
+Train loss: 1.67937
+l1: 0.107 kl: 0.157 loss: 1.679 
+
+Epoch 331
+Val loss:   0.16980
+l1: 0.078 kl: 0.009 loss: 0.170 
+Train loss: 1.62512
+l1: 0.103 kl: 0.152 loss: 1.625 
+
+Epoch 332
+Val loss:   0.19323
+l1: 0.069 kl: 0.012 loss: 0.193 
+Train loss: 1.64536
+l1: 0.112 kl: 0.153 loss: 1.645 
+
+Epoch 333
+Val loss:   0.17415
+l1: 0.079 kl: 0.009 loss: 0.174 
+Train loss: 1.69469
+l1: 0.107 kl: 0.159 loss: 1.695 
+
+Epoch 334
+Val loss:   0.16941
+l1: 0.077 kl: 0.009 loss: 0.169 
+Train loss: 1.69507
+l1: 0.109 kl: 0.159 loss: 1.695 
+
+Epoch 335
+Val loss:   0.19456
+l1: 0.098 kl: 0.010 loss: 0.195 
+Train loss: 1.66684
+l1: 0.106 kl: 0.156 loss: 1.667 
+
+Epoch 336
+Val loss:   0.14187
+l1: 0.067 kl: 0.008 loss: 0.142 
+Train loss: 1.66140
+l1: 0.107 kl: 0.155 loss: 1.661 
+
+Epoch 337
+Val loss:   0.19948
+l1: 0.079 kl: 0.012 loss: 0.199 
+Train loss: 1.63572
+l1: 0.109 kl: 0.153 loss: 1.636 
+
+Epoch 338
+Val loss:   0.20877
+l1: 0.101 kl: 0.011 loss: 0.209 
+Train loss: 1.62906
+l1: 0.107 kl: 0.152 loss: 1.629 
+
+Epoch 339
+Val loss:   0.18716
+l1: 0.083 kl: 0.010 loss: 0.187 
+Train loss: 1.65912
+l1: 0.107 kl: 0.155 loss: 1.659 
+
+Epoch 340
+Val loss:   0.13168
+l1: 0.061 kl: 0.007 loss: 0.132 
+Train loss: 1.60710
+l1: 0.100 kl: 0.151 loss: 1.607 
+
+Epoch 341
+Val loss:   0.18164
+l1: 0.092 kl: 0.009 loss: 0.182 
+Train loss: 1.59343
+l1: 0.112 kl: 0.148 loss: 1.593 
+
+Epoch 342
+Val loss:   0.19559
+l1: 0.084 kl: 0.011 loss: 0.196 
+Train loss: 1.61509
+l1: 0.102 kl: 0.151 loss: 1.615 
+
+Epoch 343
+Val loss:   0.15806
+l1: 0.055 kl: 0.010 loss: 0.158 
+Train loss: 1.67831
+l1: 0.105 kl: 0.157 loss: 1.678 
+
+Epoch 344
+Val loss:   0.14783
+l1: 0.075 kl: 0.007 loss: 0.148 
+Train loss: 1.68538
+l1: 0.109 kl: 0.158 loss: 1.685 
+
+Epoch 345
+Val loss:   0.20919
+l1: 0.088 kl: 0.012 loss: 0.209 
+Train loss: 1.58676
+l1: 0.103 kl: 0.148 loss: 1.587 
+
+Epoch 346
+Val loss:   0.23031
+l1: 0.097 kl: 0.013 loss: 0.230 
+Train loss: 1.62224
+l1: 0.110 kl: 0.151 loss: 1.622 
+
+Epoch 347
+Val loss:   0.23243
+l1: 0.109 kl: 0.012 loss: 0.232 
+Train loss: 1.61139
+l1: 0.119 kl: 0.149 loss: 1.611 
+
+Epoch 348
+Val loss:   0.17846
+l1: 0.080 kl: 0.010 loss: 0.178 
+Train loss: 1.53677
+l1: 0.103 kl: 0.143 loss: 1.537 
+
+Epoch 349
+Val loss:   0.20146
+l1: 0.099 kl: 0.010 loss: 0.201 
+Train loss: 1.61636
+l1: 0.107 kl: 0.151 loss: 1.616 
+
+Epoch 350
+Val loss:   0.20479
+l1: 0.098 kl: 0.011 loss: 0.205 
+Train loss: 1.64074
+l1: 0.111 kl: 0.153 loss: 1.641 
+
+Epoch 351
+Val loss:   0.15789
+l1: 0.067 kl: 0.009 loss: 0.158 
+Train loss: 1.60174
+l1: 0.107 kl: 0.149 loss: 1.602 
+
+Epoch 352
+Val loss:   0.19598
+l1: 0.089 kl: 0.011 loss: 0.196 
+Train loss: 1.65704
+l1: 0.117 kl: 0.154 loss: 1.657 
+
+Epoch 353
+Val loss:   0.19494
+l1: 0.100 kl: 0.009 loss: 0.195 
+Train loss: 1.59637
+l1: 0.117 kl: 0.148 loss: 1.596 
+
+Epoch 354
+Val loss:   0.17107
+l1: 0.081 kl: 0.009 loss: 0.171 
+Train loss: 1.51356
+l1: 0.122 kl: 0.139 loss: 1.514 
+
+Epoch 355
+Val loss:   0.16386
+l1: 0.082 kl: 0.008 loss: 0.164 
+Train loss: 1.52202
+l1: 0.111 kl: 0.141 loss: 1.522 
+
+Epoch 356
+Val loss:   0.19593
+l1: 0.099 kl: 0.010 loss: 0.196 
+Train loss: 1.57621
+l1: 0.108 kl: 0.147 loss: 1.576 
+
+Epoch 357
+Val loss:   0.18984
+l1: 0.108 kl: 0.008 loss: 0.190 
+Train loss: 1.65453
+l1: 0.115 kl: 0.154 loss: 1.655 
+
+Epoch 358
+Val loss:   0.18835
+l1: 0.098 kl: 0.009 loss: 0.188 
+Train loss: 1.68414
+l1: 0.114 kl: 0.157 loss: 1.684 
+
+Epoch 359
+Val loss:   0.20070
+l1: 0.114 kl: 0.009 loss: 0.201 
+Train loss: 1.65122
+l1: 0.114 kl: 0.154 loss: 1.651 
+
+Epoch 360
+Val loss:   0.19085
+l1: 0.097 kl: 0.009 loss: 0.191 
+Train loss: 1.61536
+l1: 0.109 kl: 0.151 loss: 1.615 
+
+Epoch 361
+Val loss:   0.18700
+l1: 0.073 kl: 0.011 loss: 0.187 
+Train loss: 1.64343
+l1: 0.114 kl: 0.153 loss: 1.643 
+
+Epoch 362
+Val loss:   0.19717
+l1: 0.100 kl: 0.010 loss: 0.197 
+Train loss: 1.62051
+l1: 0.109 kl: 0.151 loss: 1.621 
+
+Epoch 363
+Val loss:   0.17379
+l1: 0.076 kl: 0.010 loss: 0.174 
+Train loss: 1.71713
+l1: 0.114 kl: 0.160 loss: 1.717 
+
+Epoch 364
+Val loss:   0.18087
+l1: 0.077 kl: 0.010 loss: 0.181 
+Train loss: 1.70122
+l1: 0.106 kl: 0.159 loss: 1.701 
+
+Epoch 365
+Val loss:   0.16885
+l1: 0.081 kl: 0.009 loss: 0.169 
+Train loss: 1.64416
+l1: 0.108 kl: 0.154 loss: 1.644 
+
+Epoch 366
+Val loss:   0.19837
+l1: 0.090 kl: 0.011 loss: 0.198 
+Train loss: 1.57419
+l1: 0.107 kl: 0.147 loss: 1.574 
+
+Epoch 367
+Val loss:   0.21124
+l1: 0.097 kl: 0.011 loss: 0.211 
+Train loss: 1.63381
+l1: 0.105 kl: 0.153 loss: 1.634 
+
+Epoch 368
+Val loss:   0.15145
+l1: 0.060 kl: 0.009 loss: 0.151 
+Train loss: 1.57029
+l1: 0.099 kl: 0.147 loss: 1.570 
+
+Epoch 369
+Val loss:   0.17583
+l1: 0.083 kl: 0.009 loss: 0.176 
+Train loss: 1.55139
+l1: 0.119 kl: 0.143 loss: 1.551 
+
+Epoch 370
+Val loss:   0.20175
+l1: 0.101 kl: 0.010 loss: 0.202 
+Train loss: 1.60624
+l1: 0.109 kl: 0.150 loss: 1.606 
+
+Epoch 371
+Val loss:   0.16291
+l1: 0.089 kl: 0.007 loss: 0.163 
+Train loss: 1.49655
+l1: 0.102 kl: 0.139 loss: 1.497 
+
+Epoch 372
+Val loss:   0.17844
+l1: 0.084 kl: 0.009 loss: 0.178 
+Train loss: 1.57236
+l1: 0.107 kl: 0.147 loss: 1.572 
+
+Epoch 373
+Val loss:   0.16299
+l1: 0.087 kl: 0.008 loss: 0.163 
+Train loss: 1.46815
+l1: 0.105 kl: 0.136 loss: 1.468 
+
+Epoch 374
+Val loss:   0.20752
+l1: 0.093 kl: 0.011 loss: 0.208 
+Train loss: 1.52583
+l1: 0.102 kl: 0.142 loss: 1.526 
+
+Epoch 375
+Val loss:   0.15470
+l1: 0.074 kl: 0.008 loss: 0.155 
+Train loss: 1.57234
+l1: 0.107 kl: 0.147 loss: 1.572 
+
+Epoch 376
+Val loss:   0.19137
+l1: 0.097 kl: 0.009 loss: 0.191 
+Train loss: 1.57132
+l1: 0.102 kl: 0.147 loss: 1.571 
+
+Epoch 377
+Val loss:   0.21320
+l1: 0.108 kl: 0.011 loss: 0.213 
+Train loss: 1.61125
+l1: 0.105 kl: 0.151 loss: 1.611 
+
+Epoch 378
+Val loss:   0.14710
+l1: 0.071 kl: 0.008 loss: 0.147 
+Train loss: 1.63289
+l1: 0.109 kl: 0.152 loss: 1.633 
+
+Epoch 379
+Val loss:   0.19919
+l1: 0.095 kl: 0.010 loss: 0.199 
+Train loss: 1.47377
+l1: 0.107 kl: 0.137 loss: 1.474 
+
+Epoch 380
+Val loss:   0.19730
+l1: 0.083 kl: 0.011 loss: 0.197 
+Train loss: 1.63367
+l1: 0.107 kl: 0.153 loss: 1.634 
+
+Epoch 381
+Val loss:   0.19149
+l1: 0.110 kl: 0.008 loss: 0.191 
+Train loss: 1.61266
+l1: 0.116 kl: 0.150 loss: 1.613 
+
+Epoch 382
+Val loss:   0.21338
+l1: 0.084 kl: 0.013 loss: 0.213 
+Train loss: 1.49036
+l1: 0.102 kl: 0.139 loss: 1.490 
+
+Epoch 383
+Val loss:   0.23211
+l1: 0.103 kl: 0.013 loss: 0.232 
+Train loss: 1.58905
+l1: 0.112 kl: 0.148 loss: 1.589 
+
+Epoch 384
+Val loss:   0.20265
+l1: 0.079 kl: 0.012 loss: 0.203 
+Train loss: 1.53863
+l1: 0.118 kl: 0.142 loss: 1.539 
+
+Epoch 385
+Val loss:   0.21175
+l1: 0.108 kl: 0.010 loss: 0.212 
+Train loss: 1.48697
+l1: 0.111 kl: 0.138 loss: 1.487 
+
+Epoch 386
+Val loss:   0.22382
+l1: 0.081 kl: 0.014 loss: 0.224 
+Train loss: 1.52402
+l1: 0.104 kl: 0.142 loss: 1.524 
+
+Epoch 387
+Val loss:   0.21950
+l1: 0.127 kl: 0.009 loss: 0.220 
+Train loss: 1.52053
+l1: 0.119 kl: 0.140 loss: 1.521 
+
+Epoch 388
+Val loss:   0.15708
+l1: 0.079 kl: 0.008 loss: 0.157 
+Train loss: 1.46770
+l1: 0.112 kl: 0.136 loss: 1.468 
+
+Epoch 389
+Val loss:   0.17441
+l1: 0.076 kl: 0.010 loss: 0.174 
+Train loss: 1.53151
+l1: 0.112 kl: 0.142 loss: 1.532 
+
+Epoch 390
+Val loss:   0.18611
+l1: 0.101 kl: 0.009 loss: 0.186 
+Train loss: 1.56799
+l1: 0.111 kl: 0.146 loss: 1.568 
+
+Epoch 391
+Val loss:   0.18761
+l1: 0.083 kl: 0.010 loss: 0.188 
+Train loss: 1.54485
+l1: 0.103 kl: 0.144 loss: 1.545 
+
+Epoch 392
+Val loss:   0.18098
+l1: 0.070 kl: 0.011 loss: 0.181 
+Train loss: 1.46217
+l1: 0.108 kl: 0.135 loss: 1.462 
+
+Epoch 393
+Val loss:   0.16795
+l1: 0.091 kl: 0.008 loss: 0.168 
+Train loss: 1.51252
+l1: 0.115 kl: 0.140 loss: 1.513 
+
+Epoch 394
+Val loss:   0.19667
+l1: 0.082 kl: 0.011 loss: 0.197 
+Train loss: 1.46281
+l1: 0.108 kl: 0.136 loss: 1.463 
+
+Epoch 395
+Val loss:   0.17222
+l1: 0.070 kl: 0.010 loss: 0.172 
+Train loss: 1.58538
+l1: 0.107 kl: 0.148 loss: 1.585 
+
+Epoch 396
+Val loss:   0.17320
+l1: 0.081 kl: 0.009 loss: 0.173 
+Train loss: 1.48970
+l1: 0.105 kl: 0.138 loss: 1.490 
+
+Epoch 397
+Val loss:   0.15491
+l1: 0.075 kl: 0.008 loss: 0.155 
+Train loss: 1.48207
+l1: 0.108 kl: 0.137 loss: 1.482 
+
+Epoch 398
+Val loss:   0.15403
+l1: 0.076 kl: 0.008 loss: 0.154 
+Train loss: 1.46090
+l1: 0.103 kl: 0.136 loss: 1.461 
+
+Epoch 399
+Val loss:   0.15227
+l1: 0.077 kl: 0.008 loss: 0.152 
+Train loss: 1.53726
+l1: 0.110 kl: 0.143 loss: 1.537 
+
+Epoch 400
+Val loss:   0.16894
+l1: 0.072 kl: 0.010 loss: 0.169 
+Train loss: 1.49399
+l1: 0.101 kl: 0.139 loss: 1.494 
+Saved plots to /XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/models/M4_ACT_k10
+
+Epoch 401
+Val loss:   0.17199
+l1: 0.089 kl: 0.008 loss: 0.172 
+Train loss: 1.49618
+l1: 0.117 kl: 0.138 loss: 1.496 
+
+Epoch 402
+Val loss:   0.17190
+l1: 0.092 kl: 0.008 loss: 0.172 
+Train loss: 1.51962
+l1: 0.103 kl: 0.142 loss: 1.520 
+
+Epoch 403
+Val loss:   0.17613
+l1: 0.068 kl: 0.011 loss: 0.176 
+Train loss: 1.49139
+l1: 0.106 kl: 0.139 loss: 1.491 
+
+Epoch 404
+Val loss:   0.16505
+l1: 0.073 kl: 0.009 loss: 0.165 
+Train loss: 1.50336
+l1: 0.100 kl: 0.140 loss: 1.503 
+
+Epoch 405
+Val loss:   0.16456
+l1: 0.099 kl: 0.007 loss: 0.165 
+Train loss: 1.51853
+l1: 0.103 kl: 0.142 loss: 1.519 
+
+Epoch 406
+Val loss:   0.15684
+l1: 0.078 kl: 0.008 loss: 0.157 
+Train loss: 1.49853
+l1: 0.107 kl: 0.139 loss: 1.499 
+
+Epoch 407
+Val loss:   0.15823
+l1: 0.066 kl: 0.009 loss: 0.158 
+Train loss: 1.55652
+l1: 0.116 kl: 0.144 loss: 1.557 
+
+Epoch 408
+Val loss:   0.14920
+l1: 0.075 kl: 0.007 loss: 0.149 
+Train loss: 1.44128
+l1: 0.100 kl: 0.134 loss: 1.441 
+
+Epoch 409
+Val loss:   0.16048
+l1: 0.088 kl: 0.007 loss: 0.160 
+Train loss: 1.42131
+l1: 0.109 kl: 0.131 loss: 1.421 
+
+Epoch 410
+Val loss:   0.18127
+l1: 0.104 kl: 0.008 loss: 0.181 
+Train loss: 1.49267
+l1: 0.108 kl: 0.138 loss: 1.493 
+
+Epoch 411
+Val loss:   0.18612
+l1: 0.100 kl: 0.009 loss: 0.186 
+Train loss: 1.50311
+l1: 0.098 kl: 0.141 loss: 1.503 
+
+Epoch 412
+Val loss:   0.19118
+l1: 0.099 kl: 0.009 loss: 0.191 
+Train loss: 1.55111
+l1: 0.110 kl: 0.144 loss: 1.551 
+
+Epoch 413
+Val loss:   0.18447
+l1: 0.093 kl: 0.009 loss: 0.184 
+Train loss: 1.51620
+l1: 0.112 kl: 0.140 loss: 1.516 
+
+Epoch 414
+Val loss:   0.18474
+l1: 0.078 kl: 0.011 loss: 0.185 
+Train loss: 1.56640
+l1: 0.101 kl: 0.147 loss: 1.566 
+
+Epoch 415
+Val loss:   0.18153
+l1: 0.095 kl: 0.009 loss: 0.182 
+Train loss: 1.37357
+l1: 0.099 kl: 0.127 loss: 1.374 
+
+Epoch 416
+Val loss:   0.15201
+l1: 0.061 kl: 0.009 loss: 0.152 
+Train loss: 1.44141
+l1: 0.101 kl: 0.134 loss: 1.441 
+
+Epoch 417
+Val loss:   0.19998
+l1: 0.082 kl: 0.012 loss: 0.200 
+Train loss: 1.47905
+l1: 0.101 kl: 0.138 loss: 1.479 
+
+Epoch 418
+Val loss:   0.14151
+l1: 0.065 kl: 0.008 loss: 0.142 
+Train loss: 1.41533
+l1: 0.095 kl: 0.132 loss: 1.415 
+
+Epoch 419
+Val loss:   0.14859
+l1: 0.071 kl: 0.008 loss: 0.149 
+Train loss: 1.46301
+l1: 0.097 kl: 0.137 loss: 1.463 
+
+Epoch 420
+Val loss:   0.15549
+l1: 0.072 kl: 0.008 loss: 0.155 
+Train loss: 1.39632
+l1: 0.099 kl: 0.130 loss: 1.396 
+
+Epoch 421
+Val loss:   0.18915
+l1: 0.095 kl: 0.009 loss: 0.189 
+Train loss: 1.42895
+l1: 0.101 kl: 0.133 loss: 1.429 
+
+Epoch 422
+Val loss:   0.15622
+l1: 0.071 kl: 0.009 loss: 0.156 
+Train loss: 1.42985
+l1: 0.111 kl: 0.132 loss: 1.430 
+
+Epoch 423
+Val loss:   0.18302
+l1: 0.078 kl: 0.011 loss: 0.183 
+Train loss: 1.47964
+l1: 0.102 kl: 0.138 loss: 1.480 
+
+Epoch 424
+Val loss:   0.17602
+l1: 0.081 kl: 0.010 loss: 0.176 
+Train loss: 1.43242
+l1: 0.096 kl: 0.134 loss: 1.432 
+
+Epoch 425
+Val loss:   0.19882
+l1: 0.094 kl: 0.010 loss: 0.199 
+Train loss: 1.44071
+l1: 0.117 kl: 0.132 loss: 1.441 
+
+Epoch 426
+Val loss:   0.19883
+l1: 0.086 kl: 0.011 loss: 0.199 
+Train loss: 1.48858
+l1: 0.103 kl: 0.139 loss: 1.489 
+
+Epoch 427
+Val loss:   0.17393
+l1: 0.099 kl: 0.008 loss: 0.174 
+Train loss: 1.43456
+l1: 0.101 kl: 0.133 loss: 1.435 
+
+Epoch 428
+Val loss:   0.18598
+l1: 0.074 kl: 0.011 loss: 0.186 
+Train loss: 1.54694
+l1: 0.107 kl: 0.144 loss: 1.547 
+
+Epoch 429
+Val loss:   0.15246
+l1: 0.086 kl: 0.007 loss: 0.152 
+Train loss: 1.38562
+l1: 0.101 kl: 0.128 loss: 1.386 
+
+Epoch 430
+Val loss:   0.19895
+l1: 0.085 kl: 0.011 loss: 0.199 
+Train loss: 1.40175
+l1: 0.115 kl: 0.129 loss: 1.402 
+
+Epoch 431
+Val loss:   0.19324
+l1: 0.122 kl: 0.007 loss: 0.193 
+Train loss: 1.50480
+l1: 0.116 kl: 0.139 loss: 1.505 
+
+Epoch 432
+Val loss:   0.19589
+l1: 0.105 kl: 0.009 loss: 0.196 
+Train loss: 1.42628
+l1: 0.109 kl: 0.132 loss: 1.426 
+
+Epoch 433
+Val loss:   0.15286
+l1: 0.067 kl: 0.009 loss: 0.153 
+Train loss: 1.36537
+l1: 0.110 kl: 0.126 loss: 1.365 
+
+Epoch 434
+Val loss:   0.16453
+l1: 0.078 kl: 0.009 loss: 0.165 
+Train loss: 1.42608
+l1: 0.115 kl: 0.131 loss: 1.426 
+
+Epoch 435
+Val loss:   0.17006
+l1: 0.080 kl: 0.009 loss: 0.170 
+Train loss: 1.47092
+l1: 0.108 kl: 0.136 loss: 1.471 
+
+Epoch 436
+Val loss:   0.19162
+l1: 0.090 kl: 0.010 loss: 0.192 
+Train loss: 1.43388
+l1: 0.114 kl: 0.132 loss: 1.434 
+
+Epoch 437
+Val loss:   0.18205
+l1: 0.089 kl: 0.009 loss: 0.182 
+Train loss: 1.45491
+l1: 0.104 kl: 0.135 loss: 1.455 
+
+Epoch 438
+Val loss:   0.18123
+l1: 0.079 kl: 0.010 loss: 0.181 
+Train loss: 1.42053
+l1: 0.103 kl: 0.132 loss: 1.421 
+
+Epoch 439
+Val loss:   0.18194
+l1: 0.091 kl: 0.009 loss: 0.182 
+Train loss: 1.42842
+l1: 0.109 kl: 0.132 loss: 1.428 
+
+Epoch 440
+Val loss:   0.17790
+l1: 0.058 kl: 0.012 loss: 0.178 
+Train loss: 1.36333
+l1: 0.099 kl: 0.126 loss: 1.363 
+
+Epoch 441
+Val loss:   0.17895
+l1: 0.069 kl: 0.011 loss: 0.179 
+Train loss: 1.35780
+l1: 0.102 kl: 0.126 loss: 1.358 
+
+Epoch 442
+Val loss:   0.21536
+l1: 0.112 kl: 0.010 loss: 0.215 
+Train loss: 1.47194
+l1: 0.096 kl: 0.138 loss: 1.472 
+
+Epoch 443
+Val loss:   0.17881
+l1: 0.082 kl: 0.010 loss: 0.179 
+Train loss: 1.34006
+l1: 0.098 kl: 0.124 loss: 1.340 
+
+Epoch 444
+Val loss:   0.18920
+l1: 0.091 kl: 0.010 loss: 0.189 
+Train loss: 1.41793
+l1: 0.100 kl: 0.132 loss: 1.418 
+
+Epoch 445
+Val loss:   0.17618
+l1: 0.069 kl: 0.011 loss: 0.176 
+Train loss: 1.41291
+l1: 0.094 kl: 0.132 loss: 1.413 
+
+Epoch 446
+Val loss:   0.15468
+l1: 0.068 kl: 0.009 loss: 0.155 
+Train loss: 1.37832
+l1: 0.113 kl: 0.126 loss: 1.378 
+
+Epoch 447
+Val loss:   0.27527
+l1: 0.142 kl: 0.013 loss: 0.275 
+Train loss: 1.48859
+l1: 0.111 kl: 0.138 loss: 1.489 
+
+Epoch 448
+Val loss:   0.17666
+l1: 0.091 kl: 0.009 loss: 0.177 
+Train loss: 1.36225
+l1: 0.102 kl: 0.126 loss: 1.362 
+
+Epoch 449
+Val loss:   0.19009
+l1: 0.090 kl: 0.010 loss: 0.190 
+Train loss: 1.39625
+l1: 0.102 kl: 0.129 loss: 1.396 
+
+Epoch 450
+Val loss:   0.19071
+l1: 0.073 kl: 0.012 loss: 0.191 
+Train loss: 1.50546
+l1: 0.097 kl: 0.141 loss: 1.505 
+
+Epoch 451
+Val loss:   0.17240
+l1: 0.100 kl: 0.007 loss: 0.172 
+Train loss: 1.35466
+l1: 0.100 kl: 0.125 loss: 1.355 
+
+Epoch 452
+Val loss:   0.18242
+l1: 0.074 kl: 0.011 loss: 0.182 
+Train loss: 1.40604
+l1: 0.095 kl: 0.131 loss: 1.406 
+
+Epoch 453
+Val loss:   0.16182
+l1: 0.070 kl: 0.009 loss: 0.162 
+Train loss: 1.41685
+l1: 0.102 kl: 0.131 loss: 1.417 
+
+Epoch 454
+Val loss:   0.23119
+l1: 0.126 kl: 0.011 loss: 0.231 
+Train loss: 1.42799
+l1: 0.099 kl: 0.133 loss: 1.428 
+
+Epoch 455
+Val loss:   0.28280
+l1: 0.118 kl: 0.016 loss: 0.283 
+Train loss: 1.44697
+l1: 0.098 kl: 0.135 loss: 1.447 
+
+Epoch 456
+Val loss:   0.17545
+l1: 0.073 kl: 0.010 loss: 0.175 
+Train loss: 1.36637
+l1: 0.092 kl: 0.127 loss: 1.366 
+
+Epoch 457
+Val loss:   0.21956
+l1: 0.073 kl: 0.015 loss: 0.220 
+Train loss: 1.42768
+l1: 0.100 kl: 0.133 loss: 1.428 
+
+Epoch 458
+Val loss:   0.18662
+l1: 0.096 kl: 0.009 loss: 0.187 
+Train loss: 1.39599
+l1: 0.106 kl: 0.129 loss: 1.396 
+
+Epoch 459
+Val loss:   0.18488
+l1: 0.068 kl: 0.012 loss: 0.185 
+Train loss: 1.42566
+l1: 0.106 kl: 0.132 loss: 1.426 
+
+Epoch 460
+Val loss:   0.17563
+l1: 0.079 kl: 0.010 loss: 0.176 
+Train loss: 1.39512
+l1: 0.097 kl: 0.130 loss: 1.395 
+
+Epoch 461
+Val loss:   0.24676
+l1: 0.086 kl: 0.016 loss: 0.247 
+Train loss: 1.37585
+l1: 0.095 kl: 0.128 loss: 1.376 
+
+Epoch 462
+Val loss:   0.18600
+l1: 0.097 kl: 0.009 loss: 0.186 
+Train loss: 1.37817
+l1: 0.099 kl: 0.128 loss: 1.378 
+
+Epoch 463
+Val loss:   0.23125
+l1: 0.104 kl: 0.013 loss: 0.231 
+Train loss: 1.32564
+l1: 0.098 kl: 0.123 loss: 1.326 
+
+Epoch 464
+Val loss:   0.16457
+l1: 0.083 kl: 0.008 loss: 0.165 
+Train loss: 1.31482
+l1: 0.107 kl: 0.121 loss: 1.315 
+
+Epoch 465
+Val loss:   0.18175
+l1: 0.090 kl: 0.009 loss: 0.182 
+Train loss: 1.35653
+l1: 0.100 kl: 0.126 loss: 1.357 
+
+Epoch 466
+Val loss:   0.15398
+l1: 0.072 kl: 0.008 loss: 0.154 
+Train loss: 1.33017
+l1: 0.096 kl: 0.123 loss: 1.330 
+
+Epoch 467
+Val loss:   0.20234
+l1: 0.093 kl: 0.011 loss: 0.202 
+Train loss: 1.34125
+l1: 0.090 kl: 0.125 loss: 1.341 
+
+Epoch 468
+Val loss:   0.16816
+l1: 0.098 kl: 0.007 loss: 0.168 
+Train loss: 1.30623
+l1: 0.099 kl: 0.121 loss: 1.306 
+
+Epoch 469
+Val loss:   0.16474
+l1: 0.067 kl: 0.010 loss: 0.165 
+Train loss: 1.30388
+l1: 0.092 kl: 0.121 loss: 1.304 
+
+Epoch 470
+Val loss:   0.15391
+l1: 0.072 kl: 0.008 loss: 0.154 
+Train loss: 1.30888
+l1: 0.093 kl: 0.122 loss: 1.309 
+
+Epoch 471
+Val loss:   0.16772
+l1: 0.082 kl: 0.009 loss: 0.168 
+Train loss: 1.35984
+l1: 0.090 kl: 0.127 loss: 1.360 
+
+Epoch 472
+Val loss:   0.13898
+l1: 0.070 kl: 0.007 loss: 0.139 
+Train loss: 1.30238
+l1: 0.100 kl: 0.120 loss: 1.302 
+
+Epoch 473
+Val loss:   0.16889
+l1: 0.093 kl: 0.008 loss: 0.169 
+Train loss: 1.39075
+l1: 0.098 kl: 0.129 loss: 1.391 
+
+Epoch 474
+Val loss:   0.16430
+l1: 0.087 kl: 0.008 loss: 0.164 
+Train loss: 1.37982
+l1: 0.102 kl: 0.128 loss: 1.380 
+
+Epoch 475
+Val loss:   0.16591
+l1: 0.083 kl: 0.008 loss: 0.166 
+Train loss: 1.31833
+l1: 0.092 kl: 0.123 loss: 1.318 
+
+Epoch 476
+Val loss:   0.15990
+l1: 0.088 kl: 0.007 loss: 0.160 
+Train loss: 1.34113
+l1: 0.096 kl: 0.124 loss: 1.341 
+
+Epoch 477
+Val loss:   0.17728
+l1: 0.099 kl: 0.008 loss: 0.177 
+Train loss: 1.31651
+l1: 0.096 kl: 0.122 loss: 1.317 
+
+Epoch 478
+Val loss:   0.17610
+l1: 0.074 kl: 0.010 loss: 0.176 
+Train loss: 1.32293
+l1: 0.096 kl: 0.123 loss: 1.323 
+
+Epoch 479
+Val loss:   0.19710
+l1: 0.118 kl: 0.008 loss: 0.197 
+Train loss: 1.30765
+l1: 0.096 kl: 0.121 loss: 1.308 
+
+Epoch 480
+Val loss:   0.14153
+l1: 0.084 kl: 0.006 loss: 0.142 
+Train loss: 1.29918
+l1: 0.088 kl: 0.121 loss: 1.299 
+
+Epoch 481
+Val loss:   0.16545
+l1: 0.070 kl: 0.010 loss: 0.165 
+Train loss: 1.31547
+l1: 0.093 kl: 0.122 loss: 1.315 
+
+Epoch 482
+Val loss:   0.14966
+l1: 0.076 kl: 0.007 loss: 0.150 
+Train loss: 1.26995
+l1: 0.097 kl: 0.117 loss: 1.270 
+
+Epoch 483
+Val loss:   0.17176
+l1: 0.079 kl: 0.009 loss: 0.172 
+Train loss: 1.28527
+l1: 0.095 kl: 0.119 loss: 1.285 
+
+Epoch 484
+Val loss:   0.13923
+l1: 0.071 kl: 0.007 loss: 0.139 
+Train loss: 1.26061
+l1: 0.100 kl: 0.116 loss: 1.261 
+
+Epoch 485
+Val loss:   0.18855
+l1: 0.102 kl: 0.009 loss: 0.189 
+Train loss: 1.30361
+l1: 0.086 kl: 0.122 loss: 1.304 
+
+Epoch 486
+Val loss:   0.16482
+l1: 0.077 kl: 0.009 loss: 0.165 
+Train loss: 1.30737
+l1: 0.094 kl: 0.121 loss: 1.307 
+
+Epoch 487
+Val loss:   0.17928
+l1: 0.089 kl: 0.009 loss: 0.179 
+Train loss: 1.26768
+l1: 0.095 kl: 0.117 loss: 1.268 
+
+Epoch 488
+Val loss:   0.20209
+l1: 0.105 kl: 0.010 loss: 0.202 
+Train loss: 1.39510
+l1: 0.096 kl: 0.130 loss: 1.395 
+
+Epoch 489
+Val loss:   0.15031
+l1: 0.075 kl: 0.007 loss: 0.150 
+Train loss: 1.19378
+l1: 0.090 kl: 0.110 loss: 1.194 
+
+Epoch 490
+Val loss:   0.13720
+l1: 0.075 kl: 0.006 loss: 0.137 
+Train loss: 1.27924
+l1: 0.090 kl: 0.119 loss: 1.279 
+
+Epoch 491
+Val loss:   0.15187
+l1: 0.079 kl: 0.007 loss: 0.152 
+Train loss: 1.23488
+l1: 0.092 kl: 0.114 loss: 1.235 
+
+Epoch 492
+Val loss:   0.16290
+l1: 0.094 kl: 0.007 loss: 0.163 
+Train loss: 1.35259
+l1: 0.097 kl: 0.126 loss: 1.353 
+
+Epoch 493
+Val loss:   0.13763
+l1: 0.062 kl: 0.008 loss: 0.138 
+Train loss: 1.23608
+l1: 0.098 kl: 0.114 loss: 1.236 
+
+Epoch 494
+Val loss:   0.13981
+l1: 0.072 kl: 0.007 loss: 0.140 
+Train loss: 1.25849
+l1: 0.095 kl: 0.116 loss: 1.258 
+
+Epoch 495
+Val loss:   0.18725
+l1: 0.080 kl: 0.011 loss: 0.187 
+Train loss: 1.31171
+l1: 0.104 kl: 0.121 loss: 1.312 
+
+Epoch 496
+Val loss:   0.15735
+l1: 0.064 kl: 0.009 loss: 0.157 
+Train loss: 1.28867
+l1: 0.094 kl: 0.119 loss: 1.289 
+
+Epoch 497
+Val loss:   0.21263
+l1: 0.089 kl: 0.012 loss: 0.213 
+Train loss: 1.26573
+l1: 0.092 kl: 0.117 loss: 1.266 
+
+Epoch 498
+Val loss:   0.13838
+l1: 0.057 kl: 0.008 loss: 0.138 
+Train loss: 1.28404
+l1: 0.095 kl: 0.119 loss: 1.284 
+
+Epoch 499
+Val loss:   0.16712
+l1: 0.076 kl: 0.009 loss: 0.167 
+Train loss: 1.30128
+l1: 0.094 kl: 0.121 loss: 1.301 
+
+Epoch 500
+Val loss:   0.17548
+l1: 0.083 kl: 0.009 loss: 0.175 
+Train loss: 1.29367
+l1: 0.095 kl: 0.120 loss: 1.294 
+Saved plots to /XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/models/M4_ACT_k10
+
+Epoch 501
+Val loss:   0.13253
+l1: 0.060 kl: 0.007 loss: 0.133 
+Train loss: 1.29477
+l1: 0.099 kl: 0.120 loss: 1.295 
+
+Epoch 502
+Val loss:   0.17045
+l1: 0.085 kl: 0.009 loss: 0.170 
+Train loss: 1.22802
+l1: 0.094 kl: 0.113 loss: 1.228 
+
+Epoch 503
+Val loss:   0.14499
+l1: 0.067 kl: 0.008 loss: 0.145 
+Train loss: 1.34639
+l1: 0.103 kl: 0.124 loss: 1.346 
+
+Epoch 504
+Val loss:   0.14824
+l1: 0.082 kl: 0.007 loss: 0.148 
+Train loss: 1.26154
+l1: 0.097 kl: 0.116 loss: 1.262 
+
+Epoch 505
+Val loss:   0.15744
+l1: 0.079 kl: 0.008 loss: 0.157 
+Train loss: 1.31818
+l1: 0.103 kl: 0.121 loss: 1.318 
+
+Epoch 506
+Val loss:   0.15242
+l1: 0.071 kl: 0.008 loss: 0.152 
+Train loss: 1.29096
+l1: 0.099 kl: 0.119 loss: 1.291 
+
+Epoch 507
+Val loss:   0.17123
+l1: 0.091 kl: 0.008 loss: 0.171 
+Train loss: 1.30146
+l1: 0.091 kl: 0.121 loss: 1.301 
+
+Epoch 508
+Val loss:   0.20039
+l1: 0.088 kl: 0.011 loss: 0.200 
+Train loss: 1.21244
+l1: 0.093 kl: 0.112 loss: 1.212 
+
+Epoch 509
+Val loss:   0.14236
+l1: 0.064 kl: 0.008 loss: 0.142 
+Train loss: 1.23099
+l1: 0.101 kl: 0.113 loss: 1.231 
+
+Epoch 510
+Val loss:   0.27233
+l1: 0.145 kl: 0.013 loss: 0.272 
+Train loss: 1.26811
+l1: 0.098 kl: 0.117 loss: 1.268 
+
+Epoch 511
+Val loss:   0.18881
+l1: 0.098 kl: 0.009 loss: 0.189 
+Train loss: 1.26951
+l1: 0.099 kl: 0.117 loss: 1.270 
+
+Epoch 512
+Val loss:   0.20766
+l1: 0.081 kl: 0.013 loss: 0.208 
+Train loss: 1.28860
+l1: 0.091 kl: 0.120 loss: 1.289 
+
+Epoch 513
+Val loss:   0.14081
+l1: 0.061 kl: 0.008 loss: 0.141 
+Train loss: 1.24046
+l1: 0.093 kl: 0.115 loss: 1.240 
+
+Epoch 514
+Val loss:   0.16432
+l1: 0.076 kl: 0.009 loss: 0.164 
+Train loss: 1.27390
+l1: 0.096 kl: 0.118 loss: 1.274 
+
+Epoch 515
+Val loss:   0.14344
+l1: 0.083 kl: 0.006 loss: 0.143 
+Train loss: 1.25243
+l1: 0.093 kl: 0.116 loss: 1.252 
+
+Epoch 516
+Val loss:   0.19080
+l1: 0.084 kl: 0.011 loss: 0.191 
+Train loss: 1.21720
+l1: 0.093 kl: 0.112 loss: 1.217 
+
+Epoch 517
+Val loss:   0.15387
+l1: 0.085 kl: 0.007 loss: 0.154 
+Train loss: 1.24706
+l1: 0.097 kl: 0.115 loss: 1.247 
+
+Epoch 518
+Val loss:   0.16804
+l1: 0.080 kl: 0.009 loss: 0.168 
+Train loss: 1.22756
+l1: 0.092 kl: 0.114 loss: 1.228 
+
+Epoch 519
+Val loss:   0.14867
+l1: 0.052 kl: 0.010 loss: 0.149 
+Train loss: 1.14304
+l1: 0.093 kl: 0.105 loss: 1.143 
+
+Epoch 520
+Val loss:   0.16877
+l1: 0.089 kl: 0.008 loss: 0.169 
+Train loss: 1.23569
+l1: 0.095 kl: 0.114 loss: 1.236 
+
+Epoch 521
+Val loss:   0.19552
+l1: 0.119 kl: 0.008 loss: 0.196 
+Train loss: 1.18829
+l1: 0.088 kl: 0.110 loss: 1.188 
+
+Epoch 522
+Val loss:   0.16790
+l1: 0.069 kl: 0.010 loss: 0.168 
+Train loss: 1.17876
+l1: 0.093 kl: 0.109 loss: 1.179 
+
+Epoch 523
+Val loss:   0.17504
+l1: 0.062 kl: 0.011 loss: 0.175 
+Train loss: 1.18827
+l1: 0.084 kl: 0.110 loss: 1.188 
+
+Epoch 524
+Val loss:   0.18181
+l1: 0.098 kl: 0.008 loss: 0.182 
+Train loss: 1.28934
+l1: 0.086 kl: 0.120 loss: 1.289 
+
+Epoch 525
+Val loss:   0.19866
+l1: 0.081 kl: 0.012 loss: 0.199 
+Train loss: 1.21954
+l1: 0.093 kl: 0.113 loss: 1.220 
+
+Epoch 526
+Val loss:   0.14212
+l1: 0.056 kl: 0.009 loss: 0.142 
+Train loss: 1.22665
+l1: 0.099 kl: 0.113 loss: 1.227 
+
+Epoch 527
+Val loss:   0.16566
+l1: 0.088 kl: 0.008 loss: 0.166 
+Train loss: 1.28926
+l1: 0.094 kl: 0.120 loss: 1.289 
+
+Epoch 528
+Val loss:   0.18206
+l1: 0.089 kl: 0.009 loss: 0.182 
+Train loss: 1.24436
+l1: 0.093 kl: 0.115 loss: 1.244 
+
+Epoch 529
+Val loss:   0.16559
+l1: 0.067 kl: 0.010 loss: 0.166 
+Train loss: 1.21018
+l1: 0.093 kl: 0.112 loss: 1.210 
+
+Epoch 530
+Val loss:   0.15710
+l1: 0.073 kl: 0.008 loss: 0.157 
+Train loss: 1.16798
+l1: 0.098 kl: 0.107 loss: 1.168 
+
+Epoch 531
+Val loss:   0.17438
+l1: 0.100 kl: 0.007 loss: 0.174 
+Train loss: 1.20774
+l1: 0.100 kl: 0.111 loss: 1.208 
+
+Epoch 532
+Val loss:   0.17291
+l1: 0.100 kl: 0.007 loss: 0.173 
+Train loss: 1.18612
+l1: 0.098 kl: 0.109 loss: 1.186 
+
+Epoch 533
+Val loss:   0.18501
+l1: 0.084 kl: 0.010 loss: 0.185 
+Train loss: 1.24516
+l1: 0.104 kl: 0.114 loss: 1.245 
+
+Epoch 534
+Val loss:   0.15317
+l1: 0.088 kl: 0.007 loss: 0.153 
+Train loss: 1.15627
+l1: 0.098 kl: 0.106 loss: 1.156 
+
+Epoch 535
+Val loss:   0.13457
+l1: 0.069 kl: 0.007 loss: 0.135 
+Train loss: 1.19858
+l1: 0.096 kl: 0.110 loss: 1.199 
+
+Epoch 536
+Val loss:   0.18113
+l1: 0.106 kl: 0.008 loss: 0.181 
+Train loss: 1.20429
+l1: 0.104 kl: 0.110 loss: 1.204 
+
+Epoch 537
+Val loss:   0.16204
+l1: 0.085 kl: 0.008 loss: 0.162 
+Train loss: 1.20848
+l1: 0.106 kl: 0.110 loss: 1.208 
+
+Epoch 538
+Val loss:   0.18582
+l1: 0.097 kl: 0.009 loss: 0.186 
+Train loss: 1.18446
+l1: 0.092 kl: 0.109 loss: 1.184 
+
+Epoch 539
+Val loss:   0.16608
+l1: 0.109 kl: 0.006 loss: 0.166 
+Train loss: 1.18713
+l1: 0.103 kl: 0.108 loss: 1.187 
+
+Epoch 540
+Val loss:   0.16813
+l1: 0.099 kl: 0.007 loss: 0.168 
+Train loss: 1.21826
+l1: 0.088 kl: 0.113 loss: 1.218 
+
+Epoch 541
+Val loss:   0.12047
+l1: 0.069 kl: 0.005 loss: 0.120 
+Train loss: 1.20226
+l1: 0.090 kl: 0.111 loss: 1.202 
+
+Epoch 542
+Val loss:   0.14879
+l1: 0.092 kl: 0.006 loss: 0.149 
+Train loss: 1.22612
+l1: 0.091 kl: 0.113 loss: 1.226 
+
+Epoch 543
+Val loss:   0.17083
+l1: 0.087 kl: 0.008 loss: 0.171 
+Train loss: 1.17618
+l1: 0.091 kl: 0.108 loss: 1.176 
+
+Epoch 544
+Val loss:   0.19785
+l1: 0.084 kl: 0.011 loss: 0.198 
+Train loss: 1.21266
+l1: 0.100 kl: 0.111 loss: 1.213 
+
+Epoch 545
+Val loss:   0.17752
+l1: 0.072 kl: 0.011 loss: 0.178 
+Train loss: 1.22640
+l1: 0.088 kl: 0.114 loss: 1.226 
+
+Epoch 546
+Val loss:   0.17495
+l1: 0.078 kl: 0.010 loss: 0.175 
+Train loss: 1.16868
+l1: 0.097 kl: 0.107 loss: 1.169 
+
+Epoch 547
+Val loss:   0.17454
+l1: 0.088 kl: 0.009 loss: 0.175 
+Train loss: 1.19460
+l1: 0.090 kl: 0.110 loss: 1.195 
+
+Epoch 548
+Val loss:   0.19194
+l1: 0.079 kl: 0.011 loss: 0.192 
+Train loss: 1.21807
+l1: 0.098 kl: 0.112 loss: 1.218 
+
+Epoch 549
+Val loss:   0.18468
+l1: 0.088 kl: 0.010 loss: 0.185 
+Train loss: 1.14906
+l1: 0.092 kl: 0.106 loss: 1.149 
+
+Epoch 550
+Val loss:   0.17513
+l1: 0.092 kl: 0.008 loss: 0.175 
+Train loss: 1.20189
+l1: 0.098 kl: 0.110 loss: 1.202 
+
+Epoch 551
+Val loss:   0.14682
+l1: 0.076 kl: 0.007 loss: 0.147 
+Train loss: 1.13795
+l1: 0.085 kl: 0.105 loss: 1.138 
+
+Epoch 552
+Val loss:   0.18465
+l1: 0.108 kl: 0.008 loss: 0.185 
+Train loss: 1.24782
+l1: 0.090 kl: 0.116 loss: 1.248 
+
+Epoch 553
+Val loss:   0.16106
+l1: 0.071 kl: 0.009 loss: 0.161 
+Train loss: 1.12936
+l1: 0.086 kl: 0.104 loss: 1.129 
+
+Epoch 554
+Val loss:   0.12574
+l1: 0.069 kl: 0.006 loss: 0.126 
+Train loss: 1.06520
+l1: 0.092 kl: 0.097 loss: 1.065 
+
+Epoch 555
+Val loss:   0.17056
+l1: 0.080 kl: 0.009 loss: 0.171 
+Train loss: 1.12765
+l1: 0.090 kl: 0.104 loss: 1.128 
+
+Epoch 556
+Val loss:   0.16157
+l1: 0.088 kl: 0.007 loss: 0.162 
+Train loss: 1.20811
+l1: 0.085 kl: 0.112 loss: 1.208 
+
+Epoch 557
+Val loss:   0.17601
+l1: 0.084 kl: 0.009 loss: 0.176 
+Train loss: 1.23071
+l1: 0.088 kl: 0.114 loss: 1.231 
+
+Epoch 558
+Val loss:   0.15099
+l1: 0.084 kl: 0.007 loss: 0.151 
+Train loss: 1.10009
+l1: 0.084 kl: 0.102 loss: 1.100 
+
+Epoch 559
+Val loss:   0.20765
+l1: 0.097 kl: 0.011 loss: 0.208 
+Train loss: 1.21655
+l1: 0.090 kl: 0.113 loss: 1.217 
+
+Epoch 560
+Val loss:   0.15662
+l1: 0.077 kl: 0.008 loss: 0.157 
+Train loss: 1.18070
+l1: 0.090 kl: 0.109 loss: 1.181 
+
+Epoch 561
+Val loss:   0.16285
+l1: 0.086 kl: 0.008 loss: 0.163 
+Train loss: 1.10814
+l1: 0.090 kl: 0.102 loss: 1.108 
+
+Epoch 562
+Val loss:   0.15110
+l1: 0.069 kl: 0.008 loss: 0.151 
+Train loss: 1.12864
+l1: 0.089 kl: 0.104 loss: 1.129 
+
+Epoch 563
+Val loss:   0.11791
+l1: 0.069 kl: 0.005 loss: 0.118 
+Train loss: 1.10892
+l1: 0.094 kl: 0.101 loss: 1.109 
+
+Epoch 564
+Val loss:   0.14895
+l1: 0.080 kl: 0.007 loss: 0.149 
+Train loss: 1.10070
+l1: 0.085 kl: 0.102 loss: 1.101 
+
+Epoch 565
+Val loss:   0.15051
+l1: 0.094 kl: 0.006 loss: 0.151 
+Train loss: 1.23482
+l1: 0.096 kl: 0.114 loss: 1.235 
+
+Epoch 566
+Val loss:   0.16486
+l1: 0.073 kl: 0.009 loss: 0.165 
+Train loss: 1.10776
+l1: 0.095 kl: 0.101 loss: 1.108 
+
+Epoch 567
+Val loss:   0.13516
+l1: 0.068 kl: 0.007 loss: 0.135 
+Train loss: 1.11158
+l1: 0.091 kl: 0.102 loss: 1.112 
+
+Epoch 568
+Val loss:   0.17036
+l1: 0.101 kl: 0.007 loss: 0.170 
+Train loss: 1.10511
+l1: 0.097 kl: 0.101 loss: 1.105 
+
+Epoch 569
+Val loss:   0.18471
+l1: 0.085 kl: 0.010 loss: 0.185 
+Train loss: 1.08686
+l1: 0.100 kl: 0.099 loss: 1.087 
+
+Epoch 570
+Val loss:   0.15115
+l1: 0.070 kl: 0.008 loss: 0.151 
+Train loss: 1.11569
+l1: 0.088 kl: 0.103 loss: 1.116 
+
+Epoch 571
+Val loss:   0.17505
+l1: 0.103 kl: 0.007 loss: 0.175 
+Train loss: 1.11122
+l1: 0.095 kl: 0.102 loss: 1.111 
+
+Epoch 572
+Val loss:   0.14715
+l1: 0.072 kl: 0.008 loss: 0.147 
+Train loss: 1.06899
+l1: 0.094 kl: 0.097 loss: 1.069 
+
+Epoch 573
+Val loss:   0.16707
+l1: 0.097 kl: 0.007 loss: 0.167 
+Train loss: 1.13168
+l1: 0.095 kl: 0.104 loss: 1.132 
+
+Epoch 574
+Val loss:   0.16496
+l1: 0.078 kl: 0.009 loss: 0.165 
+Train loss: 1.14892
+l1: 0.090 kl: 0.106 loss: 1.149 
+
+Epoch 575
+Val loss:   0.17704
+l1: 0.084 kl: 0.009 loss: 0.177 
+Train loss: 1.19921
+l1: 0.093 kl: 0.111 loss: 1.199 
+
+Epoch 576
+Val loss:   0.15295
+l1: 0.075 kl: 0.008 loss: 0.153 
+Train loss: 1.09235
+l1: 0.085 kl: 0.101 loss: 1.092 
+
+Epoch 577
+Val loss:   0.17714
+l1: 0.086 kl: 0.009 loss: 0.177 
+Train loss: 1.20003
+l1: 0.093 kl: 0.111 loss: 1.200 
+
+Epoch 578
+Val loss:   0.14693
+l1: 0.075 kl: 0.007 loss: 0.147 
+Train loss: 1.11872
+l1: 0.094 kl: 0.102 loss: 1.119 
+
+Epoch 579
+Val loss:   0.16886
+l1: 0.091 kl: 0.008 loss: 0.169 
+Train loss: 1.11630
+l1: 0.093 kl: 0.102 loss: 1.116 
+
+Epoch 580
+Val loss:   0.16946
+l1: 0.101 kl: 0.007 loss: 0.169 
+Train loss: 1.16108
+l1: 0.093 kl: 0.107 loss: 1.161 
+
+Epoch 581
+Val loss:   0.13439
+l1: 0.072 kl: 0.006 loss: 0.134 
+Train loss: 1.15279
+l1: 0.098 kl: 0.105 loss: 1.153 
+
+Epoch 582
+Val loss:   0.18610
+l1: 0.089 kl: 0.010 loss: 0.186 
+Train loss: 1.09518
+l1: 0.093 kl: 0.100 loss: 1.095 
+
+Epoch 583
+Val loss:   0.13777
+l1: 0.085 kl: 0.005 loss: 0.138 
+Train loss: 1.03418
+l1: 0.094 kl: 0.094 loss: 1.034 
+
+Epoch 584
+Val loss:   0.13344
+l1: 0.077 kl: 0.006 loss: 0.133 
+Train loss: 1.05041
+l1: 0.086 kl: 0.096 loss: 1.050 
+
+Epoch 585
+Val loss:   0.17188
+l1: 0.093 kl: 0.008 loss: 0.172 
+Train loss: 1.03697
+l1: 0.086 kl: 0.095 loss: 1.037 
+
+Epoch 586
+Val loss:   0.14556
+l1: 0.087 kl: 0.006 loss: 0.146 
+Train loss: 1.10344
+l1: 0.086 kl: 0.102 loss: 1.103 
+
+Epoch 587
+Val loss:   0.13828
+l1: 0.077 kl: 0.006 loss: 0.138 
+Train loss: 1.05289
+l1: 0.094 kl: 0.096 loss: 1.053 
+
+Epoch 588
+Val loss:   0.16434
+l1: 0.083 kl: 0.008 loss: 0.164 
+Train loss: 1.10953
+l1: 0.098 kl: 0.101 loss: 1.110 
+
+Epoch 589
+Val loss:   0.15024
+l1: 0.087 kl: 0.006 loss: 0.150 
+Train loss: 1.05209
+l1: 0.080 kl: 0.097 loss: 1.052 
+
+Epoch 590
+Val loss:   0.12295
+l1: 0.076 kl: 0.005 loss: 0.123 
+Train loss: 1.12084
+l1: 0.093 kl: 0.103 loss: 1.121 
+
+Epoch 591
+Val loss:   0.17929
+l1: 0.080 kl: 0.010 loss: 0.179 
+Train loss: 1.05883
+l1: 0.095 kl: 0.096 loss: 1.059 
+
+Epoch 592
+Val loss:   0.16354
+l1: 0.082 kl: 0.008 loss: 0.164 
+Train loss: 1.06001
+l1: 0.087 kl: 0.097 loss: 1.060 
+
+Epoch 593
+Val loss:   0.12993
+l1: 0.068 kl: 0.006 loss: 0.130 
+Train loss: 1.07159
+l1: 0.085 kl: 0.099 loss: 1.072 
+
+Epoch 594
+Val loss:   0.17547
+l1: 0.099 kl: 0.008 loss: 0.175 
+Train loss: 1.07472
+l1: 0.085 kl: 0.099 loss: 1.075 
+
+Epoch 595
+Val loss:   0.14620
+l1: 0.084 kl: 0.006 loss: 0.146 
+Train loss: 1.06755
+l1: 0.085 kl: 0.098 loss: 1.068 
+
+Epoch 596
+Val loss:   0.12932
+l1: 0.072 kl: 0.006 loss: 0.129 
+Train loss: 1.12503
+l1: 0.088 kl: 0.104 loss: 1.125 
+
+Epoch 597
+Val loss:   0.16081
+l1: 0.074 kl: 0.009 loss: 0.161 
+Train loss: 1.04123
+l1: 0.079 kl: 0.096 loss: 1.041 
+
+Epoch 598
+Val loss:   0.15177
+l1: 0.054 kl: 0.010 loss: 0.152 
+Train loss: 1.01633
+l1: 0.093 kl: 0.092 loss: 1.016 
+
+Epoch 599
+Val loss:   0.15306
+l1: 0.075 kl: 0.008 loss: 0.153 
+Train loss: 1.00053
+l1: 0.085 kl: 0.092 loss: 1.001 
+
+Epoch 600
+Val loss:   0.15327
+l1: 0.078 kl: 0.008 loss: 0.153 
+Train loss: 1.12586
+l1: 0.097 kl: 0.103 loss: 1.126 
+Saved plots to /XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/models/M4_ACT_k10
+
+Epoch 601
+Val loss:   0.13977
+l1: 0.066 kl: 0.007 loss: 0.140 
+Train loss: 1.05826
+l1: 0.088 kl: 0.097 loss: 1.058 
+
+Epoch 602
+Val loss:   0.13938
+l1: 0.076 kl: 0.006 loss: 0.139 
+Train loss: 1.08140
+l1: 0.081 kl: 0.100 loss: 1.081 
+
+Epoch 603
+Val loss:   0.12961
+l1: 0.064 kl: 0.007 loss: 0.130 
+Train loss: 0.98899
+l1: 0.086 kl: 0.090 loss: 0.989 
+
+Epoch 604
+Val loss:   0.17827
+l1: 0.080 kl: 0.010 loss: 0.178 
+Train loss: 1.06848
+l1: 0.088 kl: 0.098 loss: 1.068 
+
+Epoch 605
+Val loss:   0.16207
+l1: 0.071 kl: 0.009 loss: 0.162 
+Train loss: 1.08469
+l1: 0.087 kl: 0.100 loss: 1.085 
+
+Epoch 606
+Val loss:   0.14287
+l1: 0.065 kl: 0.008 loss: 0.143 
+Train loss: 1.07555
+l1: 0.091 kl: 0.098 loss: 1.076 
+
+Epoch 607
+Val loss:   0.16912
+l1: 0.056 kl: 0.011 loss: 0.169 
+Train loss: 1.05613
+l1: 0.083 kl: 0.097 loss: 1.056 
+
+Epoch 608
+Val loss:   0.13058
+l1: 0.067 kl: 0.006 loss: 0.131 
+Train loss: 0.98570
+l1: 0.077 kl: 0.091 loss: 0.986 
+
+Epoch 609
+Val loss:   0.15356
+l1: 0.075 kl: 0.008 loss: 0.154 
+Train loss: 0.99865
+l1: 0.082 kl: 0.092 loss: 0.999 
+
+Epoch 610
+Val loss:   0.14514
+l1: 0.069 kl: 0.008 loss: 0.145 
+Train loss: 1.05729
+l1: 0.082 kl: 0.098 loss: 1.057 
+
+Epoch 611
+Val loss:   0.15540
+l1: 0.078 kl: 0.008 loss: 0.155 
+Train loss: 1.09843
+l1: 0.083 kl: 0.102 loss: 1.098 
+
+Epoch 612
+Val loss:   0.15551
+l1: 0.074 kl: 0.008 loss: 0.156 
+Train loss: 1.03007
+l1: 0.079 kl: 0.095 loss: 1.030 
+
+Epoch 613
+Val loss:   0.14128
+l1: 0.062 kl: 0.008 loss: 0.141 
+Train loss: 1.05321
+l1: 0.083 kl: 0.097 loss: 1.053 
+
+Epoch 614
+Val loss:   0.14599
+l1: 0.077 kl: 0.007 loss: 0.146 
+Train loss: 1.05928
+l1: 0.083 kl: 0.098 loss: 1.059 
+
+Epoch 615
+Val loss:   0.17235
+l1: 0.086 kl: 0.009 loss: 0.172 
+Train loss: 1.07252
+l1: 0.087 kl: 0.099 loss: 1.073 
+
+Epoch 616
+Val loss:   0.13316
+l1: 0.068 kl: 0.006 loss: 0.133 
+Train loss: 1.05440
+l1: 0.087 kl: 0.097 loss: 1.054 
+
+Epoch 617
+Val loss:   0.12210
+l1: 0.063 kl: 0.006 loss: 0.122 
+Train loss: 1.02493
+l1: 0.088 kl: 0.094 loss: 1.025 
+
+Epoch 618
+Val loss:   0.14680
+l1: 0.081 kl: 0.007 loss: 0.147 
+Train loss: 1.04674
+l1: 0.092 kl: 0.095 loss: 1.047 
+
+Epoch 619
+Val loss:   0.18466
+l1: 0.096 kl: 0.009 loss: 0.185 
+Train loss: 1.10853
+l1: 0.097 kl: 0.101 loss: 1.109 
+
+Epoch 620
+Val loss:   0.14186
+l1: 0.071 kl: 0.007 loss: 0.142 
+Train loss: 1.01023
+l1: 0.100 kl: 0.091 loss: 1.010 
+
+Epoch 621
+Val loss:   0.19669
+l1: 0.116 kl: 0.008 loss: 0.197 
+Train loss: 1.00693
+l1: 0.099 kl: 0.091 loss: 1.007 
+
+Epoch 622
+Val loss:   0.12164
+l1: 0.078 kl: 0.004 loss: 0.122 
+Train loss: 1.03266
+l1: 0.091 kl: 0.094 loss: 1.033 
+
+Epoch 623
+Val loss:   0.15408
+l1: 0.086 kl: 0.007 loss: 0.154 
+Train loss: 1.07443
+l1: 0.092 kl: 0.098 loss: 1.074 
+
+Epoch 624
+Val loss:   0.11822
+l1: 0.067 kl: 0.005 loss: 0.118 
+Train loss: 1.10688
+l1: 0.091 kl: 0.102 loss: 1.107 
+
+Epoch 625
+Val loss:   0.19481
+l1: 0.103 kl: 0.009 loss: 0.195 
+Train loss: 1.00107
+l1: 0.087 kl: 0.091 loss: 1.001 
+
+Epoch 626
+Val loss:   0.15841
+l1: 0.084 kl: 0.007 loss: 0.158 
+Train loss: 0.97839
+l1: 0.088 kl: 0.089 loss: 0.978 
+
+Epoch 627
+Val loss:   0.16641
+l1: 0.093 kl: 0.007 loss: 0.166 
+Train loss: 1.01407
+l1: 0.091 kl: 0.092 loss: 1.014 
+
+Epoch 628
+Val loss:   0.12892
+l1: 0.070 kl: 0.006 loss: 0.129 
+Train loss: 1.00248
+l1: 0.086 kl: 0.092 loss: 1.002 
+
+Epoch 629
+Val loss:   0.15511
+l1: 0.084 kl: 0.007 loss: 0.155 
+Train loss: 1.04158
+l1: 0.087 kl: 0.095 loss: 1.042 
+
+Epoch 630
+Val loss:   0.19393
+l1: 0.111 kl: 0.008 loss: 0.194 
+Train loss: 1.00174
+l1: 0.084 kl: 0.092 loss: 1.002 
+
+Epoch 631
+Val loss:   0.14927
+l1: 0.070 kl: 0.008 loss: 0.149 
+Train loss: 1.01084
+l1: 0.091 kl: 0.092 loss: 1.011 
+
+Epoch 632
+Val loss:   0.16708
+l1: 0.104 kl: 0.006 loss: 0.167 
+Train loss: 1.08877
+l1: 0.093 kl: 0.100 loss: 1.089 
+
+Epoch 633
+Val loss:   0.19336
+l1: 0.113 kl: 0.008 loss: 0.193 
+Train loss: 1.02024
+l1: 0.084 kl: 0.094 loss: 1.020 
+
+Epoch 634
+Val loss:   0.14813
+l1: 0.083 kl: 0.007 loss: 0.148 
+Train loss: 0.97886
+l1: 0.085 kl: 0.089 loss: 0.979 
+
+Epoch 635
+Val loss:   0.15863
+l1: 0.072 kl: 0.009 loss: 0.159 
+Train loss: 1.00893
+l1: 0.084 kl: 0.093 loss: 1.009 
+
+Epoch 636
+Val loss:   0.17242
+l1: 0.111 kl: 0.006 loss: 0.172 
+Train loss: 1.01489
+l1: 0.090 kl: 0.092 loss: 1.015 
+
+Epoch 637
+Val loss:   0.18681
+l1: 0.119 kl: 0.007 loss: 0.187 
+Train loss: 1.01162
+l1: 0.087 kl: 0.092 loss: 1.012 
+
+Epoch 638
+Val loss:   0.12139
+l1: 0.074 kl: 0.005 loss: 0.121 
+Train loss: 0.98526
+l1: 0.086 kl: 0.090 loss: 0.985 
+
+Epoch 639
+Val loss:   0.11644
+l1: 0.065 kl: 0.005 loss: 0.116 
+Train loss: 1.04469
+l1: 0.088 kl: 0.096 loss: 1.045 
+
+Epoch 640
+Val loss:   0.12785
+l1: 0.076 kl: 0.005 loss: 0.128 
+Train loss: 0.95661
+l1: 0.087 kl: 0.087 loss: 0.957 
+
+Epoch 641
+Val loss:   0.17631
+l1: 0.100 kl: 0.008 loss: 0.176 
+Train loss: 1.04290
+l1: 0.089 kl: 0.095 loss: 1.043 
+
+Epoch 642
+Val loss:   0.18816
+l1: 0.116 kl: 0.007 loss: 0.188 
+Train loss: 0.99377
+l1: 0.088 kl: 0.091 loss: 0.994 
+
+Epoch 643
+Val loss:   0.17555
+l1: 0.091 kl: 0.008 loss: 0.176 
+Train loss: 1.02008
+l1: 0.093 kl: 0.093 loss: 1.020 
+
+Epoch 644
+Val loss:   0.13467
+l1: 0.075 kl: 0.006 loss: 0.135 
+Train loss: 1.01881
+l1: 0.085 kl: 0.093 loss: 1.019 
+
+Epoch 645
+Val loss:   0.17048
+l1: 0.087 kl: 0.008 loss: 0.170 
+Train loss: 1.02711
+l1: 0.086 kl: 0.094 loss: 1.027 
+
+Epoch 646
+Val loss:   0.14704
+l1: 0.074 kl: 0.007 loss: 0.147 
+Train loss: 1.01832
+l1: 0.090 kl: 0.093 loss: 1.018 
+
+Epoch 647
+Val loss:   0.19806
+l1: 0.131 kl: 0.007 loss: 0.198 
+Train loss: 0.98299
+l1: 0.085 kl: 0.090 loss: 0.983 
+
+Epoch 648
+Val loss:   0.14946
+l1: 0.054 kl: 0.010 loss: 0.149 
+Train loss: 1.02618
+l1: 0.094 kl: 0.093 loss: 1.026 
+
+Epoch 649
+Val loss:   0.14422
+l1: 0.074 kl: 0.007 loss: 0.144 
+Train loss: 0.98184
+l1: 0.093 kl: 0.089 loss: 0.982 
+
+Epoch 650
+Val loss:   0.14945
+l1: 0.075 kl: 0.007 loss: 0.149 
+Train loss: 0.98654
+l1: 0.082 kl: 0.090 loss: 0.987 
+
+Epoch 651
+Val loss:   0.15989
+l1: 0.064 kl: 0.010 loss: 0.160 
+Train loss: 0.99870
+l1: 0.085 kl: 0.091 loss: 0.999 
+
+Epoch 652
+Val loss:   0.13669
+l1: 0.081 kl: 0.006 loss: 0.137 
+Train loss: 0.94211
+l1: 0.083 kl: 0.086 loss: 0.942 
+
+Epoch 653
+Val loss:   0.14528
+l1: 0.069 kl: 0.008 loss: 0.145 
+Train loss: 0.92708
+l1: 0.088 kl: 0.084 loss: 0.927 
+
+Epoch 654
+Val loss:   0.17212
+l1: 0.118 kl: 0.005 loss: 0.172 
+Train loss: 0.96594
+l1: 0.086 kl: 0.088 loss: 0.966 
+
+Epoch 655
+Val loss:   0.12218
+l1: 0.070 kl: 0.005 loss: 0.122 
+Train loss: 0.95180
+l1: 0.086 kl: 0.087 loss: 0.952 
+
+Epoch 656
+Val loss:   0.13750
+l1: 0.079 kl: 0.006 loss: 0.137 
+Train loss: 0.96941
+l1: 0.087 kl: 0.088 loss: 0.969 
+
+Epoch 657
+Val loss:   0.16505
+l1: 0.094 kl: 0.007 loss: 0.165 
+Train loss: 0.98904
+l1: 0.086 kl: 0.090 loss: 0.989 
+
+Epoch 658
+Val loss:   0.13115
+l1: 0.064 kl: 0.007 loss: 0.131 
+Train loss: 0.90934
+l1: 0.077 kl: 0.083 loss: 0.909 
+
+Epoch 659
+Val loss:   0.14100
+l1: 0.091 kl: 0.005 loss: 0.141 
+Train loss: 0.92980
+l1: 0.080 kl: 0.085 loss: 0.930 
+
+Epoch 660
+Val loss:   0.13195
+l1: 0.062 kl: 0.007 loss: 0.132 
+Train loss: 0.92090
+l1: 0.078 kl: 0.084 loss: 0.921 
+
+Epoch 661
+Val loss:   0.11822
+l1: 0.065 kl: 0.005 loss: 0.118 
+Train loss: 0.94348
+l1: 0.081 kl: 0.086 loss: 0.943 
+
+Epoch 662
+Val loss:   0.17360
+l1: 0.103 kl: 0.007 loss: 0.174 
+Train loss: 0.93980
+l1: 0.086 kl: 0.085 loss: 0.940 
+
+Epoch 663
+Val loss:   0.13778
+l1: 0.096 kl: 0.004 loss: 0.138 
+Train loss: 0.92626
+l1: 0.086 kl: 0.084 loss: 0.926 
+
+Epoch 664
+Val loss:   0.14781
+l1: 0.080 kl: 0.007 loss: 0.148 
+Train loss: 0.93158
+l1: 0.090 kl: 0.084 loss: 0.932 
+
+Epoch 665
+Val loss:   0.16654
+l1: 0.099 kl: 0.007 loss: 0.167 
+Train loss: 0.92494
+l1: 0.084 kl: 0.084 loss: 0.925 
+
+Epoch 666
+Val loss:   0.15677
+l1: 0.071 kl: 0.009 loss: 0.157 
+Train loss: 0.98428
+l1: 0.092 kl: 0.089 loss: 0.984 
+
+Epoch 667
+Val loss:   0.16552
+l1: 0.095 kl: 0.007 loss: 0.166 
+Train loss: 0.99784
+l1: 0.090 kl: 0.091 loss: 0.998 
+
+Epoch 668
+Val loss:   0.14342
+l1: 0.080 kl: 0.006 loss: 0.143 
+Train loss: 0.94860
+l1: 0.096 kl: 0.085 loss: 0.949 
+
+Epoch 669
+Val loss:   0.15918
+l1: 0.088 kl: 0.007 loss: 0.159 
+Train loss: 0.93998
+l1: 0.089 kl: 0.085 loss: 0.940 
+
+Epoch 670
+Val loss:   0.15661
+l1: 0.107 kl: 0.005 loss: 0.157 
+Train loss: 0.95131
+l1: 0.097 kl: 0.085 loss: 0.951 
+
+Epoch 671
+Val loss:   0.12727
+l1: 0.058 kl: 0.007 loss: 0.127 
+Train loss: 0.95559
+l1: 0.099 kl: 0.086 loss: 0.956 
+
+Epoch 672
+Val loss:   0.21461
+l1: 0.131 kl: 0.008 loss: 0.215 
+Train loss: 0.93280
+l1: 0.088 kl: 0.084 loss: 0.933 
+
+Epoch 673
+Val loss:   0.13788
+l1: 0.086 kl: 0.005 loss: 0.138 
+Train loss: 0.93521
+l1: 0.088 kl: 0.085 loss: 0.935 
+
+Epoch 674
+Val loss:   0.13973
+l1: 0.079 kl: 0.006 loss: 0.140 
+Train loss: 0.86588
+l1: 0.093 kl: 0.077 loss: 0.866 
+
+Epoch 675
+Val loss:   0.12357
+l1: 0.072 kl: 0.005 loss: 0.124 
+Train loss: 0.87938
+l1: 0.085 kl: 0.079 loss: 0.879 
+
+Epoch 676
+Val loss:   0.14559
+l1: 0.101 kl: 0.004 loss: 0.146 
+Train loss: 0.91417
+l1: 0.092 kl: 0.082 loss: 0.914 
+
+Epoch 677
+Val loss:   0.12740
+l1: 0.081 kl: 0.005 loss: 0.127 
+Train loss: 0.95144
+l1: 0.092 kl: 0.086 loss: 0.951 
+
+Epoch 678
+Val loss:   0.13895
+l1: 0.082 kl: 0.006 loss: 0.139 
+Train loss: 0.94490
+l1: 0.092 kl: 0.085 loss: 0.945 
+
+Epoch 679
+Val loss:   0.13794
+l1: 0.074 kl: 0.006 loss: 0.138 
+Train loss: 0.92919
+l1: 0.082 kl: 0.085 loss: 0.929 
+
+Epoch 680
+Val loss:   0.15309
+l1: 0.082 kl: 0.007 loss: 0.153 
+Train loss: 0.89381
+l1: 0.084 kl: 0.081 loss: 0.894 
+
+Epoch 681
+Val loss:   0.11788
+l1: 0.069 kl: 0.005 loss: 0.118 
+Train loss: 0.87146
+l1: 0.085 kl: 0.079 loss: 0.871 
+
+Epoch 682
+Val loss:   0.12558
+l1: 0.082 kl: 0.004 loss: 0.126 
+Train loss: 0.88102
+l1: 0.091 kl: 0.079 loss: 0.881 
+
+Epoch 683
+Val loss:   0.13898
+l1: 0.082 kl: 0.006 loss: 0.139 
+Train loss: 0.95620
+l1: 0.092 kl: 0.086 loss: 0.956 
+
+Epoch 684
+Val loss:   0.14198
+l1: 0.073 kl: 0.007 loss: 0.142 
+Train loss: 0.91416
+l1: 0.096 kl: 0.082 loss: 0.914 
+
+Epoch 685
+Val loss:   0.15034
+l1: 0.084 kl: 0.007 loss: 0.150 
+Train loss: 0.93093
+l1: 0.086 kl: 0.084 loss: 0.931 
+
+Epoch 686
+Val loss:   0.17832
+l1: 0.093 kl: 0.009 loss: 0.178 
+Train loss: 0.93513
+l1: 0.082 kl: 0.085 loss: 0.935 
+
+Epoch 687
+Val loss:   0.13548
+l1: 0.076 kl: 0.006 loss: 0.135 
+Train loss: 0.97091
+l1: 0.083 kl: 0.089 loss: 0.971 
+
+Epoch 688
+Val loss:   0.12781
+l1: 0.073 kl: 0.006 loss: 0.128 
+Train loss: 0.89780
+l1: 0.073 kl: 0.082 loss: 0.898 
+
+Epoch 689
+Val loss:   0.20711
+l1: 0.126 kl: 0.008 loss: 0.207 
+Train loss: 0.96833
+l1: 0.077 kl: 0.089 loss: 0.968 
+
+Epoch 690
+Val loss:   0.17956
+l1: 0.091 kl: 0.009 loss: 0.180 
+Train loss: 0.94799
+l1: 0.083 kl: 0.087 loss: 0.948 
+
+Epoch 691
+Val loss:   0.13025
+l1: 0.067 kl: 0.006 loss: 0.130 
+Train loss: 0.91374
+l1: 0.084 kl: 0.083 loss: 0.914 
+
+Epoch 692
+Val loss:   0.16735
+l1: 0.092 kl: 0.008 loss: 0.167 
+Train loss: 0.90018
+l1: 0.078 kl: 0.082 loss: 0.900 
+
+Epoch 693
+Val loss:   0.14117
+l1: 0.081 kl: 0.006 loss: 0.141 
+Train loss: 0.88608
+l1: 0.081 kl: 0.081 loss: 0.886 
+
+Epoch 694
+Val loss:   0.18537
+l1: 0.109 kl: 0.008 loss: 0.185 
+Train loss: 0.86999
+l1: 0.084 kl: 0.079 loss: 0.870 
+
+Epoch 695
+Val loss:   0.13273
+l1: 0.076 kl: 0.006 loss: 0.133 
+Train loss: 0.92000
+l1: 0.085 kl: 0.083 loss: 0.920 
+
+Epoch 696
+Val loss:   0.10701
+l1: 0.067 kl: 0.004 loss: 0.107 
+Train loss: 0.94598
+l1: 0.085 kl: 0.086 loss: 0.946 
+
+Epoch 697
+Val loss:   0.15895
+l1: 0.087 kl: 0.007 loss: 0.159 
+Train loss: 0.83831
+l1: 0.082 kl: 0.076 loss: 0.838 
+
+Epoch 698
+Val loss:   0.12156
+l1: 0.062 kl: 0.006 loss: 0.122 
+Train loss: 0.88231
+l1: 0.080 kl: 0.080 loss: 0.882 
+
+Epoch 699
+Val loss:   0.12274
+l1: 0.075 kl: 0.005 loss: 0.123 
+Train loss: 0.83599
+l1: 0.082 kl: 0.075 loss: 0.836 
+
+Epoch 700
+Val loss:   0.14465
+l1: 0.093 kl: 0.005 loss: 0.145 
+Train loss: 0.85115
+l1: 0.078 kl: 0.077 loss: 0.851 
+Saved plots to /XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/models/M4_ACT_k10
+
+Epoch 701
+Val loss:   0.10667
+l1: 0.062 kl: 0.004 loss: 0.107 
+Train loss: 0.89777
+l1: 0.085 kl: 0.081 loss: 0.898 
+
+Epoch 702
+Val loss:   0.14127
+l1: 0.083 kl: 0.006 loss: 0.141 
+Train loss: 0.91561
+l1: 0.083 kl: 0.083 loss: 0.916 
+
+Epoch 703
+Val loss:   0.14025
+l1: 0.089 kl: 0.005 loss: 0.140 
+Train loss: 0.90436
+l1: 0.077 kl: 0.083 loss: 0.904 
+
+Epoch 704
+Val loss:   0.14624
+l1: 0.086 kl: 0.006 loss: 0.146 
+Train loss: 0.87185
+l1: 0.076 kl: 0.080 loss: 0.872 
+
+Epoch 705
+Val loss:   0.20168
+l1: 0.143 kl: 0.006 loss: 0.202 
+Train loss: 0.86381
+l1: 0.092 kl: 0.077 loss: 0.864 
+
+Epoch 706
+Val loss:   0.16561
+l1: 0.115 kl: 0.005 loss: 0.166 
+Train loss: 0.90256
+l1: 0.077 kl: 0.083 loss: 0.903 
+
+Epoch 707
+Val loss:   0.14395
+l1: 0.077 kl: 0.007 loss: 0.144 
+Train loss: 0.88045
+l1: 0.086 kl: 0.079 loss: 0.880 
+
+Epoch 708
+Val loss:   0.12993
+l1: 0.076 kl: 0.005 loss: 0.130 
+Train loss: 0.87109
+l1: 0.083 kl: 0.079 loss: 0.871 
+
+Epoch 709
+Val loss:   0.16432
+l1: 0.094 kl: 0.007 loss: 0.164 
+Train loss: 0.90047
+l1: 0.089 kl: 0.081 loss: 0.900 
+
+Epoch 710
+Val loss:   0.13157
+l1: 0.075 kl: 0.006 loss: 0.132 
+Train loss: 0.87581
+l1: 0.089 kl: 0.079 loss: 0.876 
+
+Epoch 711
+Val loss:   0.12359
+l1: 0.076 kl: 0.005 loss: 0.124 
+Train loss: 0.84223
+l1: 0.072 kl: 0.077 loss: 0.842 
+
+Epoch 712
+Val loss:   0.13699
+l1: 0.088 kl: 0.005 loss: 0.137 
+Train loss: 0.91460
+l1: 0.086 kl: 0.083 loss: 0.915 
+
+Epoch 713
+Val loss:   0.13523
+l1: 0.085 kl: 0.005 loss: 0.135 
+Train loss: 0.88776
+l1: 0.082 kl: 0.081 loss: 0.888 
+
+Epoch 714
+Val loss:   0.15254
+l1: 0.110 kl: 0.004 loss: 0.153 
+Train loss: 0.83969
+l1: 0.089 kl: 0.075 loss: 0.840 
+
+Epoch 715
+Val loss:   0.13077
+l1: 0.075 kl: 0.006 loss: 0.131 
+Train loss: 0.87826
+l1: 0.079 kl: 0.080 loss: 0.878 
+
+Epoch 716
+Val loss:   0.13720
+l1: 0.079 kl: 0.006 loss: 0.137 
+Train loss: 0.83295
+l1: 0.082 kl: 0.075 loss: 0.833 
+
+Epoch 717
+Val loss:   0.13747
+l1: 0.076 kl: 0.006 loss: 0.137 
+Train loss: 0.89403
+l1: 0.091 kl: 0.080 loss: 0.894 
+
+Epoch 718
+Val loss:   0.18590
+l1: 0.102 kl: 0.008 loss: 0.186 
+Train loss: 0.83547
+l1: 0.087 kl: 0.075 loss: 0.835 
+
+Epoch 719
+Val loss:   0.13633
+l1: 0.080 kl: 0.006 loss: 0.136 
+Train loss: 0.82562
+l1: 0.080 kl: 0.075 loss: 0.826 
+
+Epoch 720
+Val loss:   0.11610
+l1: 0.067 kl: 0.005 loss: 0.116 
+Train loss: 0.82703
+l1: 0.082 kl: 0.074 loss: 0.827 
+
+Epoch 721
+Val loss:   0.12952
+l1: 0.070 kl: 0.006 loss: 0.130 
+Train loss: 0.85169
+l1: 0.083 kl: 0.077 loss: 0.852 
+
+Epoch 722
+Val loss:   0.12558
+l1: 0.080 kl: 0.005 loss: 0.126 
+Train loss: 0.87886
+l1: 0.084 kl: 0.080 loss: 0.879 
+
+Epoch 723
+Val loss:   0.12529
+l1: 0.078 kl: 0.005 loss: 0.125 
+Train loss: 0.83839
+l1: 0.079 kl: 0.076 loss: 0.838 
+
+Epoch 724
+Val loss:   0.14043
+l1: 0.074 kl: 0.007 loss: 0.140 
+Train loss: 0.78681
+l1: 0.079 kl: 0.071 loss: 0.787 
+
+Epoch 725
+Val loss:   0.11367
+l1: 0.064 kl: 0.005 loss: 0.114 
+Train loss: 0.84255
+l1: 0.081 kl: 0.076 loss: 0.843 
+
+Epoch 726
+Val loss:   0.15737
+l1: 0.098 kl: 0.006 loss: 0.157 
+Train loss: 0.86101
+l1: 0.078 kl: 0.078 loss: 0.861 
+
+Epoch 727
+Val loss:   0.12484
+l1: 0.071 kl: 0.005 loss: 0.125 
+Train loss: 0.86303
+l1: 0.083 kl: 0.078 loss: 0.863 
+
+Epoch 728
+Val loss:   0.12500
+l1: 0.070 kl: 0.005 loss: 0.125 
+Train loss: 0.81747
+l1: 0.080 kl: 0.074 loss: 0.817 
+
+Epoch 729
+Val loss:   0.13403
+l1: 0.068 kl: 0.007 loss: 0.134 
+Train loss: 0.83146
+l1: 0.082 kl: 0.075 loss: 0.831 
+
+Epoch 730
+Val loss:   0.12807
+l1: 0.075 kl: 0.005 loss: 0.128 
+Train loss: 0.85212
+l1: 0.076 kl: 0.078 loss: 0.852 
+
+Epoch 731
+Val loss:   0.10867
+l1: 0.066 kl: 0.004 loss: 0.109 
+Train loss: 0.88077
+l1: 0.078 kl: 0.080 loss: 0.881 
+
+Epoch 732
+Val loss:   0.12382
+l1: 0.059 kl: 0.007 loss: 0.124 
+Train loss: 0.80885
+l1: 0.076 kl: 0.073 loss: 0.809 
+
+Epoch 733
+Val loss:   0.13984
+l1: 0.088 kl: 0.005 loss: 0.140 
+Train loss: 0.79397
+l1: 0.080 kl: 0.071 loss: 0.794 
+
+Epoch 734
+Val loss:   0.11099
+l1: 0.068 kl: 0.004 loss: 0.111 
+Train loss: 0.87247
+l1: 0.084 kl: 0.079 loss: 0.872 
+
+Epoch 735
+Val loss:   0.11744
+l1: 0.075 kl: 0.004 loss: 0.117 
+Train loss: 0.83938
+l1: 0.078 kl: 0.076 loss: 0.839 
+
+Epoch 736
+Val loss:   0.15464
+l1: 0.091 kl: 0.006 loss: 0.155 
+Train loss: 0.82675
+l1: 0.082 kl: 0.074 loss: 0.827 
+
+Epoch 737
+Val loss:   0.11716
+l1: 0.061 kl: 0.006 loss: 0.117 
+Train loss: 0.83424
+l1: 0.082 kl: 0.075 loss: 0.834 
+
+Epoch 738
+Val loss:   0.14141
+l1: 0.083 kl: 0.006 loss: 0.141 
+Train loss: 0.83864
+l1: 0.077 kl: 0.076 loss: 0.839 
+
+Epoch 739
+Val loss:   0.14117
+l1: 0.078 kl: 0.006 loss: 0.141 
+Train loss: 0.84360
+l1: 0.082 kl: 0.076 loss: 0.844 
+
+Epoch 740
+Val loss:   0.10197
+l1: 0.049 kl: 0.005 loss: 0.102 
+Train loss: 0.77712
+l1: 0.074 kl: 0.070 loss: 0.777 
+
+Epoch 741
+Val loss:   0.12093
+l1: 0.068 kl: 0.005 loss: 0.121 
+Train loss: 0.81893
+l1: 0.079 kl: 0.074 loss: 0.819 
+
+Epoch 742
+Val loss:   0.14676
+l1: 0.096 kl: 0.005 loss: 0.147 
+Train loss: 0.80415
+l1: 0.078 kl: 0.073 loss: 0.804 
+
+Epoch 743
+Val loss:   0.15224
+l1: 0.094 kl: 0.006 loss: 0.152 
+Train loss: 0.78547
+l1: 0.074 kl: 0.071 loss: 0.785 
+
+Epoch 744
+Val loss:   0.12325
+l1: 0.065 kl: 0.006 loss: 0.123 
+Train loss: 0.81056
+l1: 0.074 kl: 0.074 loss: 0.811 
+
+Epoch 745
+Val loss:   0.10738
+l1: 0.061 kl: 0.005 loss: 0.107 
+Train loss: 0.79673
+l1: 0.071 kl: 0.073 loss: 0.797 
+
+Epoch 746
+Val loss:   0.14602
+l1: 0.094 kl: 0.005 loss: 0.146 
+Train loss: 0.78875
+l1: 0.079 kl: 0.071 loss: 0.789 
+
+Epoch 747
+Val loss:   0.11671
+l1: 0.082 kl: 0.003 loss: 0.117 
+Train loss: 0.80661
+l1: 0.084 kl: 0.072 loss: 0.807 
+
+Epoch 748
+Val loss:   0.12509
+l1: 0.069 kl: 0.006 loss: 0.125 
+Train loss: 0.81896
+l1: 0.074 kl: 0.074 loss: 0.819 
+
+Epoch 749
+Val loss:   0.12479
+l1: 0.081 kl: 0.004 loss: 0.125 
+Train loss: 0.81458
+l1: 0.079 kl: 0.074 loss: 0.815 
+
+Epoch 750
+Val loss:   0.14719
+l1: 0.091 kl: 0.006 loss: 0.147 
+Train loss: 0.81415
+l1: 0.075 kl: 0.074 loss: 0.814 
+
+Epoch 751
+Val loss:   0.11378
+l1: 0.058 kl: 0.006 loss: 0.114 
+Train loss: 0.74987
+l1: 0.074 kl: 0.068 loss: 0.750 
+
+Epoch 752
+Val loss:   0.12507
+l1: 0.074 kl: 0.005 loss: 0.125 
+Train loss: 0.76185
+l1: 0.075 kl: 0.069 loss: 0.762 
+
+Epoch 753
+Val loss:   0.12145
+l1: 0.070 kl: 0.005 loss: 0.121 
+Train loss: 0.82004
+l1: 0.074 kl: 0.075 loss: 0.820 
+
+Epoch 754
+Val loss:   0.12057
+l1: 0.073 kl: 0.005 loss: 0.121 
+Train loss: 0.84915
+l1: 0.087 kl: 0.076 loss: 0.849 
+
+Epoch 755
+Val loss:   0.15995
+l1: 0.092 kl: 0.007 loss: 0.160 
+Train loss: 0.82693
+l1: 0.077 kl: 0.075 loss: 0.827 
+
+Epoch 756
+Val loss:   0.14493
+l1: 0.074 kl: 0.007 loss: 0.145 
+Train loss: 0.79819
+l1: 0.077 kl: 0.072 loss: 0.798 
+
+Epoch 757
+Val loss:   0.13381
+l1: 0.074 kl: 0.006 loss: 0.134 
+Train loss: 0.86066
+l1: 0.074 kl: 0.079 loss: 0.861 
+
+Epoch 758
+Val loss:   0.14133
+l1: 0.094 kl: 0.005 loss: 0.141 
+Train loss: 0.77820
+l1: 0.078 kl: 0.070 loss: 0.778 
+
+Epoch 759
+Val loss:   0.13412
+l1: 0.076 kl: 0.006 loss: 0.134 
+Train loss: 0.83037
+l1: 0.078 kl: 0.075 loss: 0.830 
+
+Epoch 760
+Val loss:   0.15145
+l1: 0.069 kl: 0.008 loss: 0.151 
+Train loss: 0.80259
+l1: 0.080 kl: 0.072 loss: 0.803 
+
+Epoch 761
+Val loss:   0.11788
+l1: 0.059 kl: 0.006 loss: 0.118 
+Train loss: 0.78015
+l1: 0.080 kl: 0.070 loss: 0.780 
+
+Epoch 762
+Val loss:   0.16444
+l1: 0.085 kl: 0.008 loss: 0.164 
+Train loss: 0.83918
+l1: 0.079 kl: 0.076 loss: 0.839 
+
+Epoch 763
+Val loss:   0.15662
+l1: 0.095 kl: 0.006 loss: 0.157 
+Train loss: 0.75716
+l1: 0.079 kl: 0.068 loss: 0.757 
+
+Epoch 764
+Val loss:   0.14912
+l1: 0.081 kl: 0.007 loss: 0.149 
+Train loss: 0.76054
+l1: 0.079 kl: 0.068 loss: 0.761 
+
+Epoch 765
+Val loss:   0.14158
+l1: 0.087 kl: 0.005 loss: 0.142 
+Train loss: 0.76302
+l1: 0.073 kl: 0.069 loss: 0.763 
+
+Epoch 766
+Val loss:   0.14124
+l1: 0.092 kl: 0.005 loss: 0.141 
+Train loss: 0.78533
+l1: 0.075 kl: 0.071 loss: 0.785 
+
+Epoch 767
+Val loss:   0.11893
+l1: 0.080 kl: 0.004 loss: 0.119 
+Train loss: 0.76249
+l1: 0.077 kl: 0.069 loss: 0.762 
+
+Epoch 768
+Val loss:   0.12641
+l1: 0.080 kl: 0.005 loss: 0.126 
+Train loss: 0.75257
+l1: 0.082 kl: 0.067 loss: 0.753 
+
+Epoch 769
+Val loss:   0.16260
+l1: 0.103 kl: 0.006 loss: 0.163 
+Train loss: 0.76065
+l1: 0.081 kl: 0.068 loss: 0.761 
+
+Epoch 770
+Val loss:   0.11948
+l1: 0.065 kl: 0.005 loss: 0.119 
+Train loss: 0.80491
+l1: 0.077 kl: 0.073 loss: 0.805 
+
+Epoch 771
+Val loss:   0.17160
+l1: 0.097 kl: 0.007 loss: 0.172 
+Train loss: 0.79325
+l1: 0.076 kl: 0.072 loss: 0.793 
+
+Epoch 772
+Val loss:   0.14068
+l1: 0.088 kl: 0.005 loss: 0.141 
+Train loss: 0.80954
+l1: 0.072 kl: 0.074 loss: 0.810 
+
+Epoch 773
+Val loss:   0.16075
+l1: 0.098 kl: 0.006 loss: 0.161 
+Train loss: 0.79734
+l1: 0.083 kl: 0.071 loss: 0.797 
+
+Epoch 774
+Val loss:   0.14638
+l1: 0.097 kl: 0.005 loss: 0.146 
+Train loss: 0.75580
+l1: 0.074 kl: 0.068 loss: 0.756 
+
+Epoch 775
+Val loss:   0.11364
+l1: 0.078 kl: 0.004 loss: 0.114 
+Train loss: 0.80112
+l1: 0.073 kl: 0.073 loss: 0.801 
+
+Epoch 776
+Val loss:   0.14022
+l1: 0.080 kl: 0.006 loss: 0.140 
+Train loss: 0.74100
+l1: 0.078 kl: 0.066 loss: 0.741 
+
+Epoch 777
+Val loss:   0.13849
+l1: 0.081 kl: 0.006 loss: 0.138 
+Train loss: 0.73805
+l1: 0.079 kl: 0.066 loss: 0.738 
+
+Epoch 778
+Val loss:   0.13324
+l1: 0.080 kl: 0.005 loss: 0.133 
+Train loss: 0.76233
+l1: 0.080 kl: 0.068 loss: 0.762 
+
+Epoch 779
+Val loss:   0.16090
+l1: 0.086 kl: 0.008 loss: 0.161 
+Train loss: 0.80014
+l1: 0.085 kl: 0.072 loss: 0.800 
+
+Epoch 780
+Val loss:   0.15504
+l1: 0.096 kl: 0.006 loss: 0.155 
+Train loss: 0.78032
+l1: 0.086 kl: 0.069 loss: 0.780 
+
+Epoch 781
+Val loss:   0.16215
+l1: 0.112 kl: 0.005 loss: 0.162 
+Train loss: 0.79277
+l1: 0.082 kl: 0.071 loss: 0.793 
+
+Epoch 782
+Val loss:   0.12120
+l1: 0.070 kl: 0.005 loss: 0.121 
+Train loss: 0.78132
+l1: 0.084 kl: 0.070 loss: 0.781 
+
+Epoch 783
+Val loss:   0.10232
+l1: 0.063 kl: 0.004 loss: 0.102 
+Train loss: 0.76652
+l1: 0.081 kl: 0.069 loss: 0.767 
+
+Epoch 784
+Val loss:   0.10620
+l1: 0.063 kl: 0.004 loss: 0.106 
+Train loss: 0.76012
+l1: 0.081 kl: 0.068 loss: 0.760 
+
+Epoch 785
+Val loss:   0.14324
+l1: 0.085 kl: 0.006 loss: 0.143 
+Train loss: 0.75170
+l1: 0.075 kl: 0.068 loss: 0.752 
+
+Epoch 786
+Val loss:   0.13456
+l1: 0.094 kl: 0.004 loss: 0.135 
+Train loss: 0.76191
+l1: 0.083 kl: 0.068 loss: 0.762 
+
+Epoch 787
+Val loss:   0.16199
+l1: 0.070 kl: 0.009 loss: 0.162 
+Train loss: 0.75123
+l1: 0.079 kl: 0.067 loss: 0.751 
+
+Epoch 788
+Val loss:   0.12113
+l1: 0.074 kl: 0.005 loss: 0.121 
+Train loss: 0.76877
+l1: 0.080 kl: 0.069 loss: 0.769 
+
+Epoch 789
+Val loss:   0.11812
+l1: 0.077 kl: 0.004 loss: 0.118 
+Train loss: 0.74567
+l1: 0.080 kl: 0.067 loss: 0.746 
+
+Epoch 790
+Val loss:   0.13572
+l1: 0.078 kl: 0.006 loss: 0.136 
+Train loss: 0.78705
+l1: 0.083 kl: 0.070 loss: 0.787 
+
+Epoch 791
+Val loss:   0.15237
+l1: 0.091 kl: 0.006 loss: 0.152 
+Train loss: 0.73807
+l1: 0.077 kl: 0.066 loss: 0.738 
+
+Epoch 792
+Val loss:   0.10190
+l1: 0.063 kl: 0.004 loss: 0.102 
+Train loss: 0.76710
+l1: 0.075 kl: 0.069 loss: 0.767 
+
+Epoch 793
+Val loss:   0.12845
+l1: 0.080 kl: 0.005 loss: 0.128 
+Train loss: 0.71560
+l1: 0.073 kl: 0.064 loss: 0.716 
+
+Epoch 794
+Val loss:   0.13023
+l1: 0.071 kl: 0.006 loss: 0.130 
+Train loss: 0.71017
+l1: 0.075 kl: 0.064 loss: 0.710 
+
+Epoch 795
+Val loss:   0.12058
+l1: 0.075 kl: 0.005 loss: 0.121 
+Train loss: 0.70485
+l1: 0.076 kl: 0.063 loss: 0.705 
+
+Epoch 796
+Val loss:   0.13428
+l1: 0.087 kl: 0.005 loss: 0.134 
+Train loss: 0.72682
+l1: 0.078 kl: 0.065 loss: 0.727 
+
+Epoch 797
+Val loss:   0.10222
+l1: 0.064 kl: 0.004 loss: 0.102 
+Train loss: 0.70345
+l1: 0.067 kl: 0.064 loss: 0.703 
+
+Epoch 798
+Val loss:   0.14610
+l1: 0.072 kl: 0.007 loss: 0.146 
+Train loss: 0.70582
+l1: 0.070 kl: 0.064 loss: 0.706 
+
+Epoch 799
+Val loss:   0.12429
+l1: 0.065 kl: 0.006 loss: 0.124 
+Train loss: 0.73339
+l1: 0.072 kl: 0.066 loss: 0.733 
+
+Epoch 800
+Val loss:   0.10518
+l1: 0.066 kl: 0.004 loss: 0.105 
+Train loss: 0.73803
+l1: 0.077 kl: 0.066 loss: 0.738 
+Saved plots to /XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/models/M4_ACT_k10
+
+Epoch 801
+Val loss:   0.10161
+l1: 0.070 kl: 0.003 loss: 0.102 
+Train loss: 0.69805
+l1: 0.070 kl: 0.063 loss: 0.698 
+
+Epoch 802
+Val loss:   0.13273
+l1: 0.085 kl: 0.005 loss: 0.133 
+Train loss: 0.67752
+l1: 0.069 kl: 0.061 loss: 0.678 
+
+Epoch 803
+Val loss:   0.12234
+l1: 0.075 kl: 0.005 loss: 0.122 
+Train loss: 0.74892
+l1: 0.075 kl: 0.067 loss: 0.749 
+
+Epoch 804
+Val loss:   0.11353
+l1: 0.065 kl: 0.005 loss: 0.114 
+Train loss: 0.70383
+l1: 0.078 kl: 0.063 loss: 0.704 
+
+Epoch 805
+Val loss:   0.12412
+l1: 0.069 kl: 0.006 loss: 0.124 
+Train loss: 0.71927
+l1: 0.074 kl: 0.065 loss: 0.719 
+
+Epoch 806
+Val loss:   0.10788
+l1: 0.072 kl: 0.004 loss: 0.108 
+Train loss: 0.71537
+l1: 0.081 kl: 0.063 loss: 0.715 
+
+Epoch 807
+Val loss:   0.14372
+l1: 0.089 kl: 0.005 loss: 0.144 
+Train loss: 0.71666
+l1: 0.071 kl: 0.065 loss: 0.717 
+
+Epoch 808
+Val loss:   0.10396
+l1: 0.063 kl: 0.004 loss: 0.104 
+Train loss: 0.75396
+l1: 0.078 kl: 0.068 loss: 0.754 
+
+Epoch 809
+Val loss:   0.10858
+l1: 0.068 kl: 0.004 loss: 0.109 
+Train loss: 0.69614
+l1: 0.077 kl: 0.062 loss: 0.696 
+
+Epoch 810
+Val loss:   0.11833
+l1: 0.070 kl: 0.005 loss: 0.118 
+Train loss: 0.73207
+l1: 0.077 kl: 0.066 loss: 0.732 
+
+Epoch 811
+Val loss:   0.12748
+l1: 0.080 kl: 0.005 loss: 0.127 
+Train loss: 0.70072
+l1: 0.076 kl: 0.062 loss: 0.701 
+
+Epoch 812
+Val loss:   0.14659
+l1: 0.088 kl: 0.006 loss: 0.147 
+Train loss: 0.70118
+l1: 0.075 kl: 0.063 loss: 0.701 
+
+Epoch 813
+Val loss:   0.12532
+l1: 0.077 kl: 0.005 loss: 0.125 
+Train loss: 0.69654
+l1: 0.078 kl: 0.062 loss: 0.697 
+
+Epoch 814
+Val loss:   0.12335
+l1: 0.057 kl: 0.007 loss: 0.123 
+Train loss: 0.72382
+l1: 0.074 kl: 0.065 loss: 0.724 
+
+Epoch 815
+Val loss:   0.12707
+l1: 0.074 kl: 0.005 loss: 0.127 
+Train loss: 0.68583
+l1: 0.073 kl: 0.061 loss: 0.686 
+
+Epoch 816
+Val loss:   0.11917
+l1: 0.064 kl: 0.005 loss: 0.119 
+Train loss: 0.70619
+l1: 0.075 kl: 0.063 loss: 0.706 
+
+Epoch 817
+Val loss:   0.11313
+l1: 0.072 kl: 0.004 loss: 0.113 
+Train loss: 0.71424
+l1: 0.076 kl: 0.064 loss: 0.714 
+
+Epoch 818
+Val loss:   0.11839
+l1: 0.069 kl: 0.005 loss: 0.118 
+Train loss: 0.74562
+l1: 0.073 kl: 0.067 loss: 0.746 
+
+Epoch 819
+Val loss:   0.13438
+l1: 0.080 kl: 0.005 loss: 0.134 
+Train loss: 0.72492
+l1: 0.080 kl: 0.064 loss: 0.725 
+
+Epoch 820
+Val loss:   0.11181
+l1: 0.079 kl: 0.003 loss: 0.112 
+Train loss: 0.75524
+l1: 0.081 kl: 0.067 loss: 0.755 
+
+Epoch 821
+Val loss:   0.10202
+l1: 0.055 kl: 0.005 loss: 0.102 
+Train loss: 0.69586
+l1: 0.077 kl: 0.062 loss: 0.696 
+
+Epoch 822
+Val loss:   0.15086
+l1: 0.094 kl: 0.006 loss: 0.151 
+Train loss: 0.66950
+l1: 0.079 kl: 0.059 loss: 0.669 
+
+Epoch 823
+Val loss:   0.15185
+l1: 0.090 kl: 0.006 loss: 0.152 
+Train loss: 0.73122
+l1: 0.082 kl: 0.065 loss: 0.731 
+
+Epoch 824
+Val loss:   0.11462
+l1: 0.067 kl: 0.005 loss: 0.115 
+Train loss: 0.69684
+l1: 0.082 kl: 0.061 loss: 0.697 
+
+Epoch 825
+Val loss:   0.18277
+l1: 0.111 kl: 0.007 loss: 0.183 
+Train loss: 0.69218
+l1: 0.073 kl: 0.062 loss: 0.692 
+
+Epoch 826
+Val loss:   0.12618
+l1: 0.078 kl: 0.005 loss: 0.126 
+Train loss: 0.74833
+l1: 0.079 kl: 0.067 loss: 0.748 
+
+Epoch 827
+Val loss:   0.15470
+l1: 0.086 kl: 0.007 loss: 0.155 
+Train loss: 0.69321
+l1: 0.078 kl: 0.062 loss: 0.693 
+
+Epoch 828
+Val loss:   0.12237
+l1: 0.080 kl: 0.004 loss: 0.122 
+Train loss: 0.71197
+l1: 0.077 kl: 0.064 loss: 0.712 
+
+Epoch 829
+Val loss:   0.12657
+l1: 0.082 kl: 0.004 loss: 0.127 
+Train loss: 0.68764
+l1: 0.078 kl: 0.061 loss: 0.688 
+
+Epoch 830
+Val loss:   0.11469
+l1: 0.059 kl: 0.006 loss: 0.115 
+Train loss: 0.68194
+l1: 0.077 kl: 0.060 loss: 0.682 
+
+Epoch 831
+Val loss:   0.12545
+l1: 0.083 kl: 0.004 loss: 0.125 
+Train loss: 0.80811
+l1: 0.081 kl: 0.073 loss: 0.808 
+
+Epoch 832
+Val loss:   0.14447
+l1: 0.090 kl: 0.005 loss: 0.144 
+Train loss: 0.67611
+l1: 0.076 kl: 0.060 loss: 0.676 
+
+Epoch 833
+Val loss:   0.16447
+l1: 0.088 kl: 0.008 loss: 0.164 
+Train loss: 0.70173
+l1: 0.079 kl: 0.062 loss: 0.702 
+
+Epoch 834
+Val loss:   0.12819
+l1: 0.086 kl: 0.004 loss: 0.128 
+Train loss: 0.67654
+l1: 0.075 kl: 0.060 loss: 0.677 
+
+Epoch 835
+Val loss:   0.15549
+l1: 0.080 kl: 0.008 loss: 0.155 
+Train loss: 0.72861
+l1: 0.073 kl: 0.066 loss: 0.729 
+
+Epoch 836
+Val loss:   0.11379
+l1: 0.066 kl: 0.005 loss: 0.114 
+Train loss: 0.68717
+l1: 0.077 kl: 0.061 loss: 0.687 
+
+Epoch 837
+Val loss:   0.12836
+l1: 0.069 kl: 0.006 loss: 0.128 
+Train loss: 0.72707
+l1: 0.074 kl: 0.065 loss: 0.727 
+
+Epoch 838
+Val loss:   0.15284
+l1: 0.090 kl: 0.006 loss: 0.153 
+Train loss: 0.70696
+l1: 0.069 kl: 0.064 loss: 0.707 
+
+Epoch 839
+Val loss:   0.12557
+l1: 0.071 kl: 0.005 loss: 0.126 
+Train loss: 0.68656
+l1: 0.070 kl: 0.062 loss: 0.687 
+
+Epoch 840
+Val loss:   0.12539
+l1: 0.071 kl: 0.005 loss: 0.125 
+Train loss: 0.70777
+l1: 0.073 kl: 0.064 loss: 0.708 
+
+Epoch 841
+Val loss:   0.13761
+l1: 0.070 kl: 0.007 loss: 0.138 
+Train loss: 0.68086
+l1: 0.069 kl: 0.061 loss: 0.681 
+
+Epoch 842
+Val loss:   0.13567
+l1: 0.071 kl: 0.006 loss: 0.136 
+Train loss: 0.67971
+l1: 0.071 kl: 0.061 loss: 0.680 
+
+Epoch 843
+Val loss:   0.13738
+l1: 0.086 kl: 0.005 loss: 0.137 
+Train loss: 0.71405
+l1: 0.076 kl: 0.064 loss: 0.714 
+
+Epoch 844
+Val loss:   0.11434
+l1: 0.068 kl: 0.005 loss: 0.114 
+Train loss: 0.65399
+l1: 0.072 kl: 0.058 loss: 0.654 
+
+Epoch 845
+Val loss:   0.14525
+l1: 0.082 kl: 0.006 loss: 0.145 
+Train loss: 0.65559
+l1: 0.063 kl: 0.059 loss: 0.656 
+
+Epoch 846
+Val loss:   0.11293
+l1: 0.070 kl: 0.004 loss: 0.113 
+Train loss: 0.67607
+l1: 0.069 kl: 0.061 loss: 0.676 
+
+Epoch 847
+Val loss:   0.11999
+l1: 0.076 kl: 0.004 loss: 0.120 
+Train loss: 0.64947
+l1: 0.072 kl: 0.058 loss: 0.649 
+
+Epoch 848
+Val loss:   0.14089
+l1: 0.088 kl: 0.005 loss: 0.141 
+Train loss: 0.66284
+l1: 0.073 kl: 0.059 loss: 0.663 
+
+Epoch 849
+Val loss:   0.11540
+l1: 0.073 kl: 0.004 loss: 0.115 
+Train loss: 0.66421
+l1: 0.074 kl: 0.059 loss: 0.664 
+
+Epoch 850
+Val loss:   0.12031
+l1: 0.082 kl: 0.004 loss: 0.120 
+Train loss: 0.66059
+l1: 0.073 kl: 0.059 loss: 0.661 
+
+Epoch 851
+Val loss:   0.11747
+l1: 0.077 kl: 0.004 loss: 0.117 
+Train loss: 0.65903
+l1: 0.074 kl: 0.058 loss: 0.659 
+
+Epoch 852
+Val loss:   0.12285
+l1: 0.067 kl: 0.006 loss: 0.123 
+Train loss: 0.66254
+l1: 0.072 kl: 0.059 loss: 0.663 
+
+Epoch 853
+Val loss:   0.10986
+l1: 0.064 kl: 0.005 loss: 0.110 
+Train loss: 0.64463
+l1: 0.077 kl: 0.057 loss: 0.645 
+
+Epoch 854
+Val loss:   0.11962
+l1: 0.083 kl: 0.004 loss: 0.120 
+Train loss: 0.62640
+l1: 0.072 kl: 0.055 loss: 0.626 
+
+Epoch 855
+Val loss:   0.11495
+l1: 0.071 kl: 0.004 loss: 0.115 
+Train loss: 0.67394
+l1: 0.070 kl: 0.060 loss: 0.674 
+
+Epoch 856
+Val loss:   0.12389
+l1: 0.092 kl: 0.003 loss: 0.124 
+Train loss: 0.67080
+l1: 0.080 kl: 0.059 loss: 0.671 
+
+Epoch 857
+Val loss:   0.12463
+l1: 0.076 kl: 0.005 loss: 0.125 
+Train loss: 0.64650
+l1: 0.079 kl: 0.057 loss: 0.647 
+
+Epoch 858
+Val loss:   0.13810
+l1: 0.092 kl: 0.005 loss: 0.138 
+Train loss: 0.63166
+l1: 0.071 kl: 0.056 loss: 0.632 
+
+Epoch 859
+Val loss:   0.14701
+l1: 0.103 kl: 0.004 loss: 0.147 
+Train loss: 0.64444
+l1: 0.079 kl: 0.057 loss: 0.644 
+
+Epoch 860
+Val loss:   0.12173
+l1: 0.077 kl: 0.004 loss: 0.122 
+Train loss: 0.66368
+l1: 0.081 kl: 0.058 loss: 0.664 
+
+Epoch 861
+Val loss:   0.13470
+l1: 0.095 kl: 0.004 loss: 0.135 
+Train loss: 0.66392
+l1: 0.090 kl: 0.057 loss: 0.664 
+
+Epoch 862
+Val loss:   0.14804
+l1: 0.093 kl: 0.005 loss: 0.148 
+Train loss: 0.65240
+l1: 0.075 kl: 0.058 loss: 0.652 
+
+Epoch 863
+Val loss:   0.14374
+l1: 0.098 kl: 0.005 loss: 0.144 
+Train loss: 0.64348
+l1: 0.077 kl: 0.057 loss: 0.643 
+
+Epoch 864
+Val loss:   0.11907
+l1: 0.076 kl: 0.004 loss: 0.119 
+Train loss: 0.65208
+l1: 0.079 kl: 0.057 loss: 0.652 
+
+Epoch 865
+Val loss:   0.14169
+l1: 0.084 kl: 0.006 loss: 0.142 
+Train loss: 0.64662
+l1: 0.074 kl: 0.057 loss: 0.647 
+
+Epoch 866
+Val loss:   0.11218
+l1: 0.077 kl: 0.004 loss: 0.112 
+Train loss: 0.60179
+l1: 0.067 kl: 0.053 loss: 0.602 
+
+Epoch 867
+Val loss:   0.14185
+l1: 0.088 kl: 0.005 loss: 0.142 
+Train loss: 0.62334
+l1: 0.075 kl: 0.055 loss: 0.623 
+
+Epoch 868
+Val loss:   0.10998
+l1: 0.074 kl: 0.004 loss: 0.110 
+Train loss: 0.66326
+l1: 0.076 kl: 0.059 loss: 0.663 
+
+Epoch 869
+Val loss:   0.13608
+l1: 0.088 kl: 0.005 loss: 0.136 
+Train loss: 0.62851
+l1: 0.073 kl: 0.056 loss: 0.629 
+
+Epoch 870
+Val loss:   0.13759
+l1: 0.077 kl: 0.006 loss: 0.138 
+Train loss: 0.64201
+l1: 0.070 kl: 0.057 loss: 0.642 
+
+Epoch 871
+Val loss:   0.10063
+l1: 0.062 kl: 0.004 loss: 0.101 
+Train loss: 0.62639
+l1: 0.074 kl: 0.055 loss: 0.626 
+
+Epoch 872
+Val loss:   0.11646
+l1: 0.072 kl: 0.004 loss: 0.116 
+Train loss: 0.63455
+l1: 0.069 kl: 0.057 loss: 0.635 
+
+Epoch 873
+Val loss:   0.10575
+l1: 0.076 kl: 0.003 loss: 0.106 
+Train loss: 0.62385
+l1: 0.069 kl: 0.055 loss: 0.624 
+
+Epoch 874
+Val loss:   0.12777
+l1: 0.076 kl: 0.005 loss: 0.128 
+Train loss: 0.68174
+l1: 0.073 kl: 0.061 loss: 0.682 
+
+Epoch 875
+Val loss:   0.11555
+l1: 0.076 kl: 0.004 loss: 0.116 
+Train loss: 0.64319
+l1: 0.077 kl: 0.057 loss: 0.643 
+
+Epoch 876
+Val loss:   0.12690
+l1: 0.075 kl: 0.005 loss: 0.127 
+Train loss: 0.63587
+l1: 0.073 kl: 0.056 loss: 0.636 
+
+Epoch 877
+Val loss:   0.12212
+l1: 0.072 kl: 0.005 loss: 0.122 
+Train loss: 0.65132
+l1: 0.073 kl: 0.058 loss: 0.651 
+
+Epoch 878
+Val loss:   0.10861
+l1: 0.071 kl: 0.004 loss: 0.109 
+Train loss: 0.60078
+l1: 0.064 kl: 0.054 loss: 0.601 
+
+Epoch 879
+Val loss:   0.14326
+l1: 0.098 kl: 0.004 loss: 0.143 
+Train loss: 0.61985
+l1: 0.074 kl: 0.055 loss: 0.620 
+
+Epoch 880
+Val loss:   0.09936
+l1: 0.072 kl: 0.003 loss: 0.099 
+Train loss: 0.62103
+l1: 0.068 kl: 0.055 loss: 0.621 
+
+Epoch 881
+Val loss:   0.09671
+l1: 0.051 kl: 0.005 loss: 0.097 
+Train loss: 0.64555
+l1: 0.078 kl: 0.057 loss: 0.646 
+
+Epoch 882
+Val loss:   0.15389
+l1: 0.095 kl: 0.006 loss: 0.154 
+Train loss: 0.59332
+l1: 0.072 kl: 0.052 loss: 0.593 
+
+Epoch 883
+Val loss:   0.11064
+l1: 0.074 kl: 0.004 loss: 0.111 
+Train loss: 0.61406
+l1: 0.073 kl: 0.054 loss: 0.614 
+
+Epoch 884
+Val loss:   0.12359
+l1: 0.067 kl: 0.006 loss: 0.124 
+Train loss: 0.63919
+l1: 0.072 kl: 0.057 loss: 0.639 
+
+Epoch 885
+Val loss:   0.10251
+l1: 0.069 kl: 0.003 loss: 0.103 
+Train loss: 0.58647
+l1: 0.071 kl: 0.052 loss: 0.586 
+
+Epoch 886
+Val loss:   0.15084
+l1: 0.074 kl: 0.008 loss: 0.151 
+Train loss: 0.63184
+l1: 0.070 kl: 0.056 loss: 0.632 
+
+Epoch 887
+Val loss:   0.13567
+l1: 0.090 kl: 0.005 loss: 0.136 
+Train loss: 0.63058
+l1: 0.068 kl: 0.056 loss: 0.631 
+
+Epoch 888
+Val loss:   0.11958
+l1: 0.074 kl: 0.005 loss: 0.120 
+Train loss: 0.61581
+l1: 0.073 kl: 0.054 loss: 0.616 
+
+Epoch 889
+Val loss:   0.13321
+l1: 0.091 kl: 0.004 loss: 0.133 
+Train loss: 0.61218
+l1: 0.076 kl: 0.054 loss: 0.612 
+
+Epoch 890
+Val loss:   0.11446
+l1: 0.076 kl: 0.004 loss: 0.114 
+Train loss: 0.60911
+l1: 0.077 kl: 0.053 loss: 0.609 
+
+Epoch 891
+Val loss:   0.12092
+l1: 0.076 kl: 0.004 loss: 0.121 
+Train loss: 0.60922
+l1: 0.079 kl: 0.053 loss: 0.609 
+
+Epoch 892
+Val loss:   0.12511
+l1: 0.087 kl: 0.004 loss: 0.125 
+Train loss: 0.62957
+l1: 0.084 kl: 0.055 loss: 0.630 
+
+Epoch 893
+Val loss:   0.15681
+l1: 0.115 kl: 0.004 loss: 0.157 
+Train loss: 0.63263
+l1: 0.088 kl: 0.054 loss: 0.633 
+
+Epoch 894
+Val loss:   0.09843
+l1: 0.050 kl: 0.005 loss: 0.098 
+Train loss: 0.63136
+l1: 0.082 kl: 0.055 loss: 0.631 
+
+Epoch 895
+Val loss:   0.15892
+l1: 0.121 kl: 0.004 loss: 0.159 
+Train loss: 0.60235
+l1: 0.072 kl: 0.053 loss: 0.602 
+
+Epoch 896
+Val loss:   0.14456
+l1: 0.098 kl: 0.005 loss: 0.145 
+Train loss: 0.63010
+l1: 0.077 kl: 0.055 loss: 0.630 
+
+Epoch 897
+Val loss:   0.11973
+l1: 0.070 kl: 0.005 loss: 0.120 
+Train loss: 0.58293
+l1: 0.073 kl: 0.051 loss: 0.583 
+
+Epoch 898
+Val loss:   0.11803
+l1: 0.076 kl: 0.004 loss: 0.118 
+Train loss: 0.58456
+l1: 0.074 kl: 0.051 loss: 0.585 
+
+Epoch 899
+Val loss:   0.12306
+l1: 0.073 kl: 0.005 loss: 0.123 
+Train loss: 0.60291
+l1: 0.078 kl: 0.052 loss: 0.603 
+
+Epoch 900
+Val loss:   0.11966
+l1: 0.080 kl: 0.004 loss: 0.120 
+Train loss: 0.60498
+l1: 0.071 kl: 0.053 loss: 0.605 
+Saved plots to /XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/models/M4_ACT_k10
+
+Epoch 901
+Val loss:   0.15133
+l1: 0.095 kl: 0.006 loss: 0.151 
+Train loss: 0.64288
+l1: 0.075 kl: 0.057 loss: 0.643 
+
+Epoch 902
+Val loss:   0.12104
+l1: 0.070 kl: 0.005 loss: 0.121 
+Train loss: 0.62723
+l1: 0.071 kl: 0.056 loss: 0.627 
+
+Epoch 903
+Val loss:   0.14883
+l1: 0.091 kl: 0.006 loss: 0.149 
+Train loss: 0.60730
+l1: 0.072 kl: 0.054 loss: 0.607 
+
+Epoch 904
+Val loss:   0.10804
+l1: 0.071 kl: 0.004 loss: 0.108 
+Train loss: 0.61960
+l1: 0.075 kl: 0.054 loss: 0.620 
+
+Epoch 905
+Val loss:   0.12601
+l1: 0.074 kl: 0.005 loss: 0.126 
+Train loss: 0.63268
+l1: 0.071 kl: 0.056 loss: 0.633 
+
+Epoch 906
+Val loss:   0.12909
+l1: 0.084 kl: 0.004 loss: 0.129 
+Train loss: 0.58572
+l1: 0.070 kl: 0.052 loss: 0.586 
+
+Epoch 907
+Val loss:   0.13044
+l1: 0.092 kl: 0.004 loss: 0.130 
+Train loss: 0.61072
+l1: 0.075 kl: 0.054 loss: 0.611 
+
+Epoch 908
+Val loss:   0.15111
+l1: 0.106 kl: 0.005 loss: 0.151 
+Train loss: 0.60678
+l1: 0.071 kl: 0.054 loss: 0.607 
+
+Epoch 909
+Val loss:   0.12584
+l1: 0.081 kl: 0.005 loss: 0.126 
+Train loss: 0.57419
+l1: 0.065 kl: 0.051 loss: 0.574 
+
+Epoch 910
+Val loss:   0.09793
+l1: 0.065 kl: 0.003 loss: 0.098 
+Train loss: 0.57707
+l1: 0.071 kl: 0.051 loss: 0.577 
+
+Epoch 911
+Val loss:   0.10758
+l1: 0.054 kl: 0.005 loss: 0.108 
+Train loss: 0.59883
+l1: 0.079 kl: 0.052 loss: 0.599 
+
+Epoch 912
+Val loss:   0.13854
+l1: 0.093 kl: 0.005 loss: 0.139 
+Train loss: 0.61734
+l1: 0.075 kl: 0.054 loss: 0.617 
+
+Epoch 913
+Val loss:   0.11210
+l1: 0.069 kl: 0.004 loss: 0.112 
+Train loss: 0.58111
+l1: 0.067 kl: 0.051 loss: 0.581 
+
+Epoch 914
+Val loss:   0.11623
+l1: 0.075 kl: 0.004 loss: 0.116 
+Train loss: 0.60506
+l1: 0.074 kl: 0.053 loss: 0.605 
+
+Epoch 915
+Val loss:   0.13607
+l1: 0.086 kl: 0.005 loss: 0.136 
+Train loss: 0.59545
+l1: 0.072 kl: 0.052 loss: 0.595 
+
+Epoch 916
+Val loss:   0.09828
+l1: 0.064 kl: 0.003 loss: 0.098 
+Train loss: 0.60816
+l1: 0.071 kl: 0.054 loss: 0.608 
+
+Epoch 917
+Val loss:   0.11633
+l1: 0.079 kl: 0.004 loss: 0.116 
+Train loss: 0.61161
+l1: 0.069 kl: 0.054 loss: 0.612 
+
+Epoch 918
+Val loss:   0.13225
+l1: 0.078 kl: 0.005 loss: 0.132 
+Train loss: 0.56046
+l1: 0.067 kl: 0.049 loss: 0.560 
+
+Epoch 919
+Val loss:   0.14927
+l1: 0.097 kl: 0.005 loss: 0.149 
+Train loss: 0.63170
+l1: 0.070 kl: 0.056 loss: 0.632 
+
+Epoch 920
+Val loss:   0.13416
+l1: 0.084 kl: 0.005 loss: 0.134 
+Train loss: 0.59437
+l1: 0.073 kl: 0.052 loss: 0.594 
+
+Epoch 921
+Val loss:   0.11267
+l1: 0.069 kl: 0.004 loss: 0.113 
+Train loss: 0.55291
+l1: 0.070 kl: 0.048 loss: 0.553 
+
+Epoch 922
+Val loss:   0.11309
+l1: 0.070 kl: 0.004 loss: 0.113 
+Train loss: 0.57114
+l1: 0.068 kl: 0.050 loss: 0.571 
+
+Epoch 923
+Val loss:   0.10500
+l1: 0.066 kl: 0.004 loss: 0.105 
+Train loss: 0.59952
+l1: 0.073 kl: 0.053 loss: 0.600 
+
+Epoch 924
+Val loss:   0.13734
+l1: 0.101 kl: 0.004 loss: 0.137 
+Train loss: 0.57469
+l1: 0.068 kl: 0.051 loss: 0.575 
+
+Epoch 925
+Val loss:   0.11239
+l1: 0.075 kl: 0.004 loss: 0.112 
+Train loss: 0.61282
+l1: 0.072 kl: 0.054 loss: 0.613 
+
+Epoch 926
+Val loss:   0.13230
+l1: 0.078 kl: 0.005 loss: 0.132 
+Train loss: 0.59289
+l1: 0.070 kl: 0.052 loss: 0.593 
+
+Epoch 927
+Val loss:   0.12531
+l1: 0.080 kl: 0.005 loss: 0.125 
+Train loss: 0.57671
+l1: 0.068 kl: 0.051 loss: 0.577 
+
+Epoch 928
+Val loss:   0.14039
+l1: 0.087 kl: 0.005 loss: 0.140 
+Train loss: 0.55881
+l1: 0.067 kl: 0.049 loss: 0.559 
+
+Epoch 929
+Val loss:   0.11501
+l1: 0.079 kl: 0.004 loss: 0.115 
+Train loss: 0.58838
+l1: 0.070 kl: 0.052 loss: 0.588 
+
+Epoch 930
+Val loss:   0.13813
+l1: 0.094 kl: 0.004 loss: 0.138 
+Train loss: 0.55952
+l1: 0.068 kl: 0.049 loss: 0.560 
+
+Epoch 931
+Val loss:   0.11423
+l1: 0.060 kl: 0.005 loss: 0.114 
+Train loss: 0.57257
+l1: 0.070 kl: 0.050 loss: 0.573 
+
+Epoch 932
+Val loss:   0.12471
+l1: 0.084 kl: 0.004 loss: 0.125 
+Train loss: 0.61191
+l1: 0.073 kl: 0.054 loss: 0.612 
+
+Epoch 933
+Val loss:   0.12935
+l1: 0.093 kl: 0.004 loss: 0.129 
+Train loss: 0.56027
+l1: 0.070 kl: 0.049 loss: 0.560 
+
+Epoch 934
+Val loss:   0.10953
+l1: 0.068 kl: 0.004 loss: 0.110 
+Train loss: 0.55670
+l1: 0.068 kl: 0.049 loss: 0.557 
+
+Epoch 935
+Val loss:   0.11521
+l1: 0.073 kl: 0.004 loss: 0.115 
+Train loss: 0.56590
+l1: 0.068 kl: 0.050 loss: 0.566 
+
+Epoch 936
+Val loss:   0.13813
+l1: 0.092 kl: 0.005 loss: 0.138 
+Train loss: 0.59945
+l1: 0.076 kl: 0.052 loss: 0.599 
+
+Epoch 937
+Val loss:   0.11385
+l1: 0.079 kl: 0.003 loss: 0.114 
+Train loss: 0.60454
+l1: 0.081 kl: 0.052 loss: 0.605 
+
+Epoch 938
+Val loss:   0.11024
+l1: 0.072 kl: 0.004 loss: 0.110 
+Train loss: 0.57399
+l1: 0.076 kl: 0.050 loss: 0.574 
+
+Epoch 939
+Val loss:   0.12719
+l1: 0.083 kl: 0.004 loss: 0.127 
+Train loss: 0.54663
+l1: 0.070 kl: 0.048 loss: 0.547 
+
+Epoch 940
+Val loss:   0.13357
+l1: 0.096 kl: 0.004 loss: 0.134 
+Train loss: 0.57374
+l1: 0.075 kl: 0.050 loss: 0.574 
+
+Epoch 941
+Val loss:   0.11326
+l1: 0.081 kl: 0.003 loss: 0.113 
+Train loss: 0.56141
+l1: 0.080 kl: 0.048 loss: 0.561 
+
+Epoch 942
+Val loss:   0.10123
+l1: 0.068 kl: 0.003 loss: 0.101 
+Train loss: 0.56908
+l1: 0.069 kl: 0.050 loss: 0.569 
+
+Epoch 943
+Val loss:   0.13590
+l1: 0.100 kl: 0.004 loss: 0.136 
+Train loss: 0.53845
+l1: 0.070 kl: 0.047 loss: 0.538 
+
+Epoch 944
+Val loss:   0.11793
+l1: 0.087 kl: 0.003 loss: 0.118 
+Train loss: 0.55861
+l1: 0.070 kl: 0.049 loss: 0.559 
+
+Epoch 945
+Val loss:   0.11632
+l1: 0.080 kl: 0.004 loss: 0.116 
+Train loss: 0.55155
+l1: 0.073 kl: 0.048 loss: 0.552 
+
+Epoch 946
+Val loss:   0.13487
+l1: 0.101 kl: 0.003 loss: 0.135 
+Train loss: 0.58382
+l1: 0.070 kl: 0.051 loss: 0.584 
+
+Epoch 947
+Val loss:   0.10337
+l1: 0.063 kl: 0.004 loss: 0.103 
+Train loss: 0.53079
+l1: 0.074 kl: 0.046 loss: 0.531 
+
+Epoch 948
+Val loss:   0.11042
+l1: 0.077 kl: 0.003 loss: 0.110 
+Train loss: 0.55099
+l1: 0.076 kl: 0.047 loss: 0.551 
+
+Epoch 949
+Val loss:   0.14032
+l1: 0.109 kl: 0.003 loss: 0.140 
+Train loss: 0.55864
+l1: 0.083 kl: 0.048 loss: 0.559 
+
+Epoch 950
+Val loss:   0.10906
+l1: 0.065 kl: 0.004 loss: 0.109 
+Train loss: 0.56071
+l1: 0.072 kl: 0.049 loss: 0.561 
+
+Epoch 951
+Val loss:   0.11946
+l1: 0.091 kl: 0.003 loss: 0.119 
+Train loss: 0.54928
+l1: 0.078 kl: 0.047 loss: 0.549 
+
+Epoch 952
+Val loss:   0.10834
+l1: 0.074 kl: 0.003 loss: 0.108 
+Train loss: 0.53172
+l1: 0.074 kl: 0.046 loss: 0.532 
+
+Epoch 953
+Val loss:   0.10128
+l1: 0.066 kl: 0.004 loss: 0.101 
+Train loss: 0.54757
+l1: 0.076 kl: 0.047 loss: 0.548 
+
+Epoch 954
+Val loss:   0.12634
+l1: 0.086 kl: 0.004 loss: 0.126 
+Train loss: 0.54193
+l1: 0.077 kl: 0.047 loss: 0.542 
+
+Epoch 955
+Val loss:   0.11734
+l1: 0.077 kl: 0.004 loss: 0.117 
+Train loss: 0.55716
+l1: 0.073 kl: 0.048 loss: 0.557 
+
+Epoch 956
+Val loss:   0.12014
+l1: 0.087 kl: 0.003 loss: 0.120 
+Train loss: 0.54097
+l1: 0.073 kl: 0.047 loss: 0.541 
+
+Epoch 957
+Val loss:   0.11401
+l1: 0.076 kl: 0.004 loss: 0.114 
+Train loss: 0.54271
+l1: 0.074 kl: 0.047 loss: 0.543 
+
+Epoch 958
+Val loss:   0.10300
+l1: 0.068 kl: 0.004 loss: 0.103 
+Train loss: 0.54980
+l1: 0.070 kl: 0.048 loss: 0.550 
+
+Epoch 959
+Val loss:   0.11766
+l1: 0.079 kl: 0.004 loss: 0.118 
+Train loss: 0.54407
+l1: 0.067 kl: 0.048 loss: 0.544 
+
+Epoch 960
+Val loss:   0.11441
+l1: 0.075 kl: 0.004 loss: 0.114 
+Train loss: 0.54748
+l1: 0.077 kl: 0.047 loss: 0.547 
+
+Epoch 961
+Val loss:   0.11624
+l1: 0.080 kl: 0.004 loss: 0.116 
+Train loss: 0.54024
+l1: 0.070 kl: 0.047 loss: 0.540 
+
+Epoch 962
+Val loss:   0.11672
+l1: 0.074 kl: 0.004 loss: 0.117 
+Train loss: 0.54681
+l1: 0.074 kl: 0.047 loss: 0.547 
+
+Epoch 963
+Val loss:   0.14745
+l1: 0.095 kl: 0.005 loss: 0.147 
+Train loss: 0.54259
+l1: 0.074 kl: 0.047 loss: 0.543 
+
+Epoch 964
+Val loss:   0.10207
+l1: 0.069 kl: 0.003 loss: 0.102 
+Train loss: 0.53199
+l1: 0.070 kl: 0.046 loss: 0.532 
+
+Epoch 965
+Val loss:   0.14381
+l1: 0.110 kl: 0.003 loss: 0.144 
+Train loss: 0.54547
+l1: 0.072 kl: 0.047 loss: 0.545 
+
+Epoch 966
+Val loss:   0.10680
+l1: 0.073 kl: 0.003 loss: 0.107 
+Train loss: 0.53477
+l1: 0.075 kl: 0.046 loss: 0.535 
+
+Epoch 967
+Val loss:   0.12863
+l1: 0.084 kl: 0.004 loss: 0.129 
+Train loss: 0.53686
+l1: 0.071 kl: 0.047 loss: 0.537 
+
+Epoch 968
+Val loss:   0.10338
+l1: 0.063 kl: 0.004 loss: 0.103 
+Train loss: 0.56134
+l1: 0.065 kl: 0.050 loss: 0.561 
+
+Epoch 969
+Val loss:   0.10815
+l1: 0.070 kl: 0.004 loss: 0.108 
+Train loss: 0.55560
+l1: 0.067 kl: 0.049 loss: 0.556 
+
+Epoch 970
+Val loss:   0.10823
+l1: 0.066 kl: 0.004 loss: 0.108 
+Train loss: 0.53160
+l1: 0.063 kl: 0.047 loss: 0.532 
+
+Epoch 971
+Val loss:   0.09482
+l1: 0.059 kl: 0.004 loss: 0.095 
+Train loss: 0.55046
+l1: 0.072 kl: 0.048 loss: 0.550 
+
+Epoch 972
+Val loss:   0.11763
+l1: 0.085 kl: 0.003 loss: 0.118 
+Train loss: 0.55281
+l1: 0.072 kl: 0.048 loss: 0.553 
+
+Epoch 973
+Val loss:   0.12545
+l1: 0.088 kl: 0.004 loss: 0.125 
+Train loss: 0.53493
+l1: 0.073 kl: 0.046 loss: 0.535 
+
+Epoch 974
+Val loss:   0.09669
+l1: 0.066 kl: 0.003 loss: 0.097 
+Train loss: 0.51903
+l1: 0.071 kl: 0.045 loss: 0.519 
+
+Epoch 975
+Val loss:   0.11109
+l1: 0.075 kl: 0.004 loss: 0.111 
+Train loss: 0.52419
+l1: 0.064 kl: 0.046 loss: 0.524 
+
+Epoch 976
+Val loss:   0.10976
+l1: 0.079 kl: 0.003 loss: 0.110 
+Train loss: 0.55141
+l1: 0.065 kl: 0.049 loss: 0.551 
+
+Epoch 977
+Val loss:   0.10108
+l1: 0.064 kl: 0.004 loss: 0.101 
+Train loss: 0.53598
+l1: 0.063 kl: 0.047 loss: 0.536 
+
+Epoch 978
+Val loss:   0.09654
+l1: 0.070 kl: 0.003 loss: 0.097 
+Train loss: 0.52478
+l1: 0.076 kl: 0.045 loss: 0.525 
+
+Epoch 979
+Val loss:   0.11297
+l1: 0.081 kl: 0.003 loss: 0.113 
+Train loss: 0.51754
+l1: 0.064 kl: 0.045 loss: 0.518 
+
+Epoch 980
+Val loss:   0.12595
+l1: 0.085 kl: 0.004 loss: 0.126 
+Train loss: 0.51434
+l1: 0.065 kl: 0.045 loss: 0.514 
+
+Epoch 981
+Val loss:   0.12489
+l1: 0.074 kl: 0.005 loss: 0.125 
+Train loss: 0.54145
+l1: 0.068 kl: 0.047 loss: 0.541 
+
+Epoch 982
+Val loss:   0.11983
+l1: 0.074 kl: 0.005 loss: 0.120 
+Train loss: 0.54527
+l1: 0.069 kl: 0.048 loss: 0.545 
+
+Epoch 983
+Val loss:   0.11485
+l1: 0.063 kl: 0.005 loss: 0.115 
+Train loss: 0.52590
+l1: 0.069 kl: 0.046 loss: 0.526 
+
+Epoch 984
+Val loss:   0.11486
+l1: 0.066 kl: 0.005 loss: 0.115 
+Train loss: 0.53554
+l1: 0.068 kl: 0.047 loss: 0.536 
+
+Epoch 985
+Val loss:   0.11976
+l1: 0.078 kl: 0.004 loss: 0.120 
+Train loss: 0.53414
+l1: 0.071 kl: 0.046 loss: 0.534 
+
+Epoch 986
+Val loss:   0.12001
+l1: 0.081 kl: 0.004 loss: 0.120 
+Train loss: 0.52285
+l1: 0.066 kl: 0.046 loss: 0.523 
+
+Epoch 987
+Val loss:   0.10585
+l1: 0.063 kl: 0.004 loss: 0.106 
+Train loss: 0.55334
+l1: 0.073 kl: 0.048 loss: 0.553 
+
+Epoch 988
+Val loss:   0.11035
+l1: 0.066 kl: 0.004 loss: 0.110 
+Train loss: 0.54208
+l1: 0.064 kl: 0.048 loss: 0.542 
+
+Epoch 989
+Val loss:   0.14504
+l1: 0.108 kl: 0.004 loss: 0.145 
+Train loss: 0.54637
+l1: 0.069 kl: 0.048 loss: 0.546 
+
+Epoch 990
+Val loss:   0.10595
+l1: 0.050 kl: 0.006 loss: 0.106 
+Train loss: 0.50582
+l1: 0.067 kl: 0.044 loss: 0.506 
+
+Epoch 991
+Val loss:   0.11276
+l1: 0.076 kl: 0.004 loss: 0.113 
+Train loss: 0.50789
+l1: 0.070 kl: 0.044 loss: 0.508 
+
+Epoch 992
+Val loss:   0.08625
+l1: 0.062 kl: 0.002 loss: 0.086 
+Train loss: 0.51387
+l1: 0.067 kl: 0.045 loss: 0.514 
+
+Epoch 993
+Val loss:   0.11529
+l1: 0.079 kl: 0.004 loss: 0.115 
+Train loss: 0.51975
+l1: 0.068 kl: 0.045 loss: 0.520 
+
+Epoch 994
+Val loss:   0.10862
+l1: 0.089 kl: 0.002 loss: 0.109 
+Train loss: 0.52024
+l1: 0.074 kl: 0.045 loss: 0.520 
+
+Epoch 995
+Val loss:   0.14740
+l1: 0.102 kl: 0.005 loss: 0.147 
+Train loss: 0.52124
+l1: 0.075 kl: 0.045 loss: 0.521 
+
+Epoch 996
+Val loss:   0.11964
+l1: 0.076 kl: 0.004 loss: 0.120 
+Train loss: 0.51321
+l1: 0.075 kl: 0.044 loss: 0.513 
+
+Epoch 997
+Val loss:   0.10910
+l1: 0.074 kl: 0.003 loss: 0.109 
+Train loss: 0.51832
+l1: 0.067 kl: 0.045 loss: 0.518 
+
+Epoch 998
+Val loss:   0.13551
+l1: 0.096 kl: 0.004 loss: 0.136 
+Train loss: 0.51296
+l1: 0.069 kl: 0.044 loss: 0.513 
+
+Epoch 999
+Val loss:   0.10051
+l1: 0.068 kl: 0.003 loss: 0.101 
+Train loss: 0.51856
+l1: 0.066 kl: 0.045 loss: 0.519 
+Training finished:
+Seed 0, val loss 0.086249 at epoch 992
+Saved plots to /XYFS01/HDD_POOL/sysu_qling/sysu_qling_3/lt/act/E1_results/models/M4_ACT_k10
+Best ckpt, val loss 0.086249 @ epoch992
